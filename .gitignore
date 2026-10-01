@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Raw/intermediate data
+data/raw/*
+data/interim/*
+
+# Keep empty folders visible in Git
+!data/raw/.gitkeep
+!data/interim/.gitkeep
