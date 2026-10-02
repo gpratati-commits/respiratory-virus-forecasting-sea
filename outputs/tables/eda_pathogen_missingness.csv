@@ -1,0 +1,4 @@
+pathogen,nonmissing_weeks,missing_weeks,missing_percent
+Influenza,9159,65,0.7
+RSV,1799,7425,80.5
+SARS-CoV-2,1707,7517,81.49
