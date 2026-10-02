@@ -1,0 +1,11 @@
+COUNTRY_AREA_TERRITORY,first_year,last_year,number_of_years,median_overall_reporting_percent,median_influenza_reporting_percent,median_rsv_reporting_percent,years_influenza_ge_80pct,years_rsv_ge_80pct
+Brunei Darussalam,2021,2026,6,98.075,98.075,98.075,5,5
+Cambodia,2006,2026,21,100.0,100.0,0.0,19,0
+Indonesia,2004,2026,19,100.0,100.0,0.0,16,6
+Lao People's Democratic Republic,2010,2026,17,100.0,100.0,0.0,15,0
+Malaysia,1996,2026,31,100.0,100.0,0.0,28,9
+Myanmar,2016,2026,11,100.0,100.0,0.0,9,0
+Philippines,1997,2026,29,98.11,98.08,0.0,24,9
+Singapore,1997,2026,24,100.0,100.0,0.0,19,0
+Thailand,1997,2026,30,99.03999999999999,99.03999999999999,0.0,22,3
+Viet Nam,2006,2026,21,100.0,100.0,0.0,20,3
