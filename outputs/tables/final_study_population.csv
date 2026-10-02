@@ -1,0 +1,201 @@
+country,ISO_YEAR,good_influenza_year,good_rsv_year,good_joint_year,good_covid_year,case_reporting_percent,influenza_eligible,rsv_eligible,covid_eligible,influenza_rsv_eligible,influenza_covid_eligible,three_pathogen_eligible
+Brunei Darussalam,2020,False,False,False,True,100.0,False,False,True,False,False,False
+Brunei Darussalam,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2024,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2025,True,True,True,False,3.85,True,True,False,True,False,False
+Cambodia,2006,False,False,False,False,,False,False,False,False,False,False
+Cambodia,2007,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2008,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2009,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2010,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2011,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2012,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2013,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2014,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2015,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2016,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2017,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2018,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2019,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2020,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2021,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2022,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2023,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2024,True,False,False,False,,True,False,False,False,False,False
+Cambodia,2025,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2004,False,False,False,False,,False,False,False,False,False,False
+Indonesia,2005,False,False,False,False,,False,False,False,False,False,False
+Indonesia,2010,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2011,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2012,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2013,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2014,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2015,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2016,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2017,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2018,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2019,True,False,False,False,,True,False,False,False,False,False
+Indonesia,2020,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2024,True,True,True,True,82.69,True,True,True,True,True,True
+Indonesia,2025,True,True,True,False,34.62,True,True,False,True,False,False
+Lao People's Democratic Republic,2010,False,False,False,False,,False,False,False,False,False,False
+Lao People's Democratic Republic,2011,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2012,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2013,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2014,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2015,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2016,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2017,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2018,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2019,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2020,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2021,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2022,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2023,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2024,True,False,False,False,,True,False,False,False,False,False
+Lao People's Democratic Republic,2025,True,False,False,False,,True,False,False,False,False,False
+Malaysia,1996,False,False,False,False,,False,False,False,False,False,False
+Malaysia,1997,True,False,False,False,,True,False,False,False,False,False
+Malaysia,1998,True,False,False,False,,True,False,False,False,False,False
+Malaysia,1999,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2000,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2001,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2002,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2003,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2004,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2005,False,False,False,False,,False,False,False,False,False,False
+Malaysia,2006,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2007,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2008,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2009,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2010,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2011,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2012,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2013,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2014,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2015,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2016,True,False,False,False,,True,False,False,False,False,False
+Malaysia,2017,True,True,True,False,,True,True,False,True,False,False
+Malaysia,2018,True,True,True,False,,True,True,False,True,False,False
+Malaysia,2019,True,True,True,False,,True,True,False,True,False,False
+Malaysia,2020,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2024,True,True,True,True,98.08,True,True,True,True,True,True
+Malaysia,2025,True,True,True,False,0.0,True,True,False,True,False,False
+Myanmar,2016,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2017,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2018,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2019,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2020,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2021,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2022,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2023,True,False,False,False,,True,False,False,False,False,False
+Myanmar,2024,False,False,False,False,,False,False,False,False,False,False
+Myanmar,2025,True,False,False,False,,True,False,False,False,False,False
+Philippines,1997,False,False,False,False,,False,False,False,False,False,False
+Philippines,1999,False,False,False,False,,False,False,False,False,False,False
+Philippines,2000,False,False,False,False,,False,False,False,False,False,False
+Philippines,2001,False,False,False,False,,False,False,False,False,False,False
+Philippines,2002,True,False,False,False,,True,False,False,False,False,False
+Philippines,2003,True,False,False,False,,True,False,False,False,False,False
+Philippines,2004,True,False,False,False,,True,False,False,False,False,False
+Philippines,2005,True,False,False,False,,True,False,False,False,False,False
+Philippines,2006,True,False,False,False,,True,False,False,False,False,False
+Philippines,2007,True,False,False,False,,True,False,False,False,False,False
+Philippines,2008,True,False,False,False,,True,False,False,False,False,False
+Philippines,2009,True,False,False,False,,True,False,False,False,False,False
+Philippines,2010,True,False,False,False,,True,False,False,False,False,False
+Philippines,2011,True,False,False,False,,True,False,False,False,False,False
+Philippines,2012,True,False,False,False,,True,False,False,False,False,False
+Philippines,2013,True,False,False,False,,True,False,False,False,False,False
+Philippines,2014,True,False,False,False,,True,False,False,False,False,False
+Philippines,2015,True,False,False,False,,True,False,False,False,False,False
+Philippines,2016,True,False,False,False,,True,False,False,False,False,False
+Philippines,2017,True,True,True,False,,True,True,False,True,False,False
+Philippines,2018,True,True,True,False,,True,True,False,True,False,False
+Philippines,2019,True,True,True,False,,True,True,False,True,False,False
+Philippines,2020,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2024,True,True,True,False,5.77,True,True,False,True,False,False
+Philippines,2025,True,True,True,False,0.0,True,True,False,True,False,False
+Singapore,1997,False,False,False,False,,False,False,False,False,False,False
+Singapore,1998,False,False,False,False,,False,False,False,False,False,False
+Singapore,2001,False,False,False,False,,False,False,False,False,False,False
+Singapore,2002,False,False,False,False,,False,False,False,False,False,False
+Singapore,2007,True,False,False,False,,True,False,False,False,False,False
+Singapore,2008,True,False,False,False,,True,False,False,False,False,False
+Singapore,2009,True,False,False,False,,True,False,False,False,False,False
+Singapore,2010,True,False,False,False,,True,False,False,False,False,False
+Singapore,2011,True,False,False,False,,True,False,False,False,False,False
+Singapore,2012,True,False,False,False,,True,False,False,False,False,False
+Singapore,2013,True,False,False,False,,True,False,False,False,False,False
+Singapore,2014,True,False,False,False,,True,False,False,False,False,False
+Singapore,2015,True,False,False,False,,True,False,False,False,False,False
+Singapore,2016,True,False,False,False,,True,False,False,False,False,False
+Singapore,2017,True,False,False,False,,True,False,False,False,False,False
+Singapore,2018,True,False,False,False,,True,False,False,False,False,False
+Singapore,2019,True,False,False,False,,True,False,False,False,False,False
+Singapore,2020,True,False,False,True,100.0,True,False,True,False,True,False
+Singapore,2021,True,False,False,True,100.0,True,False,True,False,True,False
+Singapore,2022,True,False,False,True,100.0,True,False,True,False,True,False
+Singapore,2023,True,False,False,True,100.0,True,False,True,False,True,False
+Singapore,2024,True,False,False,False,17.31,True,False,False,False,False,False
+Singapore,2025,True,False,False,False,0.0,True,False,False,False,False,False
+Thailand,1997,False,False,False,False,,False,False,False,False,False,False
+Thailand,1998,False,False,False,False,,False,False,False,False,False,False
+Thailand,1999,False,False,False,False,,False,False,False,False,False,False
+Thailand,2000,False,False,False,False,,False,False,False,False,False,False
+Thailand,2001,False,False,False,False,,False,False,False,False,False,False
+Thailand,2002,False,False,False,False,,False,False,False,False,False,False
+Thailand,2003,False,False,False,False,,False,False,False,False,False,False
+Thailand,2004,True,False,False,False,,True,False,False,False,False,False
+Thailand,2005,True,False,False,False,,True,False,False,False,False,False
+Thailand,2006,True,False,False,False,,True,False,False,False,False,False
+Thailand,2007,True,False,False,False,,True,False,False,False,False,False
+Thailand,2008,True,False,False,False,,True,False,False,False,False,False
+Thailand,2009,True,False,False,False,,True,False,False,False,False,False
+Thailand,2010,True,False,False,False,,True,False,False,False,False,False
+Thailand,2011,True,False,False,False,,True,False,False,False,False,False
+Thailand,2012,True,False,False,False,,True,False,False,False,False,False
+Thailand,2013,True,False,False,False,,True,False,False,False,False,False
+Thailand,2014,True,False,False,False,,True,False,False,False,False,False
+Thailand,2015,True,False,False,False,,True,False,False,False,False,False
+Thailand,2016,True,False,False,False,,True,False,False,False,False,False
+Thailand,2017,True,False,False,False,,True,False,False,False,False,False
+Thailand,2018,True,False,False,False,,True,False,False,False,False,False
+Thailand,2019,True,False,False,False,,True,False,False,False,False,False
+Thailand,2020,True,False,False,True,100.0,True,False,True,False,True,False
+Thailand,2021,True,False,False,True,100.0,True,False,True,False,True,False
+Thailand,2022,True,False,False,True,100.0,True,False,True,False,True,False
+Thailand,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Thailand,2024,True,True,True,True,98.08,True,True,True,True,True,True
+Thailand,2025,True,True,True,True,100.0,True,True,True,True,True,True
+Viet Nam,2006,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2007,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2008,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2009,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2010,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2011,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2012,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2013,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2014,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2015,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2016,True,True,True,False,,True,True,False,True,False,False
+Viet Nam,2017,True,True,True,False,,True,True,False,True,False,False
+Viet Nam,2018,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2019,True,False,False,False,,True,False,False,False,False,False
+Viet Nam,2020,True,False,False,True,100.0,True,False,True,False,True,False
+Viet Nam,2021,True,False,False,True,100.0,True,False,True,False,True,False
+Viet Nam,2022,True,False,False,True,100.0,True,False,True,False,True,False
+Viet Nam,2023,True,False,False,True,92.31,True,False,True,False,True,False
+Viet Nam,2024,True,False,False,False,0.0,True,False,False,False,False,False
+Viet Nam,2025,True,True,True,False,0.0,True,True,False,True,False,False

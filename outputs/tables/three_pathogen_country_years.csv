@@ -1,0 +1,22 @@
+country,ISO_YEAR,good_influenza_year,good_rsv_year,good_joint_year,good_covid_year,case_reporting_percent,influenza_eligible,rsv_eligible,covid_eligible,influenza_rsv_eligible,influenza_covid_eligible,three_pathogen_eligible
+Brunei Darussalam,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Brunei Darussalam,2024,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2020,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Indonesia,2024,True,True,True,True,82.69,True,True,True,True,True,True
+Malaysia,2020,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Malaysia,2024,True,True,True,True,98.08,True,True,True,True,True,True
+Philippines,2020,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2021,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2022,True,True,True,True,100.0,True,True,True,True,True,True
+Philippines,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Thailand,2023,True,True,True,True,100.0,True,True,True,True,True,True
+Thailand,2024,True,True,True,True,98.08,True,True,True,True,True,True
+Thailand,2025,True,True,True,True,100.0,True,True,True,True,True,True

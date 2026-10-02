@@ -1,0 +1,11 @@
+country,influenza_years,rsv_years,covid_years,influenza_covid_years,three_pathogen_years
+Brunei Darussalam,5,5,5,4,4
+Cambodia,19,0,0,0,0
+Indonesia,16,6,5,5,5
+Lao People's Democratic Republic,15,0,0,0,0
+Malaysia,28,9,5,5,5
+Myanmar,9,0,0,0,0
+Philippines,24,9,4,4,4
+Singapore,19,0,4,4,0
+Thailand,22,3,6,6,3
+Viet Nam,20,3,4,4,0
