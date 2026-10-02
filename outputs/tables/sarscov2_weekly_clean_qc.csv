@@ -1,0 +1,8 @@
+country,weeks,missing_case_weeks,negative_revision_weeks,zero_case_weeks,maximum_raw_rows_per_week
+Brunei Darussalam,261,0,0,37,1
+Indonesia,261,9,0,20,1
+Malaysia,261,1,0,5,1
+Philippines,209,1,1,7,1
+Singapore,209,0,0,3,1
+Thailand,313,1,0,2,1
+Viet Nam,209,4,0,13,1
