@@ -1,0 +1,11 @@
+country,total_country_weeks,weeks_with_multiple_rows,weeks_with_multiple_origin_sources,maximum_rows_in_one_week,percent_weeks_multiple_rows
+Brunei Darussalam,254,201,201,2,79.13
+Cambodia,988,0,0,1,0.0
+Indonesia,834,0,0,1,0.0
+Lao People's Democratic Republic,778,311,311,2,39.97
+Malaysia,1458,267,267,2,18.31
+Myanmar,467,259,259,2,55.46
+Philippines,1237,52,52,2,4.2
+Singapore,983,43,43,2,4.37
+Thailand,1127,0,0,1,0.0
+Viet Nam,1039,183,183,3,17.61

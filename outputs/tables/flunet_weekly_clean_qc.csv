@@ -1,0 +1,11 @@
+country,weeks,weeks_multiple_sources,influenza_positive_missing,rsv_positive_missing,invalid_influenza_denominator_weeks,invalid_rsv_denominator_weeks
+Brunei Darussalam,254,201,0,0,21,254
+Cambodia,988,0,1,988,3,988
+Indonesia,834,0,0,521,3,834
+Lao People's Democratic Republic,778,311,0,778,7,778
+Malaysia,1458,267,0,999,0,1433
+Myanmar,467,259,0,467,207,467
+Philippines,1237,52,3,775,64,1185
+Singapore,983,43,0,983,16,983
+Thailand,1127,0,0,971,5,1127
+Viet Nam,1039,183,2,884,41,1039
