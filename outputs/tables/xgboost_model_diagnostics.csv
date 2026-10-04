@@ -1,0 +1,154 @@
+analysis_group,country,target_pathogen,forecast_horizon_weeks,model,status,message,chosen_config_id,chosen_rounds,validation_mae,n_train,n_validation,n_test
+exploratory_regional,Thailand,influenza,1,M1,success,,C,37,10.155270056329472,47,53,47
+exploratory_regional,Thailand,influenza,1,M2,success,,B,10,11.744721621086795,47,53,47
+exploratory_regional,Thailand,influenza,1,M3,success,,D,19,12.973922169998108,47,53,47
+exploratory_regional,Thailand,influenza,2,M1,success,,B,12,10.669759822887078,46,53,47
+exploratory_regional,Thailand,influenza,2,M2,success,,B,10,11.974959093121363,46,53,47
+exploratory_regional,Thailand,influenza,2,M3,success,,E,4,12.990440813473834,46,53,47
+exploratory_regional,Thailand,influenza,4,M1,success,,C,15,11.856441039406615,44,53,47
+exploratory_regional,Thailand,influenza,4,M2,success,,B,4,12.711041919550725,44,53,47
+exploratory_regional,Thailand,influenza,4,M3,success,,D,1,13.259429618853831,44,53,47
+exploratory_regional,Thailand,rsv,1,M1,success,,D,57,5.035187699849867,43,53,47
+exploratory_regional,Thailand,rsv,1,M2,success,,A,57,4.692178655878615,43,53,47
+exploratory_regional,Thailand,rsv,1,M3,success,,B,38,4.731659504862806,43,53,47
+exploratory_regional,Thailand,rsv,2,M1,success,,B,11,5.318610585288204,42,53,47
+exploratory_regional,Thailand,rsv,2,M2,success,,C,44,4.49502094667748,42,53,47
+exploratory_regional,Thailand,rsv,2,M3,success,,E,64,4.2905652156382565,42,53,47
+exploratory_regional,Thailand,rsv,4,M1,success,,B,5,6.70486680953613,40,53,47
+exploratory_regional,Thailand,rsv,4,M2,success,,B,22,6.286924393956405,40,53,47
+exploratory_regional,Thailand,rsv,4,M3,success,,D,32,6.695814897915673,40,53,47
+exploratory_regional,Thailand,sarscov2,1,M1,success,,E,159,261.2165917816758,47,52,46
+exploratory_regional,Thailand,sarscov2,1,M2,success,,E,149,278.7033767308622,47,52,46
+exploratory_regional,Thailand,sarscov2,1,M3,success,,E,196,434.481176531428,47,52,46
+exploratory_regional,Thailand,sarscov2,2,M1,success,,E,19,476.8807116177973,46,52,46
+exploratory_regional,Thailand,sarscov2,2,M2,success,,F,33,478.97344752582507,46,52,46
+exploratory_regional,Thailand,sarscov2,2,M3,success,,D,31,499.7422533754403,46,52,46
+exploratory_regional,Thailand,sarscov2,4,M1,success,,F,10,487.5945375984221,44,52,46
+exploratory_regional,Thailand,sarscov2,4,M2,success,,E,726,425.39466097927556,44,52,46
+exploratory_regional,Thailand,sarscov2,4,M3,success,,E,219,471.69059967529785,44,52,46
+primary_regional,Brunei Darussalam,influenza,1,M1,success,,C,94,2.764770779127245,95,52,31
+primary_regional,Brunei Darussalam,influenza,1,M2,success,,F,120,2.943189138110406,95,52,31
+primary_regional,Brunei Darussalam,influenza,1,M3,success,,F,124,2.6716380236850363,95,52,31
+primary_regional,Brunei Darussalam,influenza,2,M1,success,,E,69,2.8233170823857696,94,52,32
+primary_regional,Brunei Darussalam,influenza,2,M2,success,,E,157,2.943110581373761,94,52,32
+primary_regional,Brunei Darussalam,influenza,2,M3,success,,E,148,2.612920975120267,94,52,32
+primary_regional,Brunei Darussalam,influenza,4,M1,success,,E,75,2.7674765942166104,92,52,32
+primary_regional,Brunei Darussalam,influenza,4,M2,success,,E,189,2.7721129868811327,92,52,32
+primary_regional,Brunei Darussalam,influenza,4,M3,success,,D,542,2.8311998844238193,92,52,32
+primary_regional,Brunei Darussalam,rsv,1,M1,success,,B,109,2.576629498161085,95,52,31
+primary_regional,Brunei Darussalam,rsv,1,M2,success,,A,149,2.762816764459232,95,52,31
+primary_regional,Brunei Darussalam,rsv,1,M3,success,,D,958,2.383384401398811,95,52,31
+primary_regional,Brunei Darussalam,rsv,2,M1,success,,A,232,2.4821722547476877,94,52,32
+primary_regional,Brunei Darussalam,rsv,2,M2,success,,A,187,2.7339117465510254,94,52,32
+primary_regional,Brunei Darussalam,rsv,2,M3,success,,D,589,2.3159356750351034,94,52,32
+primary_regional,Brunei Darussalam,rsv,4,M1,success,,A,806,2.3744928434793495,92,52,32
+primary_regional,Brunei Darussalam,rsv,4,M2,success,,A,314,2.7224735227457413,92,52,32
+primary_regional,Brunei Darussalam,rsv,4,M3,success,,A,1648,2.500668635686769,92,52,32
+primary_regional,Brunei Darussalam,sarscov2,1,M1,success,,F,46,674.1248117219712,99,52,36
+primary_regional,Brunei Darussalam,sarscov2,1,M2,success,,C,46,726.0766801801976,99,52,36
+primary_regional,Brunei Darussalam,sarscov2,1,M3,success,,D,37,721.1141455904556,99,52,36
+primary_regional,Brunei Darussalam,sarscov2,2,M1,success,,C,34,806.905850619924,98,52,36
+primary_regional,Brunei Darussalam,sarscov2,2,M2,success,,E,12,884.0058343394268,98,52,36
+primary_regional,Brunei Darussalam,sarscov2,2,M3,success,,D,34,873.6745759205187,98,52,36
+primary_regional,Brunei Darussalam,sarscov2,4,M1,success,,B,8,912.8267147850923,96,52,37
+primary_regional,Brunei Darussalam,sarscov2,4,M2,success,,D,12,894.7633517393058,96,52,37
+primary_regional,Brunei Darussalam,sarscov2,4,M3,success,,D,7,921.6202325892294,96,52,37
+primary_regional,Indonesia,influenza,1,M1,success,,C,123,3.438938960194809,152,52,24
+primary_regional,Indonesia,influenza,1,M2,success,,C,122,3.541855420739802,152,52,24
+primary_regional,Indonesia,influenza,1,M3,success,,D,190,3.390281860626653,152,52,24
+primary_regional,Indonesia,influenza,2,M1,success,,C,121,4.016883295853169,151,52,24
+primary_regional,Indonesia,influenza,2,M2,success,,C,168,3.9090433194724983,151,52,24
+primary_regional,Indonesia,influenza,2,M3,success,,A,150,3.639044434518387,151,52,24
+primary_regional,Indonesia,influenza,4,M1,success,,D,111,4.7354397623973075,149,52,24
+primary_regional,Indonesia,influenza,4,M2,success,,A,198,4.422766699241899,149,52,24
+primary_regional,Indonesia,influenza,4,M3,success,,B,148,4.212129832357066,149,52,24
+primary_regional,Indonesia,rsv,1,M1,success,,A,1,0.0,148,52,24
+primary_regional,Indonesia,rsv,1,M2,success,,A,1,0.0,148,52,24
+primary_regional,Indonesia,rsv,1,M3,success,,A,1,0.0,148,52,24
+primary_regional,Indonesia,rsv,2,M1,success,,A,1,0.0,147,52,24
+primary_regional,Indonesia,rsv,2,M2,success,,A,1,0.0,147,52,24
+primary_regional,Indonesia,rsv,2,M3,success,,A,1,0.0,147,52,24
+primary_regional,Indonesia,rsv,4,M1,success,,A,1,0.0,145,52,24
+primary_regional,Indonesia,rsv,4,M2,success,,A,1,0.0,145,52,24
+primary_regional,Indonesia,rsv,4,M3,success,,A,1,0.0,145,52,24
+primary_regional,Indonesia,sarscov2,1,M1,success,,C,510,1584.643982536686,148,52,17
+primary_regional,Indonesia,sarscov2,1,M2,success,,D,1995,1500.2952975978403,148,52,17
+primary_regional,Indonesia,sarscov2,1,M3,success,,D,219,1650.8249466295626,148,52,17
+primary_regional,Indonesia,sarscov2,2,M1,success,,B,346,3429.0848251343155,147,52,18
+primary_regional,Indonesia,sarscov2,2,M2,success,,B,1996,2755.4565877854347,147,52,18
+primary_regional,Indonesia,sarscov2,2,M3,success,,A,137,3104.329209178215,147,52,18
+primary_regional,Indonesia,sarscov2,4,M1,success,,B,592,14886.1258892435,145,52,18
+primary_regional,Indonesia,sarscov2,4,M2,success,,A,148,7583.967591485696,145,52,18
+primary_regional,Indonesia,sarscov2,4,M3,success,,F,94,8095.6608095551965,145,52,18
+primary_regional,Malaysia,influenza,1,M1,success,,C,428,28.104807694053946,152,52,49
+primary_regional,Malaysia,influenza,1,M2,success,,C,127,64.99509365471489,152,52,49
+primary_regional,Malaysia,influenza,1,M3,success,,B,100,55.28424419182011,152,52,49
+primary_regional,Malaysia,influenza,2,M1,success,,C,619,29.207657103590044,151,52,49
+primary_regional,Malaysia,influenza,2,M2,success,,B,88,71.31834359681801,151,52,49
+primary_regional,Malaysia,influenza,2,M3,success,,D,168,66.00365259857493,151,52,49
+primary_regional,Malaysia,influenza,4,M1,success,,C,456,38.17652750487421,149,52,49
+primary_regional,Malaysia,influenza,4,M2,success,,B,93,75.97315386755369,149,52,49
+primary_regional,Malaysia,influenza,4,M3,success,,F,117,78.84567897501262,149,52,49
+primary_regional,Malaysia,rsv,1,M1,success,,C,172,3.912386154528213,152,52,48
+primary_regional,Malaysia,rsv,1,M2,success,,A,144,3.7488586318301427,152,52,48
+primary_regional,Malaysia,rsv,1,M3,success,,D,110,4.704839467502235,152,52,48
+primary_regional,Malaysia,rsv,2,M1,success,,E,102,4.173682233841908,151,52,48
+primary_regional,Malaysia,rsv,2,M2,success,,B,102,3.9592073510337746,151,52,48
+primary_regional,Malaysia,rsv,2,M3,success,,D,103,5.816380639532349,151,52,48
+primary_regional,Malaysia,rsv,4,M1,success,,F,141,4.90078438490057,149,52,48
+primary_regional,Malaysia,rsv,4,M2,success,,A,145,4.71414165220025,149,52,48
+primary_regional,Malaysia,rsv,4,M3,success,,B,74,6.461053450943863,149,52,48
+primary_regional,Malaysia,sarscov2,1,M1,success,,B,54,3055.0754510823945,148,52,46
+primary_regional,Malaysia,sarscov2,1,M2,success,,C,170,2675.3319572022806,148,52,46
+primary_regional,Malaysia,sarscov2,1,M3,success,,D,160,2557.895801979671,148,52,46
+primary_regional,Malaysia,sarscov2,2,M1,success,,C,129,3921.478045033218,147,52,46
+primary_regional,Malaysia,sarscov2,2,M2,success,,B,122,3723.796212475608,147,52,46
+primary_regional,Malaysia,sarscov2,2,M3,success,,D,176,3088.097665110822,147,52,46
+primary_regional,Malaysia,sarscov2,4,M1,success,,E,471,4459.427820000892,145,52,46
+primary_regional,Malaysia,sarscov2,4,M2,success,,A,167,4351.493206206752,145,52,46
+primary_regional,Malaysia,sarscov2,4,M3,success,,C,108,4166.2148921914295,145,52,46
+secondary_regional,Philippines,influenza,1,M1,success,,F,82,4.115009967741498,91,52,48
+secondary_regional,Philippines,influenza,1,M2,success,,E,110,4.081896383429075,91,52,48
+secondary_regional,Philippines,influenza,1,M3,success,,F,74,3.97234069847948,91,52,48
+secondary_regional,Philippines,influenza,2,M1,success,,C,314,4.145717350436113,90,52,48
+secondary_regional,Philippines,influenza,2,M2,success,,E,174,3.8778763184102236,90,52,48
+secondary_regional,Philippines,influenza,2,M3,success,,A,391,3.506807088413348,90,52,48
+secondary_regional,Philippines,influenza,4,M1,success,,C,468,4.3942263286445735,88,52,48
+secondary_regional,Philippines,influenza,4,M2,success,,C,531,4.003319618819558,88,52,48
+secondary_regional,Philippines,influenza,4,M3,success,,E,1025,4.440636500817075,88,52,48
+secondary_regional,Philippines,rsv,1,M1,success,,C,81,4.3650480512679986,91,52,48
+secondary_regional,Philippines,rsv,1,M2,success,,E,1,4.365178834199563,91,52,48
+secondary_regional,Philippines,rsv,1,M3,success,,F,1998,4.34178391666249,91,52,48
+secondary_regional,Philippines,rsv,2,M1,success,,C,25,4.365044269563291,90,52,48
+secondary_regional,Philippines,rsv,2,M2,success,,E,1,4.365175019849829,90,52,48
+secondary_regional,Philippines,rsv,2,M3,success,,B,170,4.363802931659423,90,52,48
+secondary_regional,Philippines,rsv,4,M1,success,,B,11,4.365044214671043,88,52,48
+secondary_regional,Philippines,rsv,4,M2,success,,A,3,4.3651129813181955,88,52,48
+secondary_regional,Philippines,rsv,4,M3,success,,C,801,4.360372596191554,88,52,48
+secondary_regional,Philippines,sarscov2,1,M1,success,,B,327,15002.510081347575,91,52,46
+secondary_regional,Philippines,sarscov2,1,M2,success,,E,176,15339.589511997397,91,52,46
+secondary_regional,Philippines,sarscov2,1,M3,success,,D,38,16074.510413442922,91,52,46
+secondary_regional,Philippines,sarscov2,2,M1,success,,E,131,17295.370870863324,90,52,46
+secondary_regional,Philippines,sarscov2,2,M2,success,,E,45,17765.006720818554,90,52,46
+secondary_regional,Philippines,sarscov2,2,M3,success,,E,31,17706.256880635527,90,52,46
+secondary_regional,Philippines,sarscov2,4,M1,success,,E,514,20296.33487185843,88,52,46
+secondary_regional,Philippines,sarscov2,4,M2,success,,E,506,18978.24490553451,88,52,46
+secondary_regional,Philippines,sarscov2,4,M3,success,,E,25,20324.129148015127,88,52,46
+singapore_case_study,Singapore,influenza,1,M1,success,,D,361,16.088206811878,100,52,52
+singapore_case_study,Singapore,influenza,1,M2,success,,C,729,15.994630306519934,100,52,52
+singapore_case_study,Singapore,influenza,1,M3,success,,D,298,17.05153604979914,100,52,52
+singapore_case_study,Singapore,influenza,2,M1,success,,E,219,16.402898720910816,99,52,52
+singapore_case_study,Singapore,influenza,2,M2,success,,D,219,16.425494498701305,99,52,52
+singapore_case_study,Singapore,influenza,2,M3,success,,D,344,17.095241241802036,99,52,52
+singapore_case_study,Singapore,influenza,4,M1,success,,D,263,16.310388085414523,97,52,52
+singapore_case_study,Singapore,influenza,4,M2,success,,D,257,16.321763258822845,97,52,52
+singapore_case_study,Singapore,influenza,4,M3,success,,D,233,16.82458430451136,97,52,52
+singapore_case_study,Singapore,sarscov2,1,M1,success,,A,1999,25485.52049663091,96,52,52
+singapore_case_study,Singapore,sarscov2,1,M2,success,,B,493,30009.819202297575,96,52,52
+singapore_case_study,Singapore,sarscov2,1,M3,success,,B,333,27899.17392044594,96,52,52
+singapore_case_study,Singapore,sarscov2,2,M1,success,,A,1993,28147.76062655722,95,52,52
+singapore_case_study,Singapore,sarscov2,2,M2,success,,B,655,30077.040203585955,95,52,52
+singapore_case_study,Singapore,sarscov2,2,M3,success,,A,652,28878.34285567351,95,52,52
+singapore_case_study,Singapore,sarscov2,4,M1,success,,F,251,33033.9237622876,93,52,52
+singapore_case_study,Singapore,sarscov2,4,M2,success,,B,90,34331.389608908685,93,52,52
+singapore_case_study,Singapore,sarscov2,4,M3,success,,A,380,33175.62820252558,93,52,52
