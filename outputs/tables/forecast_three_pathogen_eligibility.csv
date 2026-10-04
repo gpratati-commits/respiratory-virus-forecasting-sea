@@ -1,0 +1,22 @@
+country,year,influenza_weeks,rsv_weeks,sarscov2_weeks,three_pathogen_weeks,eligible_three_pathogen_year
+Brunei Darussalam,2021,52,52,52,52,True
+Brunei Darussalam,2022,52,52,52,52,True
+Brunei Darussalam,2023,52,52,52,52,True
+Brunei Darussalam,2024,48,48,52,48,True
+Indonesia,2020,52,52,52,52,True
+Indonesia,2021,52,52,52,52,True
+Indonesia,2022,52,52,52,52,True
+Indonesia,2023,52,52,52,52,True
+Indonesia,2024,53,53,43,43,True
+Malaysia,2020,52,52,52,52,True
+Malaysia,2021,52,52,52,52,True
+Malaysia,2022,52,52,52,52,True
+Malaysia,2023,52,52,52,52,True
+Malaysia,2024,53,52,51,51,True
+Philippines,2020,50,50,52,50,True
+Philippines,2021,52,52,52,52,True
+Philippines,2022,52,52,52,52,True
+Philippines,2023,52,52,51,51,True
+Thailand,2023,52,52,52,52,True
+Thailand,2024,53,53,52,52,True
+Thailand,2025,51,51,51,51,True
