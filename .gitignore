@@ -24,3 +24,4 @@ data/interim/*
 # Keep empty folders visible in Git
 !data/raw/.gitkeep
 !data/interim/.gitkeep
+data/processed/respiratory_forecasting_features.csv
