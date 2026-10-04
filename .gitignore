@@ -25,4 +25,7 @@ data/interim/*
 !data/raw/.gitkeep
 !data/interim/.gitkeep
 data/processed/respiratory_forecasting_features.csv
-outputs/predictions/baseline_predictions.csv
+outputs/predictions/baseline_predictions.csvoutputs/predictions/statistical_predictions.csv
+
+# Generated model prediction files
+outputs/predictions/*.csv
