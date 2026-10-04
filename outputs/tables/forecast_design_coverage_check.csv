@@ -1,0 +1,19 @@
+country,analysis_group,split,start,end,rows_in_period,complete_required_pathogen_weeks,required_pathogens
+Indonesia,primary_regional,train,2020-01-01,2022-12-31,156,156,influenza+rsv+sarscov2
+Indonesia,primary_regional,validation,2023-01-01,2023-12-31,52,52,influenza+rsv+sarscov2
+Indonesia,primary_regional,test,2024-01-01,2024-12-31,53,43,influenza+rsv+sarscov2
+Malaysia,primary_regional,train,2020-01-01,2022-12-31,156,156,influenza+rsv+sarscov2
+Malaysia,primary_regional,validation,2023-01-01,2023-12-31,52,52,influenza+rsv+sarscov2
+Malaysia,primary_regional,test,2024-01-01,2024-12-31,53,51,influenza+rsv+sarscov2
+Brunei Darussalam,primary_regional,train,2021-01-01,2022-12-31,104,104,influenza+rsv+sarscov2
+Brunei Darussalam,primary_regional,validation,2023-01-01,2023-12-31,52,52,influenza+rsv+sarscov2
+Brunei Darussalam,primary_regional,test,2024-01-01,2024-12-31,52,48,influenza+rsv+sarscov2
+Philippines,secondary_regional,train,2020-01-01,2021-12-31,104,102,influenza+rsv+sarscov2
+Philippines,secondary_regional,validation,2022-01-01,2022-12-31,52,52,influenza+rsv+sarscov2
+Philippines,secondary_regional,test,2023-01-01,2023-12-31,52,51,influenza+rsv+sarscov2
+Thailand,exploratory_regional,train,2023-01-01,2023-12-31,52,52,influenza+rsv+sarscov2
+Thailand,exploratory_regional,validation,2024-01-01,2024-12-31,53,52,influenza+rsv+sarscov2
+Thailand,exploratory_regional,test,2025-01-01,2025-12-31,51,51,influenza+rsv+sarscov2
+Singapore,singapore_case_study,train,2020-01-01,2021-12-31,104,104,influenza+sarscov2
+Singapore,singapore_case_study,validation,2022-01-01,2022-12-31,52,52,influenza+sarscov2
+Singapore,singapore_case_study,test,2023-01-01,2023-12-31,52,52,influenza+sarscov2

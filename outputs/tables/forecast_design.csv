@@ -1,0 +1,52 @@
+country,analysis_group,target_pathogen,forecast_horizon_weeks,required_pathogens,train_start,train_end,validation_start,validation_end,test_start,test_end,split_basis,note
+Indonesia,primary_regional,influenza,1,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,influenza,2,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,influenza,4,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,rsv,1,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,rsv,2,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,rsv,4,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,sarscov2,1,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,sarscov2,2,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Indonesia,primary_regional,sarscov2,4,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,influenza,1,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,influenza,2,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,influenza,4,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,rsv,1,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,rsv,2,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,rsv,4,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,sarscov2,1,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,sarscov2,2,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Malaysia,primary_regional,sarscov2,4,influenza+rsv+sarscov2,2020-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,influenza,1,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,influenza,2,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,influenza,4,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,rsv,1,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,rsv,2,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,rsv,4,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,sarscov2,1,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,sarscov2,2,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Brunei Darussalam,primary_regional,sarscov2,4,influenza+rsv+sarscov2,2021-01-01,2022-12-31,2023-01-01,2023-12-31,2024-01-01,2024-12-31,target_date,Primary three-pathogen forecasting cohort
+Philippines,secondary_regional,influenza,1,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,influenza,2,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,influenza,4,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,rsv,1,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,rsv,2,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,rsv,4,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,sarscov2,1,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,sarscov2,2,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Philippines,secondary_regional,sarscov2,4,influenza+rsv+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Secondary analysis because three-pathogen overlap ends in 2023
+Thailand,exploratory_regional,influenza,1,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,influenza,2,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,influenza,4,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,rsv,1,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,rsv,2,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,rsv,4,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,sarscov2,1,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,sarscov2,2,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Thailand,exploratory_regional,sarscov2,4,influenza+rsv+sarscov2,2023-01-01,2023-12-31,2024-01-01,2024-12-31,2025-01-01,2025-12-31,target_date,Exploratory only because the training history is short
+Singapore,singapore_case_study,influenza,1,influenza+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Two-pathogen Singapore case study; RSV unavailable
+Singapore,singapore_case_study,influenza,2,influenza+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Two-pathogen Singapore case study; RSV unavailable
+Singapore,singapore_case_study,influenza,4,influenza+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Two-pathogen Singapore case study; RSV unavailable
+Singapore,singapore_case_study,sarscov2,1,influenza+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Two-pathogen Singapore case study; RSV unavailable
+Singapore,singapore_case_study,sarscov2,2,influenza+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Two-pathogen Singapore case study; RSV unavailable
+Singapore,singapore_case_study,sarscov2,4,influenza+sarscov2,2020-01-01,2021-12-31,2022-01-01,2022-12-31,2023-01-01,2023-12-31,target_date,Two-pathogen Singapore case study; RSV unavailable
