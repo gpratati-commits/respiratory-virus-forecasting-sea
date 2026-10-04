@@ -1,0 +1,28 @@
+country,target_pathogen,forecast_horizon_weeks,m3_vs_m2_mae_improvement_pct,other_pathogen_shap_pct,m3_result,interpretation
+Brunei Darussalam,influenza,1,2.9023305169829023,16.12122017145157,M3 better,Cross-pathogen signal used and M3 improved
+Brunei Darussalam,influenza,2,14.335447142895454,17.17076426744461,M3 better,Cross-pathogen signal used and M3 improved
+Brunei Darussalam,influenza,4,7.425664638246207,16.029260456562042,M3 better,Cross-pathogen signal used and M3 improved
+Brunei Darussalam,rsv,1,-1.441205403027871,43.953748762607574,M3 worse,Cross-pathogen signal used but M3 worsened
+Brunei Darussalam,rsv,2,-5.902792467860167,39.427630007267,M3 worse,Cross-pathogen signal used but M3 worsened
+Brunei Darussalam,rsv,4,-6.541340107232392,53.89219260215759,M3 worse,Cross-pathogen signal used but M3 worsened
+Brunei Darussalam,sarscov2,1,-10.987502194401449,4.571101993322372,M3 worse,Cross-pathogen signal used but M3 worsened
+Brunei Darussalam,sarscov2,2,-1.486398550617066,6.103711158037186,M3 worse,Cross-pathogen signal used but M3 worsened
+Brunei Darussalam,sarscov2,4,5.529087115761647,16.55576753616333,M3 better,Cross-pathogen signal used and M3 improved
+Indonesia,influenza,1,-12.604454428523855,20.056519985198975,M3 worse,Cross-pathogen signal used but M3 worsened
+Indonesia,influenza,2,6.530172514321824,34.178245544433594,M3 better,Cross-pathogen signal used and M3 improved
+Indonesia,influenza,4,7.419794759470957,51.6778507232666,M3 better,Cross-pathogen signal used and M3 improved
+Indonesia,rsv,1,,0.0,Tie,Performance comparison not interpretable
+Indonesia,rsv,2,,0.0,Tie,Performance comparison not interpretable
+Indonesia,rsv,4,,0.0,Tie,Performance comparison not interpretable
+Indonesia,sarscov2,1,28.387468826813475,3.6335195004940033,M3 better,Cross-pathogen signal used and M3 improved
+Indonesia,sarscov2,2,41.10374927518237,2.61683452129364,M3 better,Cross-pathogen signal used and M3 improved
+Indonesia,sarscov2,4,-6.485111681302331,5.094519734382629,M3 worse,Cross-pathogen signal used but M3 worsened
+Malaysia,influenza,1,-95.55653682446648,11.015247330069542,M3 worse,Cross-pathogen signal used but M3 worsened
+Malaysia,influenza,2,-104.06032914102074,13.614996641874312,M3 worse,Cross-pathogen signal used but M3 worsened
+Malaysia,influenza,4,-99.25984318860615,19.306819766759872,M3 worse,Cross-pathogen signal used but M3 worsened
+Malaysia,rsv,1,8.125440494499067,51.07814356684685,M3 better,Cross-pathogen signal used and M3 improved
+Malaysia,rsv,2,19.311640206910475,56.68285113573074,M3 better,Cross-pathogen signal used and M3 improved
+Malaysia,rsv,4,20.163715336813652,75.47189927101135,M3 better,Cross-pathogen signal used and M3 improved
+Malaysia,sarscov2,1,-3.419389100713979,7.9514623284339905,M3 worse,Cross-pathogen signal used but M3 worsened
+Malaysia,sarscov2,2,-0.6474669625995084,12.086901485919952,M3 worse,Cross-pathogen signal used but M3 worsened
+Malaysia,sarscov2,4,5.932852175094026,13.752409420907496,M3 better,Cross-pathogen signal used and M3 improved

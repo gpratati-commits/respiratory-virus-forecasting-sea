@@ -1,0 +1,433 @@
+country,target_pathogen,forecast_horizon_weeks,feature,feature_group,mean_absolute_shap,relative_importance_pct
+Brunei Darussalam,influenza,1,influenza_lag1,own_pathogen_history,0.13555273413658142,10.44998836517334
+Brunei Darussalam,influenza,1,influenza_lag2,own_pathogen_history,0.06814087927341461,5.2530951499938965
+Brunei Darussalam,influenza,1,influenza_lag3,own_pathogen_history,0.032790761440992355,2.527894973754883
+Brunei Darussalam,influenza,1,influenza_lag4,own_pathogen_history,0.040476322174072266,3.1203877925872803
+Brunei Darussalam,influenza,1,influenza_lag8,own_pathogen_history,0.0909474715590477,7.011293888092041
+Brunei Darussalam,influenza,1,influenza_rolling4,own_pathogen_history,0.5884608626365662,45.36543655395508
+Brunei Darussalam,influenza,1,season_sin,seasonality,0.057412754744291306,4.426045894622803
+Brunei Darussalam,influenza,1,season_cos,seasonality,0.07425753772258759,5.72463846206665
+Brunei Darussalam,influenza,1,rsv_lag1,other_pathogen_activity,0.02090947888791561,1.6119468212127686
+Brunei Darussalam,influenza,1,rsv_lag2,other_pathogen_activity,0.010880927555263042,0.8388290405273438
+Brunei Darussalam,influenza,1,rsv_lag4,other_pathogen_activity,0.016066331416368484,1.238580584526062
+Brunei Darussalam,influenza,1,rsv_rolling4,other_pathogen_activity,0.004991346970200539,0.3847913146018982
+Brunei Darussalam,influenza,1,sarscov2_lag1,other_pathogen_activity,0.04650992900133133,3.585528612136841
+Brunei Darussalam,influenza,1,sarscov2_lag2,other_pathogen_activity,0.05284997820854187,4.074293613433838
+Brunei Darussalam,influenza,1,sarscov2_lag4,other_pathogen_activity,0.016763046383857727,1.2922914028167725
+Brunei Darussalam,influenza,1,sarscov2_rolling4,other_pathogen_activity,0.040146470069885254,3.094958782196045
+Brunei Darussalam,influenza,2,influenza_lag1,own_pathogen_history,0.08313478529453278,6.467997074127197
+Brunei Darussalam,influenza,2,influenza_lag2,own_pathogen_history,0.021366316825151443,1.6623278856277466
+Brunei Darussalam,influenza,2,influenza_lag3,own_pathogen_history,0.040609605610370636,3.1594815254211426
+Brunei Darussalam,influenza,2,influenza_lag4,own_pathogen_history,0.02533808723092079,1.9713369607925415
+Brunei Darussalam,influenza,2,influenza_lag8,own_pathogen_history,0.047617264091968536,3.704686403274536
+Brunei Darussalam,influenza,2,influenza_rolling4,own_pathogen_history,0.6556886434555054,51.01344680786133
+Brunei Darussalam,influenza,2,season_sin,seasonality,0.09503353387117386,7.393735408782959
+Brunei Darussalam,influenza,2,season_cos,seasonality,0.09583666920661926,7.4562201499938965
+Brunei Darussalam,influenza,2,rsv_lag1,other_pathogen_activity,0.020413003861904144,1.5881588459014893
+Brunei Darussalam,influenza,2,rsv_lag2,other_pathogen_activity,0.004840193782001734,0.37657350301742554
+Brunei Darussalam,influenza,2,rsv_lag4,other_pathogen_activity,0.03846488147974014,2.992619037628174
+Brunei Darussalam,influenza,2,rsv_rolling4,other_pathogen_activity,0.02439766749739647,1.8981709480285645
+Brunei Darussalam,influenza,2,sarscov2_lag1,other_pathogen_activity,0.04702020809054375,3.6582345962524414
+Brunei Darussalam,influenza,2,sarscov2_lag2,other_pathogen_activity,0.035667162388563156,2.7749526500701904
+Brunei Darussalam,influenza,2,sarscov2_lag4,other_pathogen_activity,0.011053599417209625,0.8599847555160522
+Brunei Darussalam,influenza,2,sarscov2_rolling4,other_pathogen_activity,0.03884342312812805,3.0220699310302734
+Brunei Darussalam,influenza,4,influenza_lag1,own_pathogen_history,0.11591430753469467,7.436437129974365
+Brunei Darussalam,influenza,4,influenza_lag2,own_pathogen_history,0.02487104944884777,1.5955924987792969
+Brunei Darussalam,influenza,4,influenza_lag3,own_pathogen_history,0.05668085068464279,3.636337995529175
+Brunei Darussalam,influenza,4,influenza_lag4,own_pathogen_history,0.07047328352928162,4.521186351776123
+Brunei Darussalam,influenza,4,influenza_lag8,own_pathogen_history,0.14262060821056366,9.14976978302002
+Brunei Darussalam,influenza,4,influenza_rolling4,own_pathogen_history,0.6557013988494873,42.06626510620117
+Brunei Darussalam,influenza,4,season_sin,seasonality,0.13000907003879547,8.340681076049805
+Brunei Darussalam,influenza,4,season_cos,seasonality,0.11261026561260223,7.224467754364014
+Brunei Darussalam,influenza,4,rsv_lag1,other_pathogen_activity,0.030019817873835564,1.9259097576141357
+Brunei Darussalam,influenza,4,rsv_lag2,other_pathogen_activity,0.03394826501607895,2.1779377460479736
+Brunei Darussalam,influenza,4,rsv_lag4,other_pathogen_activity,0.015081793069839478,0.9675665497779846
+Brunei Darussalam,influenza,4,rsv_rolling4,other_pathogen_activity,0.0513220950961113,3.292548894882202
+Brunei Darussalam,influenza,4,sarscov2_lag1,other_pathogen_activity,0.03440409526228905,2.207181215286255
+Brunei Darussalam,influenza,4,sarscov2_lag2,other_pathogen_activity,0.031038885936141014,1.9912875890731812
+Brunei Darussalam,influenza,4,sarscov2_lag4,other_pathogen_activity,0.04269959032535553,2.739375591278076
+Brunei Darussalam,influenza,4,sarscov2_rolling4,other_pathogen_activity,0.01133906189352274,0.7274531126022339
+Brunei Darussalam,rsv,1,rsv_lag1,own_pathogen_history,0.04677323251962662,4.203360080718994
+Brunei Darussalam,rsv,1,rsv_lag2,own_pathogen_history,0.027467506006360054,2.468416452407837
+Brunei Darussalam,rsv,1,rsv_lag3,own_pathogen_history,0.042263150215148926,3.798053503036499
+Brunei Darussalam,rsv,1,rsv_lag4,own_pathogen_history,0.13318689167499542,11.969078063964844
+Brunei Darussalam,rsv,1,rsv_lag8,own_pathogen_history,0.012776165269315243,1.1481529474258423
+Brunei Darussalam,rsv,1,rsv_rolling4,own_pathogen_history,0.15698859095573425,14.108059883117676
+Brunei Darussalam,rsv,1,season_sin,seasonality,0.0847351923584938,7.614879608154297
+Brunei Darussalam,rsv,1,season_cos,seasonality,0.119468554854393,10.736255645751953
+Brunei Darussalam,rsv,1,influenza_lag1,other_pathogen_activity,0.04040805622935295,3.6313424110412598
+Brunei Darussalam,rsv,1,influenza_lag2,other_pathogen_activity,0.023466577753424644,2.108865976333618
+Brunei Darussalam,rsv,1,influenza_lag4,other_pathogen_activity,0.1753624677658081,15.759262084960938
+Brunei Darussalam,rsv,1,influenza_rolling4,other_pathogen_activity,0.16997799277305603,15.275375366210938
+Brunei Darussalam,rsv,1,sarscov2_lag1,other_pathogen_activity,0.013980131596326828,1.2563494443893433
+Brunei Darussalam,rsv,1,sarscov2_lag2,other_pathogen_activity,0.02382623217999935,2.1411869525909424
+Brunei Darussalam,rsv,1,sarscov2_lag4,other_pathogen_activity,0.03266273811459541,2.935295343399048
+Brunei Darussalam,rsv,1,sarscov2_rolling4,other_pathogen_activity,0.009414725936949253,0.846071183681488
+Brunei Darussalam,rsv,2,rsv_lag1,own_pathogen_history,0.020795827731490135,1.957620620727539
+Brunei Darussalam,rsv,2,rsv_lag2,own_pathogen_history,0.059121739119291306,5.5654401779174805
+Brunei Darussalam,rsv,2,rsv_lag3,own_pathogen_history,0.17955376207828522,16.902339935302734
+Brunei Darussalam,rsv,2,rsv_lag4,own_pathogen_history,0.01702449470758438,1.6026052236557007
+Brunei Darussalam,rsv,2,rsv_lag8,own_pathogen_history,0.01195734553039074,1.1256078481674194
+Brunei Darussalam,rsv,2,rsv_rolling4,own_pathogen_history,0.16921761631965637,15.929346084594727
+Brunei Darussalam,rsv,2,season_sin,seasonality,0.08295723050832748,7.809200763702393
+Brunei Darussalam,rsv,2,season_cos,seasonality,0.10283298045396805,9.68021011352539
+Brunei Darussalam,rsv,2,influenza_lag1,other_pathogen_activity,0.024261483922600746,2.2838611602783203
+Brunei Darussalam,rsv,2,influenza_lag2,other_pathogen_activity,0.04063321650028229,3.8250184059143066
+Brunei Darussalam,rsv,2,influenza_lag4,other_pathogen_activity,0.04878898337483406,4.592763423919678
+Brunei Darussalam,rsv,2,influenza_rolling4,other_pathogen_activity,0.23993244767189026,22.586103439331055
+Brunei Darussalam,rsv,2,sarscov2_lag1,other_pathogen_activity,0.008486342616379261,0.7988640666007996
+Brunei Darussalam,rsv,2,sarscov2_lag2,other_pathogen_activity,0.016771497204899788,1.5787893533706665
+Brunei Darussalam,rsv,2,sarscov2_lag4,other_pathogen_activity,0.012673324905335903,1.1930067539215088
+Brunei Darussalam,rsv,2,sarscov2_rolling4,other_pathogen_activity,0.02729289047420025,2.569223403930664
+Brunei Darussalam,rsv,4,rsv_lag1,own_pathogen_history,0.2162741869688034,17.381277084350586
+Brunei Darussalam,rsv,4,rsv_lag2,own_pathogen_history,0.018733492121100426,1.5055519342422485
+Brunei Darussalam,rsv,4,rsv_lag3,own_pathogen_history,0.015178345143795013,1.2198359966278076
+Brunei Darussalam,rsv,4,rsv_lag4,own_pathogen_history,0.006584870629012585,0.5292054414749146
+Brunei Darussalam,rsv,4,rsv_lag8,own_pathogen_history,0.02607073448598385,2.0952231884002686
+Brunei Darussalam,rsv,4,rsv_rolling4,own_pathogen_history,0.07171803712844849,5.763753414154053
+Brunei Darussalam,rsv,4,season_sin,seasonality,0.1174815222620964,9.441620826721191
+Brunei Darussalam,rsv,4,season_cos,seasonality,0.10167543590068817,8.17133617401123
+Brunei Darussalam,rsv,4,influenza_lag1,other_pathogen_activity,0.14482471346855164,11.639107704162598
+Brunei Darussalam,rsv,4,influenza_lag2,other_pathogen_activity,0.03235733136534691,2.600457191467285
+Brunei Darussalam,rsv,4,influenza_lag4,other_pathogen_activity,0.08572342991828918,6.8893232345581055
+Brunei Darussalam,rsv,4,influenza_rolling4,other_pathogen_activity,0.246451735496521,19.80655288696289
+Brunei Darussalam,rsv,4,sarscov2_lag1,other_pathogen_activity,0.0588468536734581,4.729337215423584
+Brunei Darussalam,rsv,4,sarscov2_lag2,other_pathogen_activity,0.034792762249708176,2.79618501663208
+Brunei Darussalam,rsv,4,sarscov2_lag4,other_pathogen_activity,0.051851581782102585,4.167149066925049
+Brunei Darussalam,rsv,4,sarscov2_rolling4,other_pathogen_activity,0.015728874132037163,1.264080286026001
+Brunei Darussalam,sarscov2,1,sarscov2_lag1,own_pathogen_history,0.3894568681716919,39.85822296142578
+Brunei Darussalam,sarscov2,1,sarscov2_lag2,own_pathogen_history,0.05056598037481308,5.175079345703125
+Brunei Darussalam,sarscov2,1,sarscov2_lag3,own_pathogen_history,0.01024213433265686,1.0482118129730225
+Brunei Darussalam,sarscov2,1,sarscov2_lag4,own_pathogen_history,0.05574418976902962,5.705033302307129
+Brunei Darussalam,sarscov2,1,sarscov2_lag8,own_pathogen_history,0.0703764408826828,7.202542781829834
+Brunei Darussalam,sarscov2,1,sarscov2_rolling4,own_pathogen_history,0.253754585981369,25.970029830932617
+Brunei Darussalam,sarscov2,1,season_sin,seasonality,0.04133853688836098,4.230714321136475
+Brunei Darussalam,sarscov2,1,season_cos,seasonality,0.0609622448682785,6.239065170288086
+Brunei Darussalam,sarscov2,1,influenza_lag1,other_pathogen_activity,0.006175113841891289,0.631980299949646
+Brunei Darussalam,sarscov2,1,influenza_lag2,other_pathogen_activity,0.016219737008213997,1.6599782705307007
+Brunei Darussalam,sarscov2,1,influenza_lag4,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,1,influenza_rolling4,other_pathogen_activity,0.0006915091071277857,0.07077118754386902
+Brunei Darussalam,sarscov2,1,rsv_lag1,other_pathogen_activity,0.011182057671248913,1.1444064378738403
+Brunei Darussalam,sarscov2,1,rsv_lag2,other_pathogen_activity,0.004297951702028513,0.43986570835113525
+Brunei Darussalam,sarscov2,1,rsv_lag4,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,1,rsv_rolling4,other_pathogen_activity,0.006098116282373667,0.6241000890731812
+Brunei Darussalam,sarscov2,2,sarscov2_lag1,own_pathogen_history,0.4252108335494995,36.89537811279297
+Brunei Darussalam,sarscov2,2,sarscov2_lag2,own_pathogen_history,0.050855204463005066,4.412685871124268
+Brunei Darussalam,sarscov2,2,sarscov2_lag3,own_pathogen_history,0.045466165989637375,3.9450812339782715
+Brunei Darussalam,sarscov2,2,sarscov2_lag4,own_pathogen_history,0.02616965025663376,2.2707302570343018
+Brunei Darussalam,sarscov2,2,sarscov2_lag8,own_pathogen_history,0.1402304768562317,12.167743682861328
+Brunei Darussalam,sarscov2,2,sarscov2_rolling4,own_pathogen_history,0.2516249716281891,21.833398818969727
+Brunei Darussalam,sarscov2,2,season_sin,seasonality,0.08898918330669403,7.721556186676025
+Brunei Darussalam,sarscov2,2,season_cos,seasonality,0.053586866706609726,4.6497111320495605
+Brunei Darussalam,sarscov2,2,influenza_lag1,other_pathogen_activity,0.00799725390970707,0.6939185857772827
+Brunei Darussalam,sarscov2,2,influenza_lag2,other_pathogen_activity,0.015974564477801323,1.3861067295074463
+Brunei Darussalam,sarscov2,2,influenza_lag4,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,2,influenza_rolling4,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,2,rsv_lag1,other_pathogen_activity,0.009245471097528934,0.8022259473800659
+Brunei Darussalam,sarscov2,2,rsv_lag2,other_pathogen_activity,0.005140951368957758,0.4460783302783966
+Brunei Darussalam,sarscov2,2,rsv_lag4,other_pathogen_activity,0.014429863542318344,1.2520736455917358
+Brunei Darussalam,sarscov2,2,rsv_rolling4,other_pathogen_activity,0.017555776983499527,1.5233079195022583
+Brunei Darussalam,sarscov2,4,sarscov2_lag1,own_pathogen_history,0.00890539400279522,3.056858777999878
+Brunei Darussalam,sarscov2,4,sarscov2_lag2,own_pathogen_history,0.0022795505356043577,0.7824767827987671
+Brunei Darussalam,sarscov2,4,sarscov2_lag3,own_pathogen_history,0.011343823745846748,3.8938722610473633
+Brunei Darussalam,sarscov2,4,sarscov2_lag4,own_pathogen_history,0.011182976886630058,3.83866024017334
+Brunei Darussalam,sarscov2,4,sarscov2_lag8,own_pathogen_history,0.013955440372228622,4.7903337478637695
+Brunei Darussalam,sarscov2,4,sarscov2_rolling4,own_pathogen_history,0.10187883675098419,34.97085189819336
+Brunei Darussalam,sarscov2,4,season_sin,seasonality,0.07761237025260925,26.641164779663086
+Brunei Darussalam,sarscov2,4,season_cos,seasonality,0.015935515984892845,5.47001314163208
+Brunei Darussalam,sarscov2,4,influenza_lag1,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,4,influenza_lag2,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,4,influenza_lag4,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,4,influenza_rolling4,other_pathogen_activity,0.014730914495885372,5.056522846221924
+Brunei Darussalam,sarscov2,4,rsv_lag1,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,4,rsv_lag2,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,4,rsv_lag4,other_pathogen_activity,0.0,0.0
+Brunei Darussalam,sarscov2,4,rsv_rolling4,other_pathogen_activity,0.033500175923109055,11.499244689941406
+Indonesia,influenza,1,influenza_lag1,own_pathogen_history,0.6652272343635559,41.8195915222168
+Indonesia,influenza,1,influenza_lag2,own_pathogen_history,0.17612774670124054,11.07229232788086
+Indonesia,influenza,1,influenza_lag3,own_pathogen_history,0.09236058592796326,5.806259632110596
+Indonesia,influenza,1,influenza_lag4,own_pathogen_history,0.026232698932290077,1.649121880531311
+Indonesia,influenza,1,influenza_lag8,own_pathogen_history,0.10263175517320633,6.451958656311035
+Indonesia,influenza,1,influenza_rolling4,own_pathogen_history,0.10013815760612488,6.2951979637146
+Indonesia,influenza,1,season_sin,seasonality,0.07811406999826431,4.910650730133057
+Indonesia,influenza,1,season_cos,seasonality,0.03083430416882038,1.938402533531189
+Indonesia,influenza,1,rsv_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,1,rsv_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,1,rsv_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,1,rsv_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,1,sarscov2_lag1,other_pathogen_activity,0.040773991495370865,2.5632622241973877
+Indonesia,influenza,1,sarscov2_lag2,other_pathogen_activity,0.1362028867006302,8.562411308288574
+Indonesia,influenza,1,sarscov2_lag4,other_pathogen_activity,0.05444100871682167,3.422440767288208
+Indonesia,influenza,1,sarscov2_rolling4,other_pathogen_activity,0.08762259036302567,5.508405685424805
+Indonesia,influenza,2,influenza_lag1,own_pathogen_history,0.3962610960006714,30.603435516357422
+Indonesia,influenza,2,influenza_lag2,own_pathogen_history,0.05372115597128868,4.1489105224609375
+Indonesia,influenza,2,influenza_lag3,own_pathogen_history,0.024288276210427284,1.8757951259613037
+Indonesia,influenza,2,influenza_lag4,own_pathogen_history,0.012178376317024231,0.9405418038368225
+Indonesia,influenza,2,influenza_lag8,own_pathogen_history,0.13396964967250824,10.346540451049805
+Indonesia,influenza,2,influenza_rolling4,own_pathogen_history,0.14351442456245422,11.083687782287598
+Indonesia,influenza,2,season_sin,seasonality,0.056265879422426224,4.345440864562988
+Indonesia,influenza,2,season_cos,seasonality,0.03207801654934883,2.477400541305542
+Indonesia,influenza,2,rsv_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,2,rsv_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,2,rsv_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,2,rsv_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,2,sarscov2_lag1,other_pathogen_activity,0.1863510012626648,14.391977310180664
+Indonesia,influenza,2,sarscov2_lag2,other_pathogen_activity,0.09362060576677322,7.2303643226623535
+Indonesia,influenza,2,sarscov2_lag4,other_pathogen_activity,0.074869804084301,5.782230854034424
+Indonesia,influenza,2,sarscov2_rolling4,other_pathogen_activity,0.08770725131034851,6.773673057556152
+Indonesia,influenza,4,influenza_lag1,own_pathogen_history,0.175284743309021,11.717419624328613
+Indonesia,influenza,4,influenza_lag2,own_pathogen_history,0.0996728464961052,6.66292142868042
+Indonesia,influenza,4,influenza_lag3,own_pathogen_history,0.03280256688594818,2.1927831172943115
+Indonesia,influenza,4,influenza_lag4,own_pathogen_history,0.0045794234611094,0.30612489581108093
+Indonesia,influenza,4,influenza_lag8,own_pathogen_history,0.14247258007526398,9.523994445800781
+Indonesia,influenza,4,influenza_rolling4,own_pathogen_history,0.10786635428667068,7.2106404304504395
+Indonesia,influenza,4,season_sin,seasonality,0.12639622390270233,8.449323654174805
+Indonesia,influenza,4,season_cos,seasonality,0.03379229083657265,2.258944034576416
+Indonesia,influenza,4,rsv_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,4,rsv_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,4,rsv_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,4,rsv_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,influenza,4,sarscov2_lag1,other_pathogen_activity,0.31116920709609985,20.80101203918457
+Indonesia,influenza,4,sarscov2_lag2,other_pathogen_activity,0.2119172364473343,14.166224479675293
+Indonesia,influenza,4,sarscov2_lag4,other_pathogen_activity,0.12699122726917267,8.48909854888916
+Indonesia,influenza,4,sarscov2_rolling4,other_pathogen_activity,0.12298838049173355,8.221515655517578
+Indonesia,rsv,1,rsv_lag1,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,rsv_lag2,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,rsv_lag3,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,rsv_lag4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,rsv_lag8,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,rsv_rolling4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,season_sin,seasonality,0.0,0.0
+Indonesia,rsv,1,season_cos,seasonality,0.0,0.0
+Indonesia,rsv,1,influenza_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,influenza_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,influenza_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,influenza_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,sarscov2_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,sarscov2_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,sarscov2_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,sarscov2_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,rsv_lag1,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,rsv_lag2,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,rsv_lag3,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,rsv_lag4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,rsv_lag8,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,rsv_rolling4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,season_sin,seasonality,0.0,0.0
+Indonesia,rsv,2,season_cos,seasonality,0.0,0.0
+Indonesia,rsv,2,influenza_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,influenza_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,influenza_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,influenza_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,sarscov2_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,sarscov2_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,sarscov2_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,sarscov2_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,rsv_lag1,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,rsv_lag2,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,rsv_lag3,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,rsv_lag4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,rsv_lag8,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,rsv_rolling4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,season_sin,seasonality,0.0,0.0
+Indonesia,rsv,4,season_cos,seasonality,0.0,0.0
+Indonesia,rsv,4,influenza_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,influenza_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,influenza_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,influenza_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,sarscov2_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,sarscov2_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,sarscov2_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,sarscov2_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,1,sarscov2_lag1,own_pathogen_history,3.2353522777557373,56.12001037597656
+Indonesia,sarscov2,1,sarscov2_lag2,own_pathogen_history,0.6807296872138977,11.80785083770752
+Indonesia,sarscov2,1,sarscov2_lag3,own_pathogen_history,0.0313931405544281,0.5445414781570435
+Indonesia,sarscov2,1,sarscov2_lag4,own_pathogen_history,0.21391057968139648,3.710465908050537
+Indonesia,sarscov2,1,sarscov2_lag8,own_pathogen_history,0.16063407063484192,2.7863383293151855
+Indonesia,sarscov2,1,sarscov2_rolling4,own_pathogen_history,0.31521421670913696,5.467665672302246
+Indonesia,sarscov2,1,season_sin,seasonality,0.6224117875099182,10.796276092529297
+Indonesia,sarscov2,1,season_cos,seasonality,0.29593974351882935,5.133333683013916
+Indonesia,sarscov2,1,influenza_lag1,other_pathogen_activity,0.022343626245856285,0.38756969571113586
+Indonesia,sarscov2,1,influenza_lag2,other_pathogen_activity,0.08531522750854492,1.4798671007156372
+Indonesia,sarscov2,1,influenza_lag4,other_pathogen_activity,0.015696873888373375,0.27227598428726196
+Indonesia,sarscov2,1,influenza_rolling4,other_pathogen_activity,0.08611884713172913,1.4938067197799683
+Indonesia,sarscov2,1,rsv_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,1,rsv_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,1,rsv_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,1,rsv_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,2,sarscov2_lag1,own_pathogen_history,2.727572441101074,55.815643310546875
+Indonesia,sarscov2,2,sarscov2_lag2,own_pathogen_history,0.6501306295394897,13.303939819335938
+Indonesia,sarscov2,2,sarscov2_lag3,own_pathogen_history,0.030444255098700523,0.6229956150054932
+Indonesia,sarscov2,2,sarscov2_lag4,own_pathogen_history,0.14526358246803284,2.972599506378174
+Indonesia,sarscov2,2,sarscov2_lag8,own_pathogen_history,0.10722466558218002,2.194190502166748
+Indonesia,sarscov2,2,sarscov2_rolling4,own_pathogen_history,0.18733733892440796,3.8335752487182617
+Indonesia,sarscov2,2,season_sin,seasonality,0.7957854270935059,16.2845458984375
+Indonesia,sarscov2,2,season_cos,seasonality,0.11511589586734772,2.355672836303711
+Indonesia,sarscov2,2,influenza_lag1,other_pathogen_activity,0.06463268399238586,1.3226101398468018
+Indonesia,sarscov2,2,influenza_lag2,other_pathogen_activity,0.011668524704873562,0.2387787103652954
+Indonesia,sarscov2,2,influenza_lag4,other_pathogen_activity,0.03257938101887703,0.6666877865791321
+Indonesia,sarscov2,2,influenza_rolling4,other_pathogen_activity,0.018997635692358017,0.3887578845024109
+Indonesia,sarscov2,2,rsv_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,2,rsv_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,2,rsv_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,2,rsv_rolling4,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,4,sarscov2_lag1,own_pathogen_history,2.4183502197265625,50.37057876586914
+Indonesia,sarscov2,4,sarscov2_lag2,own_pathogen_history,0.6278588771820068,13.077351570129395
+Indonesia,sarscov2,4,sarscov2_lag3,own_pathogen_history,0.09636379033327103,2.0071122646331787
+Indonesia,sarscov2,4,sarscov2_lag4,own_pathogen_history,0.2277006357908249,4.742660045623779
+Indonesia,sarscov2,4,sarscov2_lag8,own_pathogen_history,0.33540284633636475,6.985934257507324
+Indonesia,sarscov2,4,sarscov2_rolling4,own_pathogen_history,0.11814776808023453,2.46083927154541
+Indonesia,sarscov2,4,season_sin,seasonality,0.6277558207511902,13.075204849243164
+Indonesia,sarscov2,4,season_cos,seasonality,0.1049424260854721,2.1857922077178955
+Indonesia,sarscov2,4,influenza_lag1,other_pathogen_activity,0.030367275699973106,0.6325044631958008
+Indonesia,sarscov2,4,influenza_lag2,other_pathogen_activity,0.006671614479273558,0.13895964622497559
+Indonesia,sarscov2,4,influenza_lag4,other_pathogen_activity,0.05289836227893829,1.1017929315567017
+Indonesia,sarscov2,4,influenza_rolling4,other_pathogen_activity,0.1546565741300583,3.2212626934051514
+Indonesia,sarscov2,4,rsv_lag1,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,4,rsv_lag2,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,4,rsv_lag4,other_pathogen_activity,0.0,0.0
+Indonesia,sarscov2,4,rsv_rolling4,other_pathogen_activity,0.0,0.0
+Malaysia,influenza,1,influenza_lag1,own_pathogen_history,1.52369225025177,58.208797454833984
+Malaysia,influenza,1,influenza_lag2,own_pathogen_history,0.3491363525390625,13.337867736816406
+Malaysia,influenza,1,influenza_lag3,own_pathogen_history,0.017452791333198547,0.6667395830154419
+Malaysia,influenza,1,influenza_lag4,own_pathogen_history,0.02903779409825802,1.109315276145935
+Malaysia,influenza,1,influenza_lag8,own_pathogen_history,0.007853202521800995,0.30001166462898254
+Malaysia,influenza,1,influenza_rolling4,own_pathogen_history,0.2751060128211975,10.509726524353027
+Malaysia,influenza,1,season_sin,seasonality,0.1052856370806694,4.022170543670654
+Malaysia,influenza,1,season_cos,seasonality,0.021729452535510063,0.8301185965538025
+Malaysia,influenza,1,rsv_lag1,other_pathogen_activity,0.004462328739464283,0.1704719513654709
+Malaysia,influenza,1,rsv_lag2,other_pathogen_activity,0.015217680484056473,0.5813528895378113
+Malaysia,influenza,1,rsv_lag4,other_pathogen_activity,0.028880849480628967,1.103319525718689
+Malaysia,influenza,1,rsv_rolling4,other_pathogen_activity,0.19865214824676514,7.589001178741455
+Malaysia,influenza,1,sarscov2_lag1,other_pathogen_activity,0.006581369787454605,0.25142452120780945
+Malaysia,influenza,1,sarscov2_lag2,other_pathogen_activity,0.005278786178678274,0.20166262984275818
+Malaysia,influenza,1,sarscov2_lag4,other_pathogen_activity,0.015418441034853458,0.5890223979949951
+Malaysia,influenza,1,sarscov2_rolling4,other_pathogen_activity,0.013847071677446365,0.528992235660553
+Malaysia,influenza,2,influenza_lag1,own_pathogen_history,1.2173209190368652,44.88789367675781
+Malaysia,influenza,2,influenza_lag2,own_pathogen_history,0.29185304045677185,10.761885643005371
+Malaysia,influenza,2,influenza_lag3,own_pathogen_history,0.11220179498195648,4.13736629486084
+Malaysia,influenza,2,influenza_lag4,own_pathogen_history,0.012749732472002506,0.4701378643512726
+Malaysia,influenza,2,influenza_lag8,own_pathogen_history,0.05629211664199829,2.0757341384887695
+Malaysia,influenza,2,influenza_rolling4,own_pathogen_history,0.45540887117385864,16.792896270751953
+Malaysia,influenza,2,season_sin,seasonality,0.16747550666332245,6.1755475997924805
+Malaysia,influenza,2,season_cos,seasonality,0.02938486635684967,1.0835472345352173
+Malaysia,influenza,2,rsv_lag1,other_pathogen_activity,0.01488614920526743,0.5489168167114258
+Malaysia,influenza,2,rsv_lag2,other_pathogen_activity,0.02438352257013321,0.8991261124610901
+Malaysia,influenza,2,rsv_lag4,other_pathogen_activity,0.008308195509016514,0.3063591420650482
+Malaysia,influenza,2,rsv_rolling4,other_pathogen_activity,0.2741851508617401,10.110393524169922
+Malaysia,influenza,2,sarscov2_lag1,other_pathogen_activity,0.018279869109392166,0.6740579605102539
+Malaysia,influenza,2,sarscov2_lag2,other_pathogen_activity,0.005993872880935669,0.22102005779743195
+Malaysia,influenza,2,sarscov2_lag4,other_pathogen_activity,0.019627664238214493,0.7237569689750671
+Malaysia,influenza,2,sarscov2_rolling4,other_pathogen_activity,0.0035625339951366186,0.1313660591840744
+Malaysia,influenza,4,influenza_lag1,own_pathogen_history,1.1403425931930542,39.37043380737305
+Malaysia,influenza,4,influenza_lag2,own_pathogen_history,0.4088127613067627,14.114298820495605
+Malaysia,influenza,4,influenza_lag3,own_pathogen_history,0.014376555569469929,0.496351957321167
+Malaysia,influenza,4,influenza_lag4,own_pathogen_history,0.009265825152397156,0.31990349292755127
+Malaysia,influenza,4,influenza_lag8,own_pathogen_history,0.05773914232850075,1.9934494495391846
+Malaysia,influenza,4,influenza_rolling4,own_pathogen_history,0.44617629051208496,15.404279708862305
+Malaysia,influenza,4,season_sin,seasonality,0.20182953774929047,6.968183517456055
+Malaysia,influenza,4,season_cos,seasonality,0.058689914643764496,2.0262749195098877
+Malaysia,influenza,4,rsv_lag1,other_pathogen_activity,0.04001513868570328,1.3815264701843262
+Malaysia,influenza,4,rsv_lag2,other_pathogen_activity,0.012544246390461922,0.43309131264686584
+Malaysia,influenza,4,rsv_lag4,other_pathogen_activity,0.021670199930667877,0.7481657266616821
+Malaysia,influenza,4,rsv_rolling4,other_pathogen_activity,0.29890745878219604,10.319808006286621
+Malaysia,influenza,4,sarscov2_lag1,other_pathogen_activity,0.0122521435841918,0.42300641536712646
+Malaysia,influenza,4,sarscov2_lag2,other_pathogen_activity,0.017521632835268974,0.6049360632896423
+Malaysia,influenza,4,sarscov2_lag4,other_pathogen_activity,0.07583987712860107,2.6183788776397705
+Malaysia,influenza,4,sarscov2_rolling4,other_pathogen_activity,0.08046051114797592,2.777906894683838
+Malaysia,rsv,1,rsv_lag1,own_pathogen_history,0.16110637784004211,14.949480056762695
+Malaysia,rsv,1,rsv_lag2,own_pathogen_history,0.04795365408062935,4.44974422454834
+Malaysia,rsv,1,rsv_lag3,own_pathogen_history,0.02296067774295807,2.1305809020996094
+Malaysia,rsv,1,rsv_lag4,own_pathogen_history,0.009167726151645184,0.8506971597671509
+Malaysia,rsv,1,rsv_lag8,own_pathogen_history,0.027983903884887695,2.5966992378234863
+Malaysia,rsv,1,rsv_rolling4,own_pathogen_history,0.15519990026950836,14.401402473449707
+Malaysia,rsv,1,season_sin,seasonality,0.07897039502859116,7.327868461608887
+Malaysia,rsv,1,season_cos,seasonality,0.02387460507452488,2.2153866291046143
+Malaysia,rsv,1,influenza_lag1,other_pathogen_activity,0.39900264143943787,37.02449417114258
+Malaysia,rsv,1,influenza_lag2,other_pathogen_activity,0.0831102728843689,7.7120184898376465
+Malaysia,rsv,1,influenza_lag4,other_pathogen_activity,0.005469426512718201,0.5075223445892334
+Malaysia,rsv,1,influenza_rolling4,other_pathogen_activity,0.016537612304091454,1.5345680713653564
+Malaysia,rsv,1,sarscov2_lag1,other_pathogen_activity,0.0069724638015031815,0.6469930410385132
+Malaysia,rsv,1,sarscov2_lag2,other_pathogen_activity,0.004771479405462742,0.4427579939365387
+Malaysia,rsv,1,sarscov2_lag4,other_pathogen_activity,0.026501202955842018,2.459115505218506
+Malaysia,rsv,1,sarscov2_rolling4,other_pathogen_activity,0.008089804090559483,0.7506739497184753
+Malaysia,rsv,2,rsv_lag1,own_pathogen_history,0.10680507868528366,9.778531074523926
+Malaysia,rsv,2,rsv_lag2,own_pathogen_history,0.07067518681287766,6.4706621170043945
+Malaysia,rsv,2,rsv_lag3,own_pathogen_history,0.029327651485800743,2.685091257095337
+Malaysia,rsv,2,rsv_lag4,own_pathogen_history,0.008218667469918728,0.7524595260620117
+Malaysia,rsv,2,rsv_lag8,own_pathogen_history,0.019929148256778717,1.824611783027649
+Malaysia,rsv,2,rsv_rolling4,own_pathogen_history,0.15452028810977936,14.1470947265625
+Malaysia,rsv,2,season_sin,seasonality,0.07459387928247452,6.829437255859375
+Malaysia,rsv,2,season_cos,seasonality,0.009057515300810337,0.8292601704597473
+Malaysia,rsv,2,influenza_lag1,other_pathogen_activity,0.43387284874916077,39.72319793701172
+Malaysia,rsv,2,influenza_lag2,other_pathogen_activity,0.10025495290756226,9.17883586883545
+Malaysia,rsv,2,influenza_lag4,other_pathogen_activity,0.003656629705801606,0.3347824811935425
+Malaysia,rsv,2,influenza_rolling4,other_pathogen_activity,0.013763484545052052,1.2601149082183838
+Malaysia,rsv,2,sarscov2_lag1,other_pathogen_activity,0.013040515594184399,1.1939234733581543
+Malaysia,rsv,2,sarscov2_lag2,other_pathogen_activity,0.02986452914774418,2.7342448234558105
+Malaysia,rsv,2,sarscov2_lag4,other_pathogen_activity,0.00938446819782257,0.8591943383216858
+Malaysia,rsv,2,sarscov2_rolling4,other_pathogen_activity,0.015275607816874981,1.3985573053359985
+Malaysia,rsv,4,rsv_lag1,own_pathogen_history,0.05859161540865898,5.0638556480407715
+Malaysia,rsv,4,rsv_lag2,own_pathogen_history,0.004440012387931347,0.3837337791919708
+Malaysia,rsv,4,rsv_lag3,own_pathogen_history,0.0,0.0
+Malaysia,rsv,4,rsv_lag4,own_pathogen_history,0.0028252247720956802,0.24417367577552795
+Malaysia,rsv,4,rsv_lag8,own_pathogen_history,0.01469865906983614,1.2703505754470825
+Malaysia,rsv,4,rsv_rolling4,own_pathogen_history,0.10107006877660751,8.735111236572266
+Malaysia,rsv,4,season_sin,seasonality,0.09433238953351974,8.152798652648926
+Malaysia,rsv,4,season_cos,seasonality,0.007845645770430565,0.6780700087547302
+Malaysia,rsv,4,influenza_lag1,other_pathogen_activity,0.4967421293258667,42.93157958984375
+Malaysia,rsv,4,influenza_lag2,other_pathogen_activity,0.09613588452339172,8.308667182922363
+Malaysia,rsv,4,influenza_lag4,other_pathogen_activity,0.03416261449456215,2.952547788619995
+Malaysia,rsv,4,influenza_rolling4,other_pathogen_activity,0.08495453000068665,7.342304706573486
+Malaysia,rsv,4,sarscov2_lag1,other_pathogen_activity,0.024923399090766907,2.1540367603302
+Malaysia,rsv,4,sarscov2_lag2,other_pathogen_activity,0.015500508248806,1.339651346206665
+Malaysia,rsv,4,sarscov2_lag4,other_pathogen_activity,0.05849592387676239,5.0555853843688965
+Malaysia,rsv,4,sarscov2_rolling4,other_pathogen_activity,0.06233666464686394,5.387526512145996
+Malaysia,sarscov2,1,sarscov2_lag1,own_pathogen_history,1.252497673034668,53.54704666137695
+Malaysia,sarscov2,1,sarscov2_lag2,own_pathogen_history,0.4521881639957428,19.332042694091797
+Malaysia,sarscov2,1,sarscov2_lag3,own_pathogen_history,0.02631453238427639,1.1250044107437134
+Malaysia,sarscov2,1,sarscov2_lag4,own_pathogen_history,0.01178041659295559,0.5036388635635376
+Malaysia,sarscov2,1,sarscov2_lag8,own_pathogen_history,0.03178255259990692,1.3587744235992432
+Malaysia,sarscov2,1,sarscov2_rolling4,own_pathogen_history,0.13405121862888336,5.73098611831665
+Malaysia,sarscov2,1,season_sin,seasonality,0.026345038786530495,1.1263086795806885
+Malaysia,sarscov2,1,season_cos,seasonality,0.21811120212078094,9.324736595153809
+Malaysia,sarscov2,1,influenza_lag1,other_pathogen_activity,0.025201015174388885,1.0773991346359253
+Malaysia,sarscov2,1,influenza_lag2,other_pathogen_activity,0.016057617962360382,0.6864986419677734
+Malaysia,sarscov2,1,influenza_lag4,other_pathogen_activity,0.04883216693997383,2.0876832008361816
+Malaysia,sarscov2,1,influenza_rolling4,other_pathogen_activity,0.030476339161396027,1.3029308319091797
+Malaysia,sarscov2,1,rsv_lag1,other_pathogen_activity,0.019687721505761147,0.841693639755249
+Malaysia,sarscov2,1,rsv_lag2,other_pathogen_activity,0.006063031032681465,0.25920799374580383
+Malaysia,sarscov2,1,rsv_lag4,other_pathogen_activity,0.03435444459319115,1.4687284231185913
+Malaysia,sarscov2,1,rsv_rolling4,other_pathogen_activity,0.005317162722349167,0.22732046246528625
+Malaysia,sarscov2,2,sarscov2_lag1,own_pathogen_history,1.292291283607483,50.92267608642578
+Malaysia,sarscov2,2,sarscov2_lag2,own_pathogen_history,0.23447729647159576,9.2395658493042
+Malaysia,sarscov2,2,sarscov2_lag3,own_pathogen_history,0.10016226768493652,3.9468894004821777
+Malaysia,sarscov2,2,sarscov2_lag4,own_pathogen_history,0.056125350296497345,2.2116167545318604
+Malaysia,sarscov2,2,sarscov2_lag8,own_pathogen_history,0.020643435418605804,0.8134535551071167
+Malaysia,sarscov2,2,sarscov2_rolling4,own_pathogen_history,0.20413902401924133,8.044088363647461
+Malaysia,sarscov2,2,season_sin,seasonality,0.04396913945674896,1.7326018810272217
+Malaysia,sarscov2,2,season_cos,seasonality,0.2792087495326996,11.00220775604248
+Malaysia,sarscov2,2,influenza_lag1,other_pathogen_activity,0.09262663125991821,3.6499478816986084
+Malaysia,sarscov2,2,influenza_lag2,other_pathogen_activity,0.022366905584931374,0.8813667893409729
+Malaysia,sarscov2,2,influenza_lag4,other_pathogen_activity,0.0416739322245121,1.6421592235565186
+Malaysia,sarscov2,2,influenza_rolling4,other_pathogen_activity,0.028920738026499748,1.139620304107666
+Malaysia,sarscov2,2,rsv_lag1,other_pathogen_activity,0.015663666650652885,0.6172260046005249
+Malaysia,sarscov2,2,rsv_lag2,other_pathogen_activity,0.023371383547782898,0.9209482669830322
+Malaysia,sarscov2,2,rsv_lag4,other_pathogen_activity,0.03734505549073219,1.471580147743225
+Malaysia,sarscov2,2,rsv_rolling4,other_pathogen_activity,0.044767290353775024,1.7640528678894043
+Malaysia,sarscov2,4,sarscov2_lag1,own_pathogen_history,0.9476853013038635,34.99602127075195
+Malaysia,sarscov2,4,sarscov2_lag2,own_pathogen_history,0.12295693159103394,4.5405402183532715
+Malaysia,sarscov2,4,sarscov2_lag3,own_pathogen_history,0.014516633935272694,0.5360686779022217
+Malaysia,sarscov2,4,sarscov2_lag4,own_pathogen_history,0.28528767824172974,10.535073280334473
+Malaysia,sarscov2,4,sarscov2_lag8,own_pathogen_history,0.061857935041189194,2.28428316116333
+Malaysia,sarscov2,4,sarscov2_rolling4,own_pathogen_history,0.3498048782348633,12.917556762695312
+Malaysia,sarscov2,4,season_sin,seasonality,0.08298644423484802,3.064514398574829
+Malaysia,sarscov2,4,season_cos,seasonality,0.4704717993736267,17.373531341552734
+Malaysia,sarscov2,4,influenza_lag1,other_pathogen_activity,0.2381206750869751,8.793294906616211
+Malaysia,sarscov2,4,influenza_lag2,other_pathogen_activity,0.056706976145505905,2.094069242477417
+Malaysia,sarscov2,4,influenza_lag4,other_pathogen_activity,0.042960550636053085,1.586442470550537
+Malaysia,sarscov2,4,influenza_rolling4,other_pathogen_activity,0.003575204173102975,0.13202476501464844
+Malaysia,sarscov2,4,rsv_lag1,other_pathogen_activity,0.0043618991039693356,0.16107574105262756
+Malaysia,sarscov2,4,rsv_lag2,other_pathogen_activity,0.0023389465641230345,0.08637236803770065
+Malaysia,sarscov2,4,rsv_lag4,other_pathogen_activity,0.007166024763137102,0.2646262049674988
+Malaysia,sarscov2,4,rsv_rolling4,other_pathogen_activity,0.017182234674692154,0.6345037221908569

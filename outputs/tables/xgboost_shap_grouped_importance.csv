@@ -1,0 +1,82 @@
+country,target_pathogen,forecast_horizon_weeks,feature_group,mean_absolute_shap,relative_importance_pct
+Brunei Darussalam,influenza,1,other_pathogen_activity,0.20911750849336386,16.12122017145157
+Brunei Darussalam,influenza,1,own_pathogen_history,0.9563690312206745,73.72809672355652
+Brunei Darussalam,influenza,1,seasonality,0.1316702924668789,10.150684356689453
+Brunei Darussalam,influenza,2,other_pathogen_activity,0.22070013964548707,17.17076426744461
+Brunei Darussalam,influenza,2,own_pathogen_history,0.8737547025084496,67.97927665710449
+Brunei Darussalam,influenza,2,seasonality,0.19087020307779312,14.849955558776855
+Brunei Darussalam,influenza,4,other_pathogen_activity,0.24985360447317362,16.029260456562042
+Brunei Darussalam,influenza,4,own_pathogen_history,1.0662614982575178,68.40558886528015
+Brunei Darussalam,influenza,4,seasonality,0.2426193356513977,15.565148830413818
+Brunei Darussalam,rsv,1,other_pathogen_activity,0.4890989223495126,43.953748762607574
+Brunei Darussalam,rsv,1,own_pathogen_history,0.4194555366411805,37.69512093067169
+Brunei Darussalam,rsv,1,seasonality,0.2042037472128868,18.35113525390625
+Brunei Darussalam,rsv,2,other_pathogen_activity,0.41884018667042255,39.427630007267
+Brunei Darussalam,rsv,2,own_pathogen_history,0.45767078548669815,43.0829598903656
+Brunei Darussalam,rsv,2,seasonality,0.18579021096229553,17.489410877227783
+Brunei Darussalam,rsv,4,other_pathogen_activity,0.6705772820860147,53.89219260215759
+Brunei Darussalam,rsv,4,own_pathogen_history,0.35455966647714376,28.494847059249878
+Brunei Darussalam,rsv,4,seasonality,0.21915695816278458,17.612957000732422
+Brunei Darussalam,sarscov2,1,other_pathogen_activity,0.044664485612884164,4.571101993322372
+Brunei Darussalam,sarscov2,1,own_pathogen_history,0.8301401995122433,84.95912003517151
+Brunei Darussalam,sarscov2,1,seasonality,0.10230078175663948,10.46977949142456
+Brunei Darussalam,sarscov2,2,other_pathogen_activity,0.07034388137981296,6.103711158037186
+Brunei Darussalam,sarscov2,2,own_pathogen_history,0.9395573027431965,81.52501797676086
+Brunei Darussalam,sarscov2,2,seasonality,0.14257605001330376,12.371267318725586
+Brunei Darussalam,sarscov2,4,other_pathogen_activity,0.04823109041899443,16.55576753616333
+Brunei Darussalam,sarscov2,4,own_pathogen_history,0.1495460222940892,51.33305370807648
+Brunei Darussalam,sarscov2,4,seasonality,0.0935478862375021,32.111177921295166
+Indonesia,influenza,1,other_pathogen_activity,0.3190404772758484,20.056519985198975
+Indonesia,influenza,1,own_pathogen_history,1.162718178704381,73.0944219827652
+Indonesia,influenza,1,seasonality,0.1089483741670847,6.849053263664246
+Indonesia,influenza,2,other_pathogen_activity,0.4425486624240875,34.178245544433594
+Indonesia,influenza,2,own_pathogen_history,0.763932978734374,58.99891120195389
+Indonesia,influenza,2,seasonality,0.08834389597177505,6.82284140586853
+Indonesia,influenza,4,other_pathogen_activity,0.7730660513043404,51.6778507232666
+Indonesia,influenza,4,own_pathogen_history,0.5626785145141184,37.613883942365646
+Indonesia,influenza,4,seasonality,0.16018851473927498,10.70826768875122
+Indonesia,rsv,1,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,1,own_pathogen_history,0.0,0.0
+Indonesia,rsv,1,seasonality,0.0,0.0
+Indonesia,rsv,2,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,2,own_pathogen_history,0.0,0.0
+Indonesia,rsv,2,seasonality,0.0,0.0
+Indonesia,rsv,4,other_pathogen_activity,0.0,0.0
+Indonesia,rsv,4,own_pathogen_history,0.0,0.0
+Indonesia,rsv,4,seasonality,0.0,0.0
+Indonesia,sarscov2,1,other_pathogen_activity,0.2094745747745037,3.6335195004940033
+Indonesia,sarscov2,1,own_pathogen_history,4.6372339725494385,80.4368726015091
+Indonesia,sarscov2,1,seasonality,0.9183515310287476,15.929609775543213
+Indonesia,sarscov2,2,other_pathogen_activity,0.12787822540849447,2.61683452129364
+Indonesia,sarscov2,2,own_pathogen_history,3.8479729127138853,78.74294400215149
+Indonesia,sarscov2,2,seasonality,0.9109013229608536,18.64021873474121
+Indonesia,sarscov2,4,other_pathogen_activity,0.24459382658824325,5.094519734382629
+Indonesia,sarscov2,4,own_pathogen_history,3.8238241374492645,79.64447617530823
+Indonesia,sarscov2,4,seasonality,0.7326982468366623,15.26099705696106
+Malaysia,influenza,1,other_pathogen_activity,0.28833867562934756,11.015247330069542
+Malaysia,influenza,1,own_pathogen_history,2.2022784035652876,84.13245823979378
+Malaysia,influenza,1,seasonality,0.12701508961617947,4.852289140224457
+Malaysia,influenza,2,other_pathogen_activity,0.3692269583698362,13.614996641874313
+Malaysia,influenza,2,own_pathogen_history,2.145826474763453,79.12591388821602
+Malaysia,influenza,2,seasonality,0.19686037302017212,7.259094834327698
+Malaysia,influenza,4,other_pathogen_activity,0.5592112084850669,19.306819766759872
+Malaysia,influenza,4,own_pathogen_history,2.0767131680622697,71.69871723651886
+Malaysia,influenza,4,seasonality,0.26051945239305496,8.994458436965942
+Malaysia,rsv,1,other_pathogen_activity,0.5504549033939838,51.07814356684685
+Malaysia,rsv,1,own_pathogen_history,0.4243722399696708,39.37860405445099
+Malaysia,rsv,1,seasonality,0.10284500010311604,9.543255090713501
+Malaysia,rsv,2,other_pathogen_activity,0.6191130366642028,56.68285113573074
+Malaysia,rsv,2,own_pathogen_history,0.38947602082043886,35.65845048427582
+Malaysia,rsv,2,seasonality,0.08365139458328485,7.658697426319122
+Malaysia,rsv,4,other_pathogen_activity,0.8732516542077065,75.47189927101135
+Malaysia,rsv,4,own_pathogen_history,0.18162558041512966,15.697224915027618
+Malaysia,rsv,4,seasonality,0.10217803530395031,8.830868661403656
+Malaysia,sarscov2,1,other_pathogen_activity,0.18598949909210205,7.9514623284339905
+Malaysia,sarscov2,1,own_pathogen_history,1.908614557236433,81.5974931716919
+Malaysia,sarscov2,1,seasonality,0.24445624090731144,10.451045274734497
+Malaysia,sarscov2,2,other_pathogen_activity,0.30673560313880444,12.086901485919952
+Malaysia,sarscov2,2,own_pathogen_history,1.9078386574983597,75.1782900094986
+Malaysia,sarscov2,2,seasonality,0.32317788898944855,12.734809637069702
+Malaysia,sarscov2,4,other_pathogen_activity,0.3724125111475587,13.752409420907497
+Malaysia,sarscov2,4,own_pathogen_history,1.7821093583479524,65.80954337120056
+Malaysia,sarscov2,4,seasonality,0.5534582436084747,20.438045740127563

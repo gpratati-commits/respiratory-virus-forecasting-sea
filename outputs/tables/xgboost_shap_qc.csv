@@ -1,0 +1,28 @@
+country,target_pathogen,forecast_horizon_weeks,chosen_config_id,chosen_rounds,n_test,number_of_features,max_shap_additivity_error
+Brunei Darussalam,influenza,1,F,124,31,16,7.152557373046875e-07
+Brunei Darussalam,influenza,2,E,148,32,16,9.5367431640625e-07
+Brunei Darussalam,influenza,4,D,542,32,16,1.5497207641601562e-06
+Brunei Darussalam,rsv,1,D,958,31,16,2.3245811462402344e-06
+Brunei Darussalam,rsv,2,D,589,32,16,3.337860107421875e-06
+Brunei Darussalam,rsv,4,A,1648,32,16,1.7881393432617188e-06
+Brunei Darussalam,sarscov2,1,D,37,36,16,9.5367431640625e-07
+Brunei Darussalam,sarscov2,2,D,34,36,16,1.9073486328125e-06
+Brunei Darussalam,sarscov2,4,D,7,37,16,4.76837158203125e-07
+Indonesia,influenza,1,D,190,24,16,1.6689300537109375e-06
+Indonesia,influenza,2,A,150,24,16,1.1920928955078125e-06
+Indonesia,influenza,4,B,148,24,16,9.5367431640625e-07
+Indonesia,rsv,1,A,1,24,16,0.0
+Indonesia,rsv,2,A,1,24,16,0.0
+Indonesia,rsv,4,A,1,24,16,0.0
+Indonesia,sarscov2,1,D,219,17,16,3.814697265625e-06
+Indonesia,sarscov2,2,A,137,18,16,2.384185791015625e-06
+Indonesia,sarscov2,4,F,94,18,16,5.7220458984375e-06
+Malaysia,influenza,1,B,100,49,16,2.6226043701171875e-06
+Malaysia,influenza,2,D,168,49,16,2.86102294921875e-06
+Malaysia,influenza,4,F,117,49,16,1.9073486328125e-06
+Malaysia,rsv,1,D,110,48,16,9.5367431640625e-07
+Malaysia,rsv,2,D,103,48,16,9.5367431640625e-07
+Malaysia,rsv,4,B,74,48,16,1.1920928955078125e-06
+Malaysia,sarscov2,1,D,160,46,16,5.7220458984375e-06
+Malaysia,sarscov2,2,D,176,46,16,6.198883056640625e-06
+Malaysia,sarscov2,4,C,108,46,16,5.7220458984375e-06
