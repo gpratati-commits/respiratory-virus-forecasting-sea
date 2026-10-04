@@ -1,0 +1,18 @@
+country,target_pathogen,mase_scale_training_only,n_training_pairs_for_scale
+Brunei Darussalam,influenza,0.4368932038834951,103
+Brunei Darussalam,rsv,0.4174757281553398,103
+Brunei Darussalam,sarscov2,973.6153846153846,104
+Indonesia,influenza,3.698717948717949,156
+Indonesia,rsv,,156
+Indonesia,sarscov2,11482.98076923077,156
+Malaysia,influenza,8.134615384615385,156
+Malaysia,rsv,1.7115384615384615,156
+Malaysia,sarscov2,5465.467948717948,156
+Philippines,influenza,1.108910891089109,101
+Philippines,rsv,0.019801980198019802,101
+Philippines,sarscov2,4516.836538461538,104
+Singapore,influenza,1.7884615384615385,104
+Singapore,sarscov2,707.1346153846154,104
+Thailand,influenza,10.038461538461538,52
+Thailand,rsv,4.882352941176471,51
+Thailand,sarscov2,196.1346153846154,52

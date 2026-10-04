@@ -1,0 +1,907 @@
+analysis_group,country,target_pathogen,forecast_horizon_weeks,split,baseline_model,n,mae,rmse,mase,mean_error,evaluation_set
+exploratory_regional,Thailand,influenza,1,test,persistence,51,13.901960784313726,18.50543110527709,1.3848696566749306,-1.2352941176470589,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,test,recent_mean4,51,15.700980392156863,22.06588285735492,1.5640823379160094,-3.5049019607843137,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,test,seasonal_naive52,51,26.627450980392158,36.72526511870562,2.6525430095409814,-10.901960784313726,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,test,persistence,51,13.901960784313726,18.50543110527709,1.3848696566749306,-1.2352941176470589,model_available_rows
+exploratory_regional,Thailand,influenza,1,test,recent_mean4,51,15.700980392156863,22.06588285735492,1.5640823379160094,-3.5049019607843137,model_available_rows
+exploratory_regional,Thailand,influenza,1,test,seasonal_naive52,51,26.627450980392158,36.72526511870562,2.6525430095409814,-10.901960784313726,model_available_rows
+exploratory_regional,Thailand,influenza,1,train,persistence,52,10.038461538461538,14.414202397955663,1.0,-0.8076923076923077,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,train,recent_mean4,52,11.274038461538462,14.252403643434485,1.1230842911877394,-2.3701923076923075,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,train,seasonal_naive52,52,21.96153846153846,27.175356483402386,2.1877394636015324,-21.96153846153846,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,train,persistence,52,10.038461538461538,14.414202397955663,1.0,-0.8076923076923077,model_available_rows
+exploratory_regional,Thailand,influenza,1,train,recent_mean4,52,11.274038461538462,14.252403643434485,1.1230842911877394,-2.3701923076923075,model_available_rows
+exploratory_regional,Thailand,influenza,1,train,seasonal_naive52,52,21.96153846153846,27.175356483402386,2.1877394636015324,-21.96153846153846,model_available_rows
+exploratory_regional,Thailand,influenza,1,validation,persistence,53,11.452830188679245,14.600982132900617,1.1408949613243693,0.8113207547169812,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,validation,recent_mean4,53,10.38679245283019,12.71095575582006,1.0346996313164174,2.2830188679245285,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,validation,seasonal_naive52,53,24.641509433962263,29.824644741593556,2.4547097520422176,2.2641509433962264,common_baseline_rows
+exploratory_regional,Thailand,influenza,1,validation,persistence,53,11.452830188679245,14.600982132900617,1.1408949613243693,0.8113207547169812,model_available_rows
+exploratory_regional,Thailand,influenza,1,validation,recent_mean4,53,10.38679245283019,12.71095575582006,1.0346996313164174,2.2830188679245285,model_available_rows
+exploratory_regional,Thailand,influenza,1,validation,seasonal_naive52,53,24.641509433962263,29.824644741593556,2.4547097520422176,2.2641509433962264,model_available_rows
+exploratory_regional,Thailand,influenza,2,test,persistence,51,15.568627450980392,21.531554591744065,1.5508977537375104,-1.5686274509803921,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,test,recent_mean4,51,16.92156862745098,22.66983830174911,1.6856735031177221,-5.107843137254902,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,test,seasonal_naive52,51,26.627450980392158,36.72526511870562,2.6525430095409814,-10.901960784313726,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,test,persistence,51,15.568627450980392,21.531554591744065,1.5508977537375104,-1.5686274509803921,model_available_rows
+exploratory_regional,Thailand,influenza,2,test,recent_mean4,51,16.92156862745098,22.66983830174911,1.6856735031177221,-5.107843137254902,model_available_rows
+exploratory_regional,Thailand,influenza,2,test,seasonal_naive52,51,26.627450980392158,36.72526511870562,2.6525430095409814,-10.901960784313726,model_available_rows
+exploratory_regional,Thailand,influenza,2,train,persistence,52,11.096153846153847,15.454026112211764,1.1053639846743295,-1.1730769230769231,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,train,recent_mean4,52,12.591346153846153,15.566737529350597,1.254310344827586,-3.1971153846153846,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,train,seasonal_naive52,52,21.96153846153846,27.175356483402386,2.1877394636015324,-21.96153846153846,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,train,persistence,52,11.096153846153847,15.454026112211764,1.1053639846743295,-1.1730769230769231,model_available_rows
+exploratory_regional,Thailand,influenza,2,train,recent_mean4,52,12.591346153846153,15.566737529350597,1.254310344827586,-3.1971153846153846,model_available_rows
+exploratory_regional,Thailand,influenza,2,train,seasonal_naive52,52,21.96153846153846,27.175356483402386,2.1877394636015324,-21.96153846153846,model_available_rows
+exploratory_regional,Thailand,influenza,2,validation,persistence,53,11.30188679245283,14.588054042767903,1.1258584544205885,1.2264150943396226,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,validation,recent_mean4,53,11.65566037735849,14.120898135421251,1.1611002674763247,3.108490566037736,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,validation,seasonal_naive52,53,24.641509433962263,29.824644741593556,2.4547097520422176,2.2641509433962264,common_baseline_rows
+exploratory_regional,Thailand,influenza,2,validation,persistence,53,11.30188679245283,14.588054042767903,1.1258584544205885,1.2264150943396226,model_available_rows
+exploratory_regional,Thailand,influenza,2,validation,recent_mean4,53,11.65566037735849,14.120898135421251,1.1611002674763247,3.108490566037736,model_available_rows
+exploratory_regional,Thailand,influenza,2,validation,seasonal_naive52,53,24.641509433962263,29.824644741593556,2.4547097520422176,2.2641509433962264,model_available_rows
+exploratory_regional,Thailand,influenza,4,test,persistence,51,19.529411764705884,28.069940659492868,1.9454586432274061,-4.1568627450980395,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,test,recent_mean4,51,18.235294117647058,23.18621336475791,1.816542709037638,-8.323529411764707,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,test,seasonal_naive52,51,26.627450980392158,36.72526511870562,2.6525430095409814,-10.901960784313726,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,test,persistence,51,19.529411764705884,28.069940659492868,1.9454586432274061,-4.1568627450980395,model_available_rows
+exploratory_regional,Thailand,influenza,4,test,recent_mean4,51,18.235294117647058,23.18621336475791,1.816542709037638,-8.323529411764707,model_available_rows
+exploratory_regional,Thailand,influenza,4,test,seasonal_naive52,51,26.627450980392158,36.72526511870562,2.6525430095409814,-10.901960784313726,model_available_rows
+exploratory_regional,Thailand,influenza,4,train,persistence,52,13.692307692307692,17.60900119475614,1.3639846743295019,-2.6538461538461537,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,train,recent_mean4,52,15.120192307692308,18.825010215545294,1.5062260536398469,-4.793269230769231,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,train,seasonal_naive52,52,21.96153846153846,27.175356483402386,2.1877394636015324,-21.96153846153846,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,train,persistence,52,13.692307692307692,17.60900119475614,1.3639846743295019,-2.6538461538461537,model_available_rows
+exploratory_regional,Thailand,influenza,4,train,recent_mean4,52,15.120192307692308,18.825010215545294,1.5062260536398469,-4.793269230769231,model_available_rows
+exploratory_regional,Thailand,influenza,4,train,seasonal_naive52,52,21.96153846153846,27.175356483402386,2.1877394636015324,-21.96153846153846,model_available_rows
+exploratory_regional,Thailand,influenza,4,validation,persistence,53,12.452830188679245,15.80422680505631,1.2405118195619171,2.452830188679245,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,validation,recent_mean4,53,14.235849056603774,17.36667541858083,1.418130557362828,4.89622641509434,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,validation,seasonal_naive52,53,24.641509433962263,29.824644741593556,2.4547097520422176,2.2641509433962264,common_baseline_rows
+exploratory_regional,Thailand,influenza,4,validation,persistence,53,12.452830188679245,15.80422680505631,1.2405118195619171,2.452830188679245,model_available_rows
+exploratory_regional,Thailand,influenza,4,validation,recent_mean4,53,14.235849056603774,17.36667541858083,1.418130557362828,4.89622641509434,model_available_rows
+exploratory_regional,Thailand,influenza,4,validation,seasonal_naive52,53,24.641509433962263,29.824644741593556,2.4547097520422176,2.2641509433962264,model_available_rows
+exploratory_regional,Thailand,rsv,1,test,persistence,51,5.215686274509804,9.180114912348406,1.0682730923694779,-0.11764705882352941,common_baseline_rows
+exploratory_regional,Thailand,rsv,1,test,recent_mean4,51,9.848039215686274,16.134202800262553,2.0170682730923692,-0.4264705882352941,common_baseline_rows
+exploratory_regional,Thailand,rsv,1,test,seasonal_naive52,51,12.92156862745098,22.809956546364983,2.646586345381526,-9.784313725490197,common_baseline_rows
+exploratory_regional,Thailand,rsv,1,test,persistence,51,5.215686274509804,9.180114912348406,1.0682730923694779,-0.11764705882352941,model_available_rows
+exploratory_regional,Thailand,rsv,1,test,recent_mean4,51,9.848039215686274,16.134202800262553,2.0170682730923692,-0.4264705882352941,model_available_rows
+exploratory_regional,Thailand,rsv,1,test,seasonal_naive52,51,12.92156862745098,22.809956546364983,2.646586345381526,-9.784313725490197,model_available_rows
+exploratory_regional,Thailand,rsv,1,train,persistence,51,4.882352941176471,7.60675654257708,1.0,-0.13725490196078433,model_available_rows
+exploratory_regional,Thailand,rsv,1,train,recent_mean4,47,8.617021276595745,11.810561447371063,1.7649320687003331,-0.35106382978723405,model_available_rows
+exploratory_regional,Thailand,rsv,1,validation,persistence,53,4.69811320754717,6.99460708702689,0.9622641509433961,0.1320754716981132,common_baseline_rows
+exploratory_regional,Thailand,rsv,1,validation,recent_mean4,53,4.386792452830188,6.176644995159299,0.898499659013412,0.1320754716981132,common_baseline_rows
+exploratory_regional,Thailand,rsv,1,validation,seasonal_naive52,53,11.830188679245284,19.735515347660314,2.423050693339395,10.245283018867925,common_baseline_rows
+exploratory_regional,Thailand,rsv,1,validation,persistence,53,4.69811320754717,6.99460708702689,0.9622641509433961,0.1320754716981132,model_available_rows
+exploratory_regional,Thailand,rsv,1,validation,recent_mean4,53,4.386792452830188,6.176644995159299,0.898499659013412,0.1320754716981132,model_available_rows
+exploratory_regional,Thailand,rsv,1,validation,seasonal_naive52,53,11.830188679245284,19.735515347660314,2.423050693339395,10.245283018867925,model_available_rows
+exploratory_regional,Thailand,rsv,2,test,persistence,51,7.176470588235294,13.126832271732434,1.469879518072289,-0.23529411764705882,common_baseline_rows
+exploratory_regional,Thailand,rsv,2,test,recent_mean4,51,11.872549019607844,18.515097178503055,2.431726907630522,-0.6470588235294118,common_baseline_rows
+exploratory_regional,Thailand,rsv,2,test,seasonal_naive52,51,12.92156862745098,22.809956546364983,2.646586345381526,-9.784313725490197,common_baseline_rows
+exploratory_regional,Thailand,rsv,2,test,persistence,51,7.176470588235294,13.126832271732434,1.469879518072289,-0.23529411764705882,model_available_rows
+exploratory_regional,Thailand,rsv,2,test,recent_mean4,51,11.872549019607844,18.515097178503055,2.431726907630522,-0.6470588235294118,model_available_rows
+exploratory_regional,Thailand,rsv,2,test,seasonal_naive52,51,12.92156862745098,22.809956546364983,2.646586345381526,-9.784313725490197,model_available_rows
+exploratory_regional,Thailand,rsv,2,train,persistence,50,5.9,8.561541917201597,1.208433734939759,-0.22,model_available_rows
+exploratory_regional,Thailand,rsv,2,train,recent_mean4,46,10.945652173913043,14.429739821089909,2.2418805657412255,-0.5543478260869565,model_available_rows
+exploratory_regional,Thailand,rsv,2,validation,persistence,53,4.886792452830188,7.204558305500656,1.0009092975676288,0.20754716981132076,common_baseline_rows
+exploratory_regional,Thailand,rsv,2,validation,recent_mean4,53,4.94811320754717,6.532123090961445,1.0134689702205046,0.1650943396226415,common_baseline_rows
+exploratory_regional,Thailand,rsv,2,validation,seasonal_naive52,53,11.830188679245284,19.735515347660314,2.423050693339395,10.245283018867925,common_baseline_rows
+exploratory_regional,Thailand,rsv,2,validation,persistence,53,4.886792452830188,7.204558305500656,1.0009092975676288,0.20754716981132076,model_available_rows
+exploratory_regional,Thailand,rsv,2,validation,recent_mean4,53,4.94811320754717,6.532123090961445,1.0134689702205046,0.1650943396226415,model_available_rows
+exploratory_regional,Thailand,rsv,2,validation,seasonal_naive52,53,11.830188679245284,19.735515347660314,2.423050693339395,10.245283018867925,model_available_rows
+exploratory_regional,Thailand,rsv,4,test,persistence,51,11.509803921568627,19.218557208502165,2.357429718875502,-0.4117647058823529,common_baseline_rows
+exploratory_regional,Thailand,rsv,4,test,recent_mean4,51,14.77450980392157,22.03951442474247,3.0261044176706826,-1.2745098039215685,common_baseline_rows
+exploratory_regional,Thailand,rsv,4,test,seasonal_naive52,51,12.92156862745098,22.809956546364983,2.646586345381526,-9.784313725490197,common_baseline_rows
+exploratory_regional,Thailand,rsv,4,test,persistence,51,11.509803921568627,19.218557208502165,2.357429718875502,-0.4117647058823529,model_available_rows
+exploratory_regional,Thailand,rsv,4,test,recent_mean4,51,14.77450980392157,22.03951442474247,3.0261044176706826,-1.2745098039215685,model_available_rows
+exploratory_regional,Thailand,rsv,4,test,seasonal_naive52,51,12.92156862745098,22.809956546364983,2.646586345381526,-9.784313725490197,model_available_rows
+exploratory_regional,Thailand,rsv,4,train,persistence,48,10.020833333333334,13.686215693170995,2.0524598393574296,-0.3958333333333333,model_available_rows
+exploratory_regional,Thailand,rsv,4,train,recent_mean4,44,15.051136363636363,19.37763911644741,3.08276286966046,-1.2329545454545454,model_available_rows
+exploratory_regional,Thailand,rsv,4,validation,persistence,53,5.60377358490566,7.766643722804667,1.1477608547397133,0.09433962264150944,common_baseline_rows
+exploratory_regional,Thailand,rsv,4,validation,recent_mean4,53,5.547169811320755,7.401714487771773,1.1361673107524437,0.42452830188679247,common_baseline_rows
+exploratory_regional,Thailand,rsv,4,validation,seasonal_naive52,53,11.830188679245284,19.735515347660314,2.423050693339395,10.245283018867925,common_baseline_rows
+exploratory_regional,Thailand,rsv,4,validation,persistence,53,5.60377358490566,7.766643722804667,1.1477608547397133,0.09433962264150944,model_available_rows
+exploratory_regional,Thailand,rsv,4,validation,recent_mean4,53,5.547169811320755,7.401714487771773,1.1361673107524437,0.42452830188679247,model_available_rows
+exploratory_regional,Thailand,rsv,4,validation,seasonal_naive52,53,11.830188679245284,19.735515347660314,2.423050693339395,10.245283018867925,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,test,persistence,46,4854.086956521739,10169.526411528837,24.74875200893523,13.304347826086957,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,test,recent_mean4,46,13429.45652173913,26133.972455958632,68.47060879796399,73.18478260869566,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,test,seasonal_naive52,46,12391.152173913044,28866.50471416731,63.176773511469584,-12315.673913043478,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,test,persistence,51,4410.823529411765,9658.857343209424,22.488756106423352,23.294117647058822,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,test,recent_mean4,47,13147.196808510638,25854.467658573918,67.03149662148772,75.10106382978724,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,test,seasonal_naive52,50,11453.58,27688.67966335701,58.396525149524464,-11384.14,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,train,persistence,52,196.1346153846154,312.41605026236806,1.0,29.173076923076923,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,train,recent_mean4,52,581.1875,868.9251767214394,2.9632071771742328,166.60096153846155,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,train,seasonal_naive52,52,47228.942307692305,75109.35647684238,240.79860770663788,47228.942307692305,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,train,persistence,52,196.1346153846154,312.41605026236806,1.0,29.173076923076923,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,train,recent_mean4,52,581.1875,868.9251767214394,2.9632071771742328,166.60096153846155,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,train,seasonal_naive52,52,47228.942307692305,75109.35647684238,240.79860770663788,47228.942307692305,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,validation,persistence,51,201.7058823529412,413.25695847195385,1.0284053223211043,-5.352941176470588,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,validation,recent_mean4,51,364.76960784313724,537.3615245700378,1.859792098033448,-8.857843137254902,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,validation,seasonal_naive52,51,339.54901960784315,515.838875132574,1.7312039434854245,-161.11764705882354,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,1,validation,persistence,51,201.7058823529412,413.25695847195385,1.0284053223211043,-5.352941176470588,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,validation,recent_mean4,52,371.03365384615387,540.7156593615965,1.8917295813315032,-21.966346153846153,model_available_rows
+exploratory_regional,Thailand,sarscov2,1,validation,seasonal_naive52,52,346.46153846153845,519.9700065314419,1.766447690950093,-171.46153846153845,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,test,persistence,45,9194.711111111112,19036.551087024374,46.87959385996449,24.57777777777778,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,test,recent_mean4,45,16374.194444444445,30922.566133834833,83.4844701550261,83.17222222222222,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,test,seasonal_naive52,45,12661.555555555555,29185.462368179888,64.55543571809872,-12584.4,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,test,persistence,50,8314.6,18060.290634427787,42.39231297185999,57.12,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,test,recent_mean4,47,15708.127659574468,30258.038109248668,80.08850262749998,57.808510638297875,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,test,seasonal_naive52,50,11453.58,27688.67966335701,58.396525149524464,-11384.14,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,train,persistence,52,339.4230769230769,540.2599445566067,1.7305618197862533,74.26923076923077,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,train,recent_mean4,52,750.1394230769231,1099.224703287416,3.8246151583488577,236.11057692307693,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,train,seasonal_naive52,52,47228.942307692305,75109.35647684238,240.79860770663788,47228.942307692305,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,train,persistence,52,339.4230769230769,540.2599445566067,1.7305618197862533,74.26923076923077,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,train,recent_mean4,52,750.1394230769231,1099.224703287416,3.8246151583488577,236.11057692307693,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,train,seasonal_naive52,52,47228.942307692305,75109.35647684238,240.79860770663788,47228.942307692305,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,validation,persistence,52,261.2307692307692,460.4158655289468,1.331895283851358,-18.153846153846153,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,validation,recent_mean4,52,445.3317307692308,628.0693986106583,2.270541229532307,-23.620192307692307,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,validation,seasonal_naive52,52,346.46153846153845,519.9700065314419,1.766447690950093,-171.46153846153845,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,2,validation,persistence,52,261.2307692307692,460.4158655289468,1.331895283851358,-18.153846153846153,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,validation,recent_mean4,52,445.3317307692308,628.0693986106583,2.270541229532307,-23.620192307692307,model_available_rows
+exploratory_regional,Thailand,sarscov2,2,validation,seasonal_naive52,52,346.46153846153845,519.9700065314419,1.766447690950093,-171.46153846153845,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,test,persistence,45,15757.955555555556,31192.519206445068,80.34255210205794,-2.7555555555555555,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,test,recent_mean4,45,20400.7,36474.36519571733,104.01376605549564,37.87777777777778,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,test,seasonal_naive52,45,12701.711111111112,29186.293978509846,64.760170387075,-12624.555555555555,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,test,persistence,50,14246.86,29592.719563095245,72.63817236984018,62.22,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,test,recent_mean4,47,19549.462765957447,35689.9749143505,99.67369975779853,33.462765957446805,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,test,seasonal_naive52,50,11453.58,27688.67966335701,58.396525149524464,-11384.14,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,train,persistence,52,672.6153846153846,1016.632866188864,3.4293558191979607,194.96153846153845,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,train,recent_mean4,52,1063.9951923076924,1476.9811845352513,5.4248210608883225,379.1298076923077,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,train,seasonal_naive52,52,47228.942307692305,75109.35647684238,240.79860770663788,47228.942307692305,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,train,persistence,52,672.6153846153846,1016.632866188864,3.4293558191979607,194.96153846153845,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,train,recent_mean4,52,1063.9951923076924,1476.9811845352513,5.4248210608883225,379.1298076923077,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,train,seasonal_naive52,52,47228.942307692305,75109.35647684238,240.79860770663788,47228.942307692305,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,validation,persistence,52,425.21153846153845,657.4820705364695,2.1679576429061673,-23.51923076923077,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,validation,recent_mean4,52,573.0528846153846,792.7071655033684,2.921732522796353,-27.35096153846154,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,validation,seasonal_naive52,52,346.46153846153845,519.9700065314419,1.766447690950093,-171.46153846153845,common_baseline_rows
+exploratory_regional,Thailand,sarscov2,4,validation,persistence,52,425.21153846153845,657.4820705364695,2.1679576429061673,-23.51923076923077,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,validation,recent_mean4,52,573.0528846153846,792.7071655033684,2.921732522796353,-27.35096153846154,model_available_rows
+exploratory_regional,Thailand,sarscov2,4,validation,seasonal_naive52,52,346.46153846153845,519.9700065314419,1.766447690950093,-171.46153846153845,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,test,persistence,29,2.9310344827586206,3.6151024214040435,6.708812260536399,0.034482758620689655,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,test,recent_mean4,29,2.3620689655172415,2.797782373040575,5.406513409961686,-0.46551724137931033,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,test,seasonal_naive52,29,3.793103448275862,4.820931373743545,8.681992337164752,-0.9655172413793104,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,test,persistence,44,3.1363636363636362,4.2157712547916155,7.178787878787879,-0.13636363636363635,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,test,recent_mean4,33,2.4545454545454546,2.998105462393937,5.618181818181819,-0.5,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,test,seasonal_naive52,48,4.854166666666667,6.213225142119563,11.11064814814815,-0.14583333333333334,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,train,persistence,52,0.8653846153846154,1.8027756377319946,1.980769230769231,-0.019230769230769232,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,train,recent_mean4,52,2.0096153846153846,4.067046272740868,4.599786324786325,-0.07692307692307693,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,train,seasonal_naive52,52,2.3461538461538463,5.233031185136907,5.3700854700854705,-2.3461538461538463,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,train,persistence,103,0.4368932038834951,1.280928061613581,1.0,-0.009708737864077669,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,train,recent_mean4,99,1.0555555555555556,2.9475636232541804,2.4160493827160496,-0.04040404040404041,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,train,seasonal_naive52,52,2.3461538461538463,5.233031185136907,5.3700854700854705,-2.3461538461538463,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,validation,persistence,52,2.480769230769231,3.15314251062455,5.6782051282051285,0.019230769230769232,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,validation,recent_mean4,52,2.8701923076923075,3.661290493381135,6.569551282051282,-0.23557692307692307,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,validation,seasonal_naive52,52,4.8076923076923075,5.731156414385656,11.004273504273504,-3.1538461538461537,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,1,validation,persistence,52,2.480769230769231,3.15314251062455,5.6782051282051285,0.019230769230769232,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,validation,recent_mean4,52,2.8701923076923075,3.661290493381135,6.569551282051282,-0.23557692307692307,model_available_rows
+primary_regional,Brunei Darussalam,influenza,1,validation,seasonal_naive52,52,4.8076923076923075,5.731156414385656,11.004273504273504,-3.1538461538461537,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,test,persistence,29,2.793103448275862,4.0641409152870605,6.393103448275863,0.10344827586206896,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,test,recent_mean4,29,2.586206896551724,3.3682083644286167,5.919540229885058,-0.39655172413793105,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,test,seasonal_naive52,29,3.7586206896551726,4.853011862537638,8.603065134099618,-0.8620689655172413,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,test,persistence,44,3.340909090909091,4.634357854899935,7.646969696969697,-0.29545454545454547,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,test,recent_mean4,33,2.606060606060606,3.310337344340201,5.964983164983165,-0.13636363636363635,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,test,seasonal_naive52,48,4.854166666666667,6.213225142119563,11.11064814814815,-0.14583333333333334,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,train,persistence,52,1.4615384615384615,2.922064602034243,3.3452991452991454,-0.038461538461538464,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,train,recent_mean4,52,2.4134615384615383,4.8389942534183055,5.5241452991452995,-0.11538461538461539,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,train,seasonal_naive52,52,2.3461538461538463,5.233031185136907,5.3700854700854705,-2.3461538461538463,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,train,persistence,102,0.7450980392156863,2.086370335408023,1.705446623093682,-0.0196078431372549,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,train,recent_mean4,98,1.280612244897959,3.52487516062047,2.9311791383219954,-0.061224489795918366,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,train,seasonal_naive52,52,2.3461538461538463,5.233031185136907,5.3700854700854705,-2.3461538461538463,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,validation,persistence,52,2.5961538461538463,3.359830581809377,5.9423076923076925,-0.057692307692307696,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,validation,recent_mean4,52,3.1538461538461537,4.084445165220401,7.218803418803419,-0.38461538461538464,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,validation,seasonal_naive52,52,4.8076923076923075,5.731156414385656,11.004273504273504,-3.1538461538461537,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,2,validation,persistence,52,2.5961538461538463,3.359830581809377,5.9423076923076925,-0.057692307692307696,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,validation,recent_mean4,52,3.1538461538461537,4.084445165220401,7.218803418803419,-0.38461538461538464,model_available_rows
+primary_regional,Brunei Darussalam,influenza,2,validation,seasonal_naive52,52,4.8076923076923075,5.731156414385656,11.004273504273504,-3.1538461538461537,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,test,persistence,30,3.2333333333333334,4.535048695071164,7.4007407407407415,0.43333333333333335,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,test,recent_mean4,30,3.6166666666666667,4.522167621838006,8.27814814814815,0.6333333333333333,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,test,seasonal_naive52,30,4.166666666666667,5.173651192984184,9.537037037037038,-0.3,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,test,persistence,44,3.4545454545454546,4.912877327632315,7.907070707070708,-0.5454545454545454,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,test,recent_mean4,34,3.5,4.480759520701032,8.011111111111111,0.8529411764705882,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,test,seasonal_naive52,48,4.854166666666667,6.213225142119563,11.11064814814815,-0.14583333333333334,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,train,persistence,52,2.3461538461538463,4.803844614152614,5.3700854700854705,-0.07692307692307693,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,train,recent_mean4,52,3.0048076923076925,5.855737653066304,6.877670940170941,-0.2548076923076923,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,train,seasonal_naive52,52,2.3461538461538463,5.233031185136907,5.3700854700854705,-2.3461538461538463,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,train,persistence,100,1.22,3.4641016151377544,2.7924444444444445,-0.04,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,train,recent_mean4,96,1.6276041666666667,4.309706220652787,3.725405092592593,-0.13802083333333334,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,train,seasonal_naive52,52,2.3461538461538463,5.233031185136907,5.3700854700854705,-2.3461538461538463,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,validation,persistence,52,3.3653846153846154,4.457060086580011,7.702991452991453,-0.28846153846153844,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,validation,recent_mean4,52,3.25,4.4473414703445195,7.438888888888889,-0.7115384615384616,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,validation,seasonal_naive52,52,4.8076923076923075,5.731156414385656,11.004273504273504,-3.1538461538461537,common_baseline_rows
+primary_regional,Brunei Darussalam,influenza,4,validation,persistence,52,3.3653846153846154,4.457060086580011,7.702991452991453,-0.28846153846153844,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,validation,recent_mean4,52,3.25,4.4473414703445195,7.438888888888889,-0.7115384615384616,model_available_rows
+primary_regional,Brunei Darussalam,influenza,4,validation,seasonal_naive52,52,4.8076923076923075,5.731156414385656,11.004273504273504,-3.1538461538461537,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,test,persistence,29,2.2413793103448274,2.8466556300090233,5.368885324779471,0.10344827586206896,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,test,recent_mean4,29,1.8017241379310345,2.25860423789744,4.315757818765036,0.14655172413793102,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,test,seasonal_naive52,29,4.0344827586206895,5.665990493802656,9.663993584603048,2.586206896551724,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,test,persistence,44,2.090909090909091,2.8123105996832765,5.00845665961945,-0.045454545454545456,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,test,recent_mean4,33,1.6742424242424243,2.1395446980961896,4.010394644115575,0.08333333333333333,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,test,seasonal_naive52,48,3.125,4.677071733467427,7.48546511627907,1.4166666666666667,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,train,persistence,52,0.28846153846153844,0.7467879938056768,0.6909660107334525,-0.09615384615384616,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,train,recent_mean4,52,0.27884615384615385,0.6392603899459485,0.6679338103756709,-0.18269230769230768,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,train,seasonal_naive52,52,1.0384615384615385,2.019139192062567,2.4874776386404296,0.11538461538461539,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,train,persistence,103,0.4174757281553398,1.0287139676238803,1.0,0.009708737864077669,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,train,recent_mean4,99,0.37626262626262624,0.9623597890790968,0.9012802443035001,0.08838383838383838,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,train,seasonal_naive52,52,1.0384615384615385,2.019139192062567,2.4874776386404296,0.11538461538461539,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,validation,persistence,52,2.423076923076923,3.7570446650771423,5.804114490161002,0.07692307692307693,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,validation,recent_mean4,52,1.8942307692307692,2.935197542821371,4.537343470483005,0.09615384615384616,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,validation,seasonal_naive52,52,3.5,5.225676253624243,8.383720930232558,-3.1923076923076925,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,1,validation,persistence,52,2.423076923076923,3.7570446650771423,5.804114490161002,0.07692307692307693,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,validation,recent_mean4,52,1.8942307692307692,2.935197542821371,4.537343470483005,0.09615384615384616,model_available_rows
+primary_regional,Brunei Darussalam,rsv,1,validation,seasonal_naive52,52,3.5,5.225676253624243,8.383720930232558,-3.1923076923076925,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,test,persistence,29,2.1379310344827585,2.626128657194451,5.121090617481957,0.06896551724137931,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,test,recent_mean4,29,1.9051724137931034,2.3621476201351905,4.5635525260625505,-0.0603448275862069,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,test,seasonal_naive52,29,4.172413793103448,5.690282097122039,9.9943865276664,2.4482758620689653,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,test,persistence,44,1.9772727272727273,2.580521441315865,4.736257928118394,0.11363636363636363,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,test,recent_mean4,33,1.9015151515151516,2.436698586202241,4.554792107117689,-0.2196969696969697,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,test,seasonal_naive52,48,3.125,4.677071733467427,7.48546511627907,1.4166666666666667,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,train,persistence,52,0.2692307692307692,0.6793662204867574,0.644901610017889,-0.11538461538461539,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,train,recent_mean4,52,0.2980769230769231,0.6864064729836441,0.7139982110912344,-0.23076923076923078,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,train,seasonal_naive52,52,1.0384615384615385,2.019139192062567,2.4874776386404296,0.11538461538461539,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,train,persistence,102,0.39215686274509803,1.1715583722580123,0.9393524851801186,0.0196078431372549,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,train,recent_mean4,98,0.3903061224489796,0.9738284431739986,0.9349193165638349,0.06377551020408163,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,train,seasonal_naive52,52,1.0384615384615385,2.019139192062567,2.4874776386404296,0.11538461538461539,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,validation,persistence,52,2.269230769230769,3.408135064134726,5.435599284436494,0.07692307692307693,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,validation,recent_mean4,52,2.048076923076923,3.1416862204383667,4.905858676207513,0.10576923076923077,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,validation,seasonal_naive52,52,3.5,5.225676253624243,8.383720930232558,-3.1923076923076925,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,2,validation,persistence,52,2.269230769230769,3.408135064134726,5.435599284436494,0.07692307692307693,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,validation,recent_mean4,52,2.048076923076923,3.1416862204383667,4.905858676207513,0.10576923076923077,model_available_rows
+primary_regional,Brunei Darussalam,rsv,2,validation,seasonal_naive52,52,3.5,5.225676253624243,8.383720930232558,-3.1923076923076925,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,test,persistence,30,2.2666666666666666,2.932575659723036,5.4294573643410855,0.0,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,test,recent_mean4,30,1.825,2.2615444575186516,4.371511627906977,-0.24166666666666667,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,test,seasonal_naive52,30,4.066666666666666,5.60357029044876,9.741085271317829,2.466666666666667,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,test,persistence,44,2.090909090909091,2.8284271247461903,5.00845665961945,-0.09090909090909091,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,test,recent_mean4,34,1.7573529411764706,2.1866069605669876,4.209473324213406,-0.11029411764705882,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,test,seasonal_naive52,48,3.125,4.677071733467427,7.48546511627907,1.4166666666666667,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,train,persistence,52,0.28846153846153844,0.7467879938056768,0.6909660107334525,-0.21153846153846154,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,train,recent_mean4,52,0.33653846153846156,0.795117311131847,0.8061270125223614,-0.3076923076923077,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,train,seasonal_naive52,52,1.0384615384615385,2.019139192062567,2.4874776386404296,0.11538461538461539,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,train,persistence,100,0.4,1.1575836902790226,0.9581395348837211,0.1,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,train,recent_mean4,96,0.4348958333333333,1.0840342283956412,1.0417272286821706,0.044270833333333336,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,train,seasonal_naive52,52,1.0384615384615385,2.019139192062567,2.4874776386404296,0.11538461538461539,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,validation,persistence,52,2.4423076923076925,3.6558698849090097,5.850178890876566,0.09615384615384616,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,validation,recent_mean4,52,2.418269230769231,3.5843208239819675,5.792598389982111,0.1201923076923077,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,validation,seasonal_naive52,52,3.5,5.225676253624243,8.383720930232558,-3.1923076923076925,common_baseline_rows
+primary_regional,Brunei Darussalam,rsv,4,validation,persistence,52,2.4423076923076925,3.6558698849090097,5.850178890876566,0.09615384615384616,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,validation,recent_mean4,52,2.418269230769231,3.5843208239819675,5.792598389982111,0.1201923076923077,model_available_rows
+primary_regional,Brunei Darussalam,rsv,4,validation,seasonal_naive52,52,3.5,5.225676253624243,8.383720930232558,-3.1923076923076925,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,test,persistence,52,143.15384615384616,381.91214253462095,0.14703326222643598,83.34615384615384,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,test,recent_mean4,52,350.92788461538464,820.9147110025406,0.3604378999762977,249.46634615384616,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,test,seasonal_naive52,52,1107.75,1872.7817493688983,1.1377696136525242,789.6346153846154,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,test,persistence,52,143.15384615384616,381.91214253462095,0.14703326222643598,83.34615384615384,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,test,recent_mean4,52,350.92788461538464,820.9147110025406,0.3604378999762977,249.46634615384616,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,test,seasonal_naive52,52,1107.75,1872.7817493688983,1.1377696136525242,789.6346153846154,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,train,persistence,104,973.6153846153846,2342.7648196095142,1.0,-15.038461538461538,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,train,recent_mean4,104,2377.5697115384614,5257.660551439077,2.4420009678438808,-72.21875,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,train,seasonal_naive52,104,2449.596153846154,5518.301050211852,2.5159792999920993,-2447.3846153846152,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,train,persistence,104,973.6153846153846,2342.7648196095142,1.0,-15.038461538461538,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,train,recent_mean4,104,2377.5697115384614,5257.660551439077,2.4420009678438808,-72.21875,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,train,seasonal_naive52,104,2449.596153846154,5518.301050211852,2.5159792999920993,-2447.3846153846152,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,validation,persistence,52,498.78846153846155,923.4464813112636,0.5123054436280319,-56.09615384615385,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,validation,recent_mean4,52,906.1298076923077,1573.0326093709027,0.9306855890021333,-114.48557692307692,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,validation,seasonal_naive52,52,4681.673076923077,7595.839558347309,4.808544678833847,3733.1346153846152,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,1,validation,persistence,52,498.78846153846155,923.4464813112636,0.5123054436280319,-56.09615384615385,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,validation,recent_mean4,52,906.1298076923077,1573.0326093709027,0.9306855890021333,-114.48557692307692,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,1,validation,seasonal_naive52,52,4681.673076923077,7595.839558347309,4.808544678833847,3733.1346153846152,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,test,persistence,52,216.94230769230768,581.9606284594544,0.2228213636722762,177.32692307692307,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,test,recent_mean4,52,471.03846153846155,1017.7405640777175,0.48380342893260647,282.4519230769231,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,test,seasonal_naive52,52,1107.75,1872.7817493688983,1.1377696136525242,789.6346153846154,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,test,persistence,52,216.94230769230768,581.9606284594544,0.2228213636722762,177.32692307692307,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,test,recent_mean4,52,471.03846153846155,1017.7405640777175,0.48380342893260647,282.4519230769231,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,test,seasonal_naive52,52,1107.75,1872.7817493688983,1.1377696136525242,789.6346153846154,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,train,persistence,104,1682.6346153846155,4094.352456550552,1.728233388638698,-32.30769230769231,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,train,recent_mean4,104,2783.206730769231,5981.6498606394925,2.858630599668168,-104.45192307692308,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,train,seasonal_naive52,104,2449.596153846154,5518.301050211852,2.5159792999920993,-2447.3846153846152,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,train,persistence,104,1682.6346153846155,4094.352456550552,1.728233388638698,-32.30769230769231,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,train,recent_mean4,104,2783.206730769231,5981.6498606394925,2.858630599668168,-104.45192307692308,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,train,seasonal_naive52,104,2449.596153846154,5518.301050211852,2.5159792999920993,-2447.3846153846152,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,validation,persistence,52,728.9038461538462,1383.8474863165434,0.7486568697163625,-118.48076923076923,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,validation,recent_mean4,52,1066.1923076923076,1747.6652241138527,1.0950857233151614,-85.17307692307692,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,validation,seasonal_naive52,52,4681.673076923077,7595.839558347309,4.808544678833847,3733.1346153846152,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,2,validation,persistence,52,728.9038461538462,1383.8474863165434,0.7486568697163625,-118.48076923076923,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,validation,recent_mean4,52,1066.1923076923076,1747.6652241138527,1.0950857233151614,-85.17307692307692,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,2,validation,seasonal_naive52,52,4681.673076923077,7595.839558347309,4.808544678833847,3733.1346153846152,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,test,persistence,52,436.09615384615387,1003.943541547723,0.4479141976771747,278.0192307692308,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,test,recent_mean4,52,655.8317307692307,1320.5703372501596,0.6736045271391324,312.7548076923077,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,test,seasonal_naive52,52,1107.75,1872.7817493688983,1.1377696136525242,789.6346153846154,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,test,persistence,52,436.09615384615387,1003.943541547723,0.4479141976771747,278.0192307692308,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,test,recent_mean4,52,655.8317307692307,1320.5703372501596,0.6736045271391324,312.7548076923077,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,test,seasonal_naive52,52,1107.75,1872.7817493688983,1.1377696136525242,789.6346153846154,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,train,persistence,104,2728.173076923077,6247.771413441386,2.802105554238761,-84.01923076923077,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,train,recent_mean4,104,3282.0552884615386,6661.810839077393,3.3709977680334995,-182.48798076923077,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,train,seasonal_naive52,104,2449.596153846154,5518.301050211852,2.5159792999920993,-2447.3846153846152,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,train,persistence,104,2728.173076923077,6247.771413441386,2.802105554238761,-84.01923076923077,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,train,recent_mean4,104,3282.0552884615386,6661.810839077393,3.3709977680334995,-182.48798076923077,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,train,seasonal_naive52,104,2449.596153846154,5518.301050211852,2.5159792999920993,-2447.3846153846152,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,validation,persistence,52,1088.5,1844.1320868761418,1.1179979458007427,-120.84615384615384,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,validation,recent_mean4,52,1298.2211538461538,1967.4279272792844,1.3334024650391088,37.04807692307692,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,validation,seasonal_naive52,52,4681.673076923077,7595.839558347309,4.808544678833847,3733.1346153846152,common_baseline_rows
+primary_regional,Brunei Darussalam,sarscov2,4,validation,persistence,52,1088.5,1844.1320868761418,1.1179979458007427,-120.84615384615384,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,validation,recent_mean4,52,1298.2211538461538,1967.4279272792844,1.3334024650391088,37.04807692307692,model_available_rows
+primary_regional,Brunei Darussalam,sarscov2,4,validation,seasonal_naive52,52,4681.673076923077,7595.839558347309,4.808544678833847,3733.1346153846152,model_available_rows
+primary_regional,Indonesia,influenza,1,test,persistence,53,5.566037735849057,6.907747905944127,1.5048559563127433,-0.6981132075471698,common_baseline_rows
+primary_regional,Indonesia,influenza,1,test,recent_mean4,53,5.476415094339623,7.561773900897982,1.4806252248127922,-2.5707547169811322,common_baseline_rows
+primary_regional,Indonesia,influenza,1,test,seasonal_naive52,53,10.81132075471698,15.261865164582172,2.9229913998888195,-8.88679245283019,common_baseline_rows
+primary_regional,Indonesia,influenza,1,test,persistence,53,5.566037735849057,6.907747905944127,1.5048559563127433,-0.6981132075471698,model_available_rows
+primary_regional,Indonesia,influenza,1,test,recent_mean4,53,5.476415094339623,7.561773900897982,1.4806252248127922,-2.5707547169811322,model_available_rows
+primary_regional,Indonesia,influenza,1,test,seasonal_naive52,53,10.81132075471698,15.261865164582172,2.9229913998888195,-8.88679245283019,model_available_rows
+primary_regional,Indonesia,influenza,1,train,persistence,156,3.698717948717949,9.838112702061384,1.0,0.16025641025641027,common_baseline_rows
+primary_regional,Indonesia,influenza,1,train,recent_mean4,156,5.573717948717949,15.395845260395783,1.5069324090121317,0.11538461538461539,common_baseline_rows
+primary_regional,Indonesia,influenza,1,train,seasonal_naive52,156,11.314102564102564,24.638540790957816,3.0589254766031195,1.6346153846153846,common_baseline_rows
+primary_regional,Indonesia,influenza,1,train,persistence,156,3.698717948717949,9.838112702061384,1.0,0.16025641025641027,model_available_rows
+primary_regional,Indonesia,influenza,1,train,recent_mean4,156,5.573717948717949,15.395845260395783,1.5069324090121317,0.11538461538461539,model_available_rows
+primary_regional,Indonesia,influenza,1,train,seasonal_naive52,156,11.314102564102564,24.638540790957816,3.0589254766031195,1.6346153846153846,model_available_rows
+primary_regional,Indonesia,influenza,1,validation,persistence,52,3.4038461538461537,4.339000239331991,0.9202772963604852,-0.1346153846153846,common_baseline_rows
+primary_regional,Indonesia,influenza,1,validation,recent_mean4,52,4.110576923076923,5.301827515112124,1.1113518197573657,-0.1778846153846154,common_baseline_rows
+primary_regional,Indonesia,influenza,1,validation,seasonal_naive52,52,5.153846153846154,6.468860320501119,1.3934142114384749,-2.3076923076923075,common_baseline_rows
+primary_regional,Indonesia,influenza,1,validation,persistence,52,3.4038461538461537,4.339000239331991,0.9202772963604852,-0.1346153846153846,model_available_rows
+primary_regional,Indonesia,influenza,1,validation,recent_mean4,52,4.110576923076923,5.301827515112124,1.1113518197573657,-0.1778846153846154,model_available_rows
+primary_regional,Indonesia,influenza,1,validation,seasonal_naive52,52,5.153846153846154,6.468860320501119,1.3934142114384749,-2.3076923076923075,model_available_rows
+primary_regional,Indonesia,influenza,2,test,persistence,53,6.037735849056604,8.01413844991086,1.6323861221019589,-1.3584905660377358,common_baseline_rows
+primary_regional,Indonesia,influenza,2,test,recent_mean4,53,6.0754716981132075,8.190105627443351,1.642588535365096,-3.169811320754717,common_baseline_rows
+primary_regional,Indonesia,influenza,2,test,seasonal_naive52,53,10.81132075471698,15.261865164582172,2.9229913998888195,-8.88679245283019,common_baseline_rows
+primary_regional,Indonesia,influenza,2,test,persistence,53,6.037735849056604,8.01413844991086,1.6323861221019589,-1.3584905660377358,model_available_rows
+primary_regional,Indonesia,influenza,2,test,recent_mean4,53,6.0754716981132075,8.190105627443351,1.642588535365096,-3.169811320754717,model_available_rows
+primary_regional,Indonesia,influenza,2,test,seasonal_naive52,53,10.81132075471698,15.261865164582172,2.9229913998888195,-8.88679245283019,model_available_rows
+primary_regional,Indonesia,influenza,2,train,persistence,156,4.397435897435898,12.962470483115517,1.1889081455805892,0.14102564102564102,common_baseline_rows
+primary_regional,Indonesia,influenza,2,train,recent_mean4,156,6.645833333333333,17.751433221299525,1.796793760831889,0.09775641025641026,common_baseline_rows
+primary_regional,Indonesia,influenza,2,train,seasonal_naive52,156,11.314102564102564,24.638540790957816,3.0589254766031195,1.6346153846153846,common_baseline_rows
+primary_regional,Indonesia,influenza,2,train,persistence,156,4.397435897435898,12.962470483115517,1.1889081455805892,0.14102564102564102,model_available_rows
+primary_regional,Indonesia,influenza,2,train,recent_mean4,156,6.645833333333333,17.751433221299525,1.796793760831889,0.09775641025641026,model_available_rows
+primary_regional,Indonesia,influenza,2,train,seasonal_naive52,156,11.314102564102564,24.638540790957816,3.0589254766031195,1.6346153846153846,model_available_rows
+primary_regional,Indonesia,influenza,2,validation,persistence,52,3.6153846153846154,4.97686957526825,0.9774696707105719,-0.19230769230769232,common_baseline_rows
+primary_regional,Indonesia,influenza,2,validation,recent_mean4,52,4.735576923076923,5.932614386721799,1.2803292894280762,-0.1778846153846154,common_baseline_rows
+primary_regional,Indonesia,influenza,2,validation,seasonal_naive52,52,5.153846153846154,6.468860320501119,1.3934142114384749,-2.3076923076923075,common_baseline_rows
+primary_regional,Indonesia,influenza,2,validation,persistence,52,3.6153846153846154,4.97686957526825,0.9774696707105719,-0.19230769230769232,model_available_rows
+primary_regional,Indonesia,influenza,2,validation,recent_mean4,52,4.735576923076923,5.932614386721799,1.2803292894280762,-0.1778846153846154,model_available_rows
+primary_regional,Indonesia,influenza,2,validation,seasonal_naive52,52,5.153846153846154,6.468860320501119,1.3934142114384749,-2.3076923076923075,model_available_rows
+primary_regional,Indonesia,influenza,4,test,persistence,53,6.452830188679245,8.613285043772963,1.7446126679964682,-3.0943396226415096,common_baseline_rows
+primary_regional,Indonesia,influenza,4,test,recent_mean4,53,7.19811320754717,9.166823898022612,1.9461103299434288,-4.028301886792453,common_baseline_rows
+primary_regional,Indonesia,influenza,4,test,seasonal_naive52,53,10.81132075471698,15.261865164582172,2.9229913998888195,-8.88679245283019,common_baseline_rows
+primary_regional,Indonesia,influenza,4,test,persistence,53,6.452830188679245,8.613285043772963,1.7446126679964682,-3.0943396226415096,model_available_rows
+primary_regional,Indonesia,influenza,4,test,recent_mean4,53,7.19811320754717,9.166823898022612,1.9461103299434288,-4.028301886792453,model_available_rows
+primary_regional,Indonesia,influenza,4,test,seasonal_naive52,53,10.81132075471698,15.261865164582172,2.9229913998888195,-8.88679245283019,model_available_rows
+primary_regional,Indonesia,influenza,4,train,persistence,156,6.551282051282051,18.349526647985453,1.7712305025996533,0.10256410256410256,common_baseline_rows
+primary_regional,Indonesia,influenza,4,train,recent_mean4,156,8.251602564102564,21.38924027072898,2.2309358752166375,0.08173076923076923,common_baseline_rows
+primary_regional,Indonesia,influenza,4,train,seasonal_naive52,156,11.314102564102564,24.638540790957816,3.0589254766031195,1.6346153846153846,common_baseline_rows
+primary_regional,Indonesia,influenza,4,train,persistence,156,6.551282051282051,18.349526647985453,1.7712305025996533,0.10256410256410256,model_available_rows
+primary_regional,Indonesia,influenza,4,train,recent_mean4,156,8.251602564102564,21.38924027072898,2.2309358752166375,0.08173076923076923,model_available_rows
+primary_regional,Indonesia,influenza,4,train,seasonal_naive52,156,11.314102564102564,24.638540790957816,3.0589254766031195,1.6346153846153846,model_available_rows
+primary_regional,Indonesia,influenza,4,validation,persistence,52,5.134615384615385,6.467373738769322,1.3882149046793761,-0.1346153846153846,common_baseline_rows
+primary_regional,Indonesia,influenza,4,validation,recent_mean4,52,5.4375,7.027504344195904,1.470103986135182,-0.24519230769230768,common_baseline_rows
+primary_regional,Indonesia,influenza,4,validation,seasonal_naive52,52,5.153846153846154,6.468860320501119,1.3934142114384749,-2.3076923076923075,common_baseline_rows
+primary_regional,Indonesia,influenza,4,validation,persistence,52,5.134615384615385,6.467373738769322,1.3882149046793761,-0.1346153846153846,model_available_rows
+primary_regional,Indonesia,influenza,4,validation,recent_mean4,52,5.4375,7.027504344195904,1.470103986135182,-0.24519230769230768,model_available_rows
+primary_regional,Indonesia,influenza,4,validation,seasonal_naive52,52,5.153846153846154,6.468860320501119,1.3934142114384749,-2.3076923076923075,model_available_rows
+primary_regional,Indonesia,rsv,1,test,persistence,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,test,recent_mean4,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,test,seasonal_naive52,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,test,persistence,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,test,recent_mean4,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,test,seasonal_naive52,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,train,persistence,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,train,recent_mean4,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,train,seasonal_naive52,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,train,persistence,156,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,train,recent_mean4,152,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,train,seasonal_naive52,105,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,validation,persistence,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,validation,recent_mean4,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,validation,seasonal_naive52,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,1,validation,persistence,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,validation,recent_mean4,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,1,validation,seasonal_naive52,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,test,persistence,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,test,recent_mean4,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,test,seasonal_naive52,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,test,persistence,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,test,recent_mean4,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,test,seasonal_naive52,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,train,persistence,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,train,recent_mean4,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,train,seasonal_naive52,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,train,persistence,155,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,train,recent_mean4,151,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,train,seasonal_naive52,105,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,validation,persistence,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,validation,recent_mean4,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,validation,seasonal_naive52,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,2,validation,persistence,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,validation,recent_mean4,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,2,validation,seasonal_naive52,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,test,persistence,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,test,recent_mean4,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,test,seasonal_naive52,53,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,test,persistence,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,test,recent_mean4,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,test,seasonal_naive52,53,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,train,persistence,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,train,recent_mean4,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,train,seasonal_naive52,105,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,train,persistence,153,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,train,recent_mean4,149,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,train,seasonal_naive52,105,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,validation,persistence,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,validation,recent_mean4,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,validation,seasonal_naive52,52,0.0,0.0,,0.0,common_baseline_rows
+primary_regional,Indonesia,rsv,4,validation,persistence,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,validation,recent_mean4,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,rsv,4,validation,seasonal_naive52,52,0.0,0.0,,0.0,model_available_rows
+primary_regional,Indonesia,sarscov2,1,test,persistence,16,132.1875,230.46325629045512,0.01151160161777882,120.8125,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,test,recent_mean4,16,358.59375,604.2757157333066,0.03122828098439999,303.84375,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,test,seasonal_naive52,16,2134.6875,2858.840575740452,0.18590011974242818,2124.1875,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,test,persistence,35,93.31428571428572,183.46210196425545,0.008126312112646403,57.2,model_available_rows
+primary_regional,Indonesia,sarscov2,1,test,recent_mean4,20,321.3875,560.0497662038615,0.027988159734724464,276.4375,model_available_rows
+primary_regional,Indonesia,sarscov2,1,test,seasonal_naive52,43,1761.9302325581396,3189.8910931325713,0.15343840314348703,1745.0,model_available_rows
+primary_regional,Indonesia,sarscov2,1,train,persistence,105,16389.466666666667,32227.747913279713,1.4272832983037884,422.64761904761906,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,train,recent_mean4,105,44303.65714285714,81099.33060687575,3.8582018060651153,1157.1904761904761,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,train,seasonal_naive52,105,73227.31428571428,109033.66616408416,6.377030124611076,-16606.17142857143,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,train,persistence,156,11482.98076923077,26467.912563720798,1.0,-26.006410256410255,model_available_rows
+primary_regional,Indonesia,sarscov2,1,train,recent_mean4,152,31779.88157894737,67471.22165013889,2.7675637726489257,-233.37171052631578,model_available_rows
+primary_regional,Indonesia,sarscov2,1,train,seasonal_naive52,105,73227.31428571428,109033.66616408416,6.377030124611076,-16606.17142857143,model_available_rows
+primary_regional,Indonesia,sarscov2,1,validation,persistence,52,582.7884615384615,1196.1900656153782,0.05075236763437529,40.71153846153846,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,validation,recent_mean4,52,1981.3173076923076,3369.1420854316793,0.17254381484303694,547.9711538461538,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,validation,seasonal_naive52,52,46628.88461538462,95239.9599315814,4.060695175971128,45296.61538461538,common_baseline_rows
+primary_regional,Indonesia,sarscov2,1,validation,persistence,52,582.7884615384615,1196.1900656153782,0.05075236763437529,40.71153846153846,model_available_rows
+primary_regional,Indonesia,sarscov2,1,validation,recent_mean4,52,1981.3173076923076,3369.1420854316793,0.17254381484303694,547.9711538461538,model_available_rows
+primary_regional,Indonesia,sarscov2,1,validation,seasonal_naive52,52,46628.88461538462,95239.9599315814,4.060695175971128,45296.61538461538,model_available_rows
+primary_regional,Indonesia,sarscov2,2,test,persistence,17,243.8235294117647,416.8899558565997,0.021233470151330588,236.76470588235293,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,test,recent_mean4,17,468.54411764705884,755.1817881068341,0.04080335298501471,318.27941176470586,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,test,seasonal_naive52,17,2635.529411764706,4063.457684403909,0.22951613912188557,2631.4117647058824,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,test,persistence,35,138.42857142857142,299.3662353324818,0.0120551078339779,129.85714285714286,model_available_rows
+primary_regional,Indonesia,sarscov2,2,test,recent_mean4,20,412.975,698.6339304313813,0.03596409401874011,281.425,model_available_rows
+primary_regional,Indonesia,sarscov2,2,test,seasonal_naive52,43,1761.9302325581396,3189.8910931325713,0.15343840314348703,1745.0,model_available_rows
+primary_regional,Indonesia,sarscov2,2,train,persistence,105,29867.990476190476,58147.05872322266,2.6010659667935068,809.152380952381,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,train,recent_mean4,105,53455.16428571429,95133.68250382559,4.655164487338524,1274.9928571428572,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,train,seasonal_naive52,105,73227.31428571428,109033.66616408416,6.377030124611076,-16606.17142857143,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,train,persistence,155,20991.754838709676,47900.183396780034,1.8280754153101213,-68.28387096774193,model_available_rows
+primary_regional,Indonesia,sarscov2,2,train,recent_mean4,151,38593.16225165563,79412.68714935578,3.360901061078842,-402.5165562913907,model_available_rows
+primary_regional,Indonesia,sarscov2,2,train,seasonal_naive52,105,73227.31428571428,109033.66616408416,6.377030124611076,-16606.17142857143,model_available_rows
+primary_regional,Indonesia,sarscov2,2,validation,persistence,52,1092.2692307692307,2026.1506512444876,0.0951207053917587,114.76923076923077,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,validation,recent_mean4,52,2689.831730769231,4849.9407164546865,0.23424507841873007,1016.7451923076923,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,validation,seasonal_naive52,52,46628.88461538462,95239.9599315814,4.060695175971128,45296.61538461538,common_baseline_rows
+primary_regional,Indonesia,sarscov2,2,validation,persistence,52,1092.2692307692307,2026.1506512444876,0.0951207053917587,114.76923076923077,model_available_rows
+primary_regional,Indonesia,sarscov2,2,validation,recent_mean4,52,2689.831730769231,4849.9407164546865,0.23424507841873007,1016.7451923076923,model_available_rows
+primary_regional,Indonesia,sarscov2,2,validation,seasonal_naive52,52,46628.88461538462,95239.9599315814,4.060695175971128,45296.61538461538,model_available_rows
+primary_regional,Indonesia,sarscov2,4,test,persistence,17,426.3529411764706,727.464331043919,0.03712911740816505,386.8235294117647,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,test,recent_mean4,17,699.4117647058823,1029.5815719190462,0.06090855490936566,270.5,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,test,seasonal_naive52,17,2981.9411764705883,4541.132542076468,0.2596835470160197,2977.9411764705883,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,test,persistence,36,224.30555555555554,505.1582535316147,0.019533739545797523,191.36111111111111,model_available_rows
+primary_regional,Indonesia,sarscov2,4,test,recent_mean4,20,631.3875,961.0101570092795,0.05498463445065021,266.8125,model_available_rows
+primary_regional,Indonesia,sarscov2,4,test,seasonal_naive52,43,1761.9302325581396,3189.8910931325713,0.15343840314348703,1745.0,model_available_rows
+primary_regional,Indonesia,sarscov2,4,train,persistence,105,51922.695238095235,95671.15345653967,4.521708803799858,1324.9619047619049,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,train,recent_mean4,105,67242.14761904762,112623.38164418358,5.855809477555373,1187.7666666666667,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,train,seasonal_naive52,105,73227.31428571428,109033.66616408416,6.377030124611076,-16606.17142857143,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,train,persistence,153,36972.74509803922,79331.49477948662,3.2197863813470424,-261.29411764705884,model_available_rows
+primary_regional,Indonesia,sarscov2,4,train,recent_mean4,149,49196.219798657716,94649.82201141852,4.28427259326964,-904.8942953020135,model_available_rows
+primary_regional,Indonesia,sarscov2,4,train,seasonal_naive52,105,73227.31428571428,109033.66616408416,6.377030124611076,-16606.17142857143,model_available_rows
+primary_regional,Indonesia,sarscov2,4,validation,persistence,52,2231.7884615384614,3907.7669183897774,0.19435619604263835,608.4038461538462,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,validation,recent_mean4,52,4358.899038461538,8588.39519498494,0.379596476390645,2432.466346153846,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,validation,seasonal_naive52,52,46628.88461538462,95239.9599315814,4.060695175971128,45296.61538461538,common_baseline_rows
+primary_regional,Indonesia,sarscov2,4,validation,persistence,52,2231.7884615384614,3907.7669183897774,0.19435619604263835,608.4038461538462,model_available_rows
+primary_regional,Indonesia,sarscov2,4,validation,recent_mean4,52,4358.899038461538,8588.39519498494,0.379596476390645,2432.466346153846,model_available_rows
+primary_regional,Indonesia,sarscov2,4,validation,seasonal_naive52,52,46628.88461538462,95239.9599315814,4.060695175971128,45296.61538461538,model_available_rows
+primary_regional,Malaysia,influenza,1,test,persistence,53,20.037735849056602,24.98376831555406,2.4632677639502205,-1.6603773584905661,common_baseline_rows
+primary_regional,Malaysia,influenza,1,test,recent_mean4,53,25.4811320754717,31.349295077988476,3.1324323118783175,-3.80188679245283,common_baseline_rows
+primary_regional,Malaysia,influenza,1,test,seasonal_naive52,53,57.924528301886795,76.03028195123905,7.120745795976627,6.0754716981132075,common_baseline_rows
+primary_regional,Malaysia,influenza,1,test,persistence,53,20.037735849056602,24.98376831555406,2.4632677639502205,-1.6603773584905661,model_available_rows
+primary_regional,Malaysia,influenza,1,test,recent_mean4,53,25.4811320754717,31.349295077988476,3.1324323118783175,-3.80188679245283,model_available_rows
+primary_regional,Malaysia,influenza,1,test,seasonal_naive52,53,57.924528301886795,76.03028195123905,7.120745795976627,6.0754716981132075,model_available_rows
+primary_regional,Malaysia,influenza,1,train,persistence,156,8.134615384615385,16.959416112348762,1.0,-1.1602564102564104,common_baseline_rows
+primary_regional,Malaysia,influenza,1,train,recent_mean4,156,17.88621794871795,35.78452810815139,2.1987785657998424,-3.405448717948718,common_baseline_rows
+primary_regional,Malaysia,influenza,1,train,seasonal_naive52,156,42.80769230769231,73.83088784512888,5.26241134751773,-25.32051282051282,common_baseline_rows
+primary_regional,Malaysia,influenza,1,train,persistence,156,8.134615384615385,16.959416112348762,1.0,-1.1602564102564104,model_available_rows
+primary_regional,Malaysia,influenza,1,train,recent_mean4,156,17.88621794871795,35.78452810815139,2.1987785657998424,-3.405448717948718,model_available_rows
+primary_regional,Malaysia,influenza,1,train,seasonal_naive52,156,42.80769230769231,73.83088784512888,5.26241134751773,-25.32051282051282,model_available_rows
+primary_regional,Malaysia,influenza,1,validation,persistence,52,20.384615384615383,29.53876201770246,2.505910165484633,2.9615384615384617,common_baseline_rows
+primary_regional,Malaysia,influenza,1,validation,recent_mean4,52,39.16346153846154,45.82161272050224,4.814420803782506,7.019230769230769,common_baseline_rows
+primary_regional,Malaysia,influenza,1,validation,seasonal_naive52,52,95.17307692307692,114.19963963300275,11.699763593380613,-60.63461538461539,common_baseline_rows
+primary_regional,Malaysia,influenza,1,validation,persistence,52,20.384615384615383,29.53876201770246,2.505910165484633,2.9615384615384617,model_available_rows
+primary_regional,Malaysia,influenza,1,validation,recent_mean4,52,39.16346153846154,45.82161272050224,4.814420803782506,7.019230769230769,model_available_rows
+primary_regional,Malaysia,influenza,1,validation,seasonal_naive52,52,95.17307692307692,114.19963963300275,11.699763593380613,-60.63461538461539,model_available_rows
+primary_regional,Malaysia,influenza,2,test,persistence,53,22.62264150943396,29.701978842659816,2.7810339444221417,-2.4339622641509435,common_baseline_rows
+primary_regional,Malaysia,influenza,2,test,recent_mean4,53,27.683962264150942,34.9853574492109,3.4032294036308484,-4.797169811320755,common_baseline_rows
+primary_regional,Malaysia,influenza,2,test,seasonal_naive52,53,57.924528301886795,76.03028195123905,7.120745795976627,6.0754716981132075,common_baseline_rows
+primary_regional,Malaysia,influenza,2,test,persistence,53,22.62264150943396,29.701978842659816,2.7810339444221417,-2.4339622641509435,model_available_rows
+primary_regional,Malaysia,influenza,2,test,recent_mean4,53,27.683962264150942,34.9853574492109,3.4032294036308484,-4.797169811320755,model_available_rows
+primary_regional,Malaysia,influenza,2,test,seasonal_naive52,53,57.924528301886795,76.03028195123905,7.120745795976627,6.0754716981132075,model_available_rows
+primary_regional,Malaysia,influenza,2,train,persistence,156,12.448717948717949,25.28098505059099,1.5303388494877856,-2.141025641025641,common_baseline_rows
+primary_regional,Malaysia,influenza,2,train,recent_mean4,156,21.868589743589745,43.75466092388447,2.6883372734436564,-4.166666666666667,common_baseline_rows
+primary_regional,Malaysia,influenza,2,train,seasonal_naive52,156,42.80769230769231,73.83088784512888,5.26241134751773,-25.32051282051282,common_baseline_rows
+primary_regional,Malaysia,influenza,2,train,persistence,156,12.448717948717949,25.28098505059099,1.5303388494877856,-2.141025641025641,model_available_rows
+primary_regional,Malaysia,influenza,2,train,recent_mean4,156,21.868589743589745,43.75466092388447,2.6883372734436564,-4.166666666666667,model_available_rows
+primary_regional,Malaysia,influenza,2,train,seasonal_naive52,156,42.80769230769231,73.83088784512888,5.26241134751773,-25.32051282051282,model_available_rows
+primary_regional,Malaysia,influenza,2,validation,persistence,52,27.96153846153846,35.911215304071575,3.4373522458628836,5.038461538461538,common_baseline_rows
+primary_regional,Malaysia,influenza,2,validation,recent_mean4,52,47.64423076923077,55.844564503766925,5.856973995271867,8.048076923076923,common_baseline_rows
+primary_regional,Malaysia,influenza,2,validation,seasonal_naive52,52,95.17307692307692,114.19963963300275,11.699763593380613,-60.63461538461539,common_baseline_rows
+primary_regional,Malaysia,influenza,2,validation,persistence,52,27.96153846153846,35.911215304071575,3.4373522458628836,5.038461538461538,model_available_rows
+primary_regional,Malaysia,influenza,2,validation,recent_mean4,52,47.64423076923077,55.844564503766925,5.856973995271867,8.048076923076923,model_available_rows
+primary_regional,Malaysia,influenza,2,validation,seasonal_naive52,52,95.17307692307692,114.19963963300275,11.699763593380613,-60.63461538461539,model_available_rows
+primary_regional,Malaysia,influenza,4,test,persistence,53,31.547169811320753,38.298726517081334,3.8781390784602343,-4.226415094339623,common_baseline_rows
+primary_regional,Malaysia,influenza,4,test,recent_mean4,53,31.066037735849058,40.96757231191611,3.8189928185913735,-6.481132075471698,common_baseline_rows
+primary_regional,Malaysia,influenza,4,test,seasonal_naive52,53,57.924528301886795,76.03028195123905,7.120745795976627,6.0754716981132075,common_baseline_rows
+primary_regional,Malaysia,influenza,4,test,persistence,53,31.547169811320753,38.298726517081334,3.8781390784602343,-4.226415094339623,model_available_rows
+primary_regional,Malaysia,influenza,4,test,recent_mean4,53,31.066037735849058,40.96757231191611,3.8189928185913735,-6.481132075471698,model_available_rows
+primary_regional,Malaysia,influenza,4,test,seasonal_naive52,53,57.924528301886795,76.03028195123905,7.120745795976627,6.0754716981132075,model_available_rows
+primary_regional,Malaysia,influenza,4,train,persistence,156,20.365384615384617,41.44590233681516,2.50354609929078,-3.878205128205128,common_baseline_rows
+primary_regional,Malaysia,influenza,4,train,recent_mean4,156,28.99198717948718,57.49201101134144,3.5640267927501967,-5.50801282051282,common_baseline_rows
+primary_regional,Malaysia,influenza,4,train,seasonal_naive52,156,42.80769230769231,73.83088784512888,5.26241134751773,-25.32051282051282,common_baseline_rows
+primary_regional,Malaysia,influenza,4,train,persistence,156,20.365384615384617,41.44590233681516,2.50354609929078,-3.878205128205128,model_available_rows
+primary_regional,Malaysia,influenza,4,train,recent_mean4,156,28.99198717948718,57.49201101134144,3.5640267927501967,-5.50801282051282,model_available_rows
+primary_regional,Malaysia,influenza,4,train,seasonal_naive52,156,42.80769230769231,73.83088784512888,5.26241134751773,-25.32051282051282,model_available_rows
+primary_regional,Malaysia,influenza,4,validation,persistence,52,45.01923076923077,54.19001469189404,5.534278959810874,7.865384615384615,common_baseline_rows
+primary_regional,Malaysia,influenza,4,validation,recent_mean4,52,64.99038461538461,74.67133112719829,7.989361702127659,9.336538461538462,common_baseline_rows
+primary_regional,Malaysia,influenza,4,validation,seasonal_naive52,52,95.17307692307692,114.19963963300275,11.699763593380613,-60.63461538461539,common_baseline_rows
+primary_regional,Malaysia,influenza,4,validation,persistence,52,45.01923076923077,54.19001469189404,5.534278959810874,7.865384615384615,model_available_rows
+primary_regional,Malaysia,influenza,4,validation,recent_mean4,52,64.99038461538461,74.67133112719829,7.989361702127659,9.336538461538462,model_available_rows
+primary_regional,Malaysia,influenza,4,validation,seasonal_naive52,52,95.17307692307692,114.19963963300275,11.699763593380613,-60.63461538461539,model_available_rows
+primary_regional,Malaysia,rsv,1,test,persistence,52,3.173076923076923,4.1161034598644015,1.853932584269663,0.019230769230769232,common_baseline_rows
+primary_regional,Malaysia,rsv,1,test,recent_mean4,52,3.4423076923076925,4.526365072464965,2.01123595505618,0.028846153846153848,common_baseline_rows
+primary_regional,Malaysia,rsv,1,test,seasonal_naive52,52,7.730769230769231,9.65959069048437,4.51685393258427,6.038461538461538,common_baseline_rows
+primary_regional,Malaysia,rsv,1,test,persistence,52,3.173076923076923,4.1161034598644015,1.853932584269663,0.019230769230769232,model_available_rows
+primary_regional,Malaysia,rsv,1,test,recent_mean4,52,3.4423076923076925,4.526365072464965,2.01123595505618,0.028846153846153848,model_available_rows
+primary_regional,Malaysia,rsv,1,test,seasonal_naive52,52,7.730769230769231,9.65959069048437,4.51685393258427,6.038461538461538,model_available_rows
+primary_regional,Malaysia,rsv,1,train,persistence,156,1.7115384615384615,2.8295600817813105,1.0,-0.057692307692307696,common_baseline_rows
+primary_regional,Malaysia,rsv,1,train,recent_mean4,156,2.1201923076923075,3.3583396958646863,1.2387640449438202,-0.1971153846153846,common_baseline_rows
+primary_regional,Malaysia,rsv,1,train,seasonal_naive52,156,6.166666666666667,7.856077183808005,3.6029962546816483,-2.0128205128205128,common_baseline_rows
+primary_regional,Malaysia,rsv,1,train,persistence,156,1.7115384615384615,2.8295600817813105,1.0,-0.057692307692307696,model_available_rows
+primary_regional,Malaysia,rsv,1,train,recent_mean4,156,2.1201923076923075,3.3583396958646863,1.2387640449438202,-0.1971153846153846,model_available_rows
+primary_regional,Malaysia,rsv,1,train,seasonal_naive52,156,6.166666666666667,7.856077183808005,3.6029962546816483,-2.0128205128205128,model_available_rows
+primary_regional,Malaysia,rsv,1,validation,persistence,52,4.403846153846154,5.726120985314713,2.573033707865169,0.25,common_baseline_rows
+primary_regional,Malaysia,rsv,1,validation,recent_mean4,52,4.038461538461538,5.2753508815127095,2.359550561797753,0.7692307692307693,common_baseline_rows
+primary_regional,Malaysia,rsv,1,validation,seasonal_naive52,52,6.846153846153846,8.166535844059444,4.0,-1.6538461538461537,common_baseline_rows
+primary_regional,Malaysia,rsv,1,validation,persistence,52,4.403846153846154,5.726120985314713,2.573033707865169,0.25,model_available_rows
+primary_regional,Malaysia,rsv,1,validation,recent_mean4,52,4.038461538461538,5.2753508815127095,2.359550561797753,0.7692307692307693,model_available_rows
+primary_regional,Malaysia,rsv,1,validation,seasonal_naive52,52,6.846153846153846,8.166535844059444,4.0,-1.6538461538461537,model_available_rows
+primary_regional,Malaysia,rsv,2,test,persistence,52,3.5,4.485017794321959,2.044943820224719,0.038461538461538464,common_baseline_rows
+primary_regional,Malaysia,rsv,2,test,recent_mean4,52,3.7788461538461537,4.891859407376551,2.207865168539326,0.028846153846153848,common_baseline_rows
+primary_regional,Malaysia,rsv,2,test,seasonal_naive52,52,7.730769230769231,9.65959069048437,4.51685393258427,6.038461538461538,common_baseline_rows
+primary_regional,Malaysia,rsv,2,test,persistence,52,3.5,4.485017794321959,2.044943820224719,0.038461538461538464,model_available_rows
+primary_regional,Malaysia,rsv,2,test,recent_mean4,52,3.7788461538461537,4.891859407376551,2.207865168539326,0.028846153846153848,model_available_rows
+primary_regional,Malaysia,rsv,2,test,seasonal_naive52,52,7.730769230769231,9.65959069048437,4.51685393258427,6.038461538461538,model_available_rows
+primary_regional,Malaysia,rsv,2,train,persistence,156,2.0064102564102564,3.3001553964966015,1.1722846441947565,-0.10897435897435898,common_baseline_rows
+primary_regional,Malaysia,rsv,2,train,recent_mean4,156,2.4278846153846154,3.809727344036242,1.4185393258426968,-0.24519230769230768,common_baseline_rows
+primary_regional,Malaysia,rsv,2,train,seasonal_naive52,156,6.166666666666667,7.856077183808005,3.6029962546816483,-2.0128205128205128,common_baseline_rows
+primary_regional,Malaysia,rsv,2,train,persistence,156,2.0064102564102564,3.3001553964966015,1.1722846441947565,-0.10897435897435898,model_available_rows
+primary_regional,Malaysia,rsv,2,train,recent_mean4,156,2.4278846153846154,3.809727344036242,1.4185393258426968,-0.24519230769230768,model_available_rows
+primary_regional,Malaysia,rsv,2,train,seasonal_naive52,156,6.166666666666667,7.856077183808005,3.6029962546816483,-2.0128205128205128,model_available_rows
+primary_regional,Malaysia,rsv,2,validation,persistence,52,4.230769230769231,5.547001962252291,2.471910112359551,0.46153846153846156,common_baseline_rows
+primary_regional,Malaysia,rsv,2,validation,recent_mean4,52,4.355769230769231,5.7673234026512885,2.544943820224719,0.9423076923076923,common_baseline_rows
+primary_regional,Malaysia,rsv,2,validation,seasonal_naive52,52,6.846153846153846,8.166535844059444,4.0,-1.6538461538461537,common_baseline_rows
+primary_regional,Malaysia,rsv,2,validation,persistence,52,4.230769230769231,5.547001962252291,2.471910112359551,0.46153846153846156,model_available_rows
+primary_regional,Malaysia,rsv,2,validation,recent_mean4,52,4.355769230769231,5.7673234026512885,2.544943820224719,0.9423076923076923,model_available_rows
+primary_regional,Malaysia,rsv,2,validation,seasonal_naive52,52,6.846153846153846,8.166535844059444,4.0,-1.6538461538461537,model_available_rows
+primary_regional,Malaysia,rsv,4,test,persistence,52,4.230769230769231,5.4207578238301135,2.471910112359551,0.038461538461538464,common_baseline_rows
+primary_regional,Malaysia,rsv,4,test,recent_mean4,52,4.197115384615385,5.40443638988449,2.4522471910112364,0.10096153846153846,common_baseline_rows
+primary_regional,Malaysia,rsv,4,test,seasonal_naive52,52,7.730769230769231,9.65959069048437,4.51685393258427,6.038461538461538,common_baseline_rows
+primary_regional,Malaysia,rsv,4,test,persistence,52,4.230769230769231,5.4207578238301135,2.471910112359551,0.038461538461538464,model_available_rows
+primary_regional,Malaysia,rsv,4,test,recent_mean4,52,4.197115384615385,5.40443638988449,2.4522471910112364,0.10096153846153846,model_available_rows
+primary_regional,Malaysia,rsv,4,test,seasonal_naive52,52,7.730769230769231,9.65959069048437,4.51685393258427,6.038461538461538,model_available_rows
+primary_regional,Malaysia,rsv,4,train,persistence,156,2.5128205128205128,3.9353753934255735,1.4681647940074907,-0.24358974358974358,common_baseline_rows
+primary_regional,Malaysia,rsv,4,train,recent_mean4,156,3.144230769230769,4.698608632023216,1.8370786516853934,-0.3173076923076923,common_baseline_rows
+primary_regional,Malaysia,rsv,4,train,seasonal_naive52,156,6.166666666666667,7.856077183808005,3.6029962546816483,-2.0128205128205128,common_baseline_rows
+primary_regional,Malaysia,rsv,4,train,persistence,156,2.5128205128205128,3.9353753934255735,1.4681647940074907,-0.24358974358974358,model_available_rows
+primary_regional,Malaysia,rsv,4,train,recent_mean4,156,3.144230769230769,4.698608632023216,1.8370786516853934,-0.3173076923076923,model_available_rows
+primary_regional,Malaysia,rsv,4,train,seasonal_naive52,156,6.166666666666667,7.856077183808005,3.6029962546816483,-2.0128205128205128,model_available_rows
+primary_regional,Malaysia,rsv,4,validation,persistence,52,5.019230769230769,6.882251420529812,2.9325842696629216,0.9038461538461539,common_baseline_rows
+primary_regional,Malaysia,rsv,4,validation,recent_mean4,52,4.6826923076923075,5.925620707506579,2.735955056179775,1.1538461538461537,common_baseline_rows
+primary_regional,Malaysia,rsv,4,validation,seasonal_naive52,52,6.846153846153846,8.166535844059444,4.0,-1.6538461538461537,common_baseline_rows
+primary_regional,Malaysia,rsv,4,validation,persistence,52,5.019230769230769,6.882251420529812,2.9325842696629216,0.9038461538461539,model_available_rows
+primary_regional,Malaysia,rsv,4,validation,recent_mean4,52,4.6826923076923075,5.925620707506579,2.735955056179775,1.1538461538461537,model_available_rows
+primary_regional,Malaysia,rsv,4,validation,seasonal_naive52,52,6.846153846153846,8.166535844059444,4.0,-1.6538461538461537,model_available_rows
+primary_regional,Malaysia,sarscov2,1,test,persistence,46,239.15217391304347,343.043317077165,0.043756943807371905,11.108695652173912,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,test,recent_mean4,46,894.0217391304348,1816.5709170685109,0.16357643069522496,308.4891304347826,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,test,seasonal_naive52,46,3313.086956521739,6302.496279080701,0.6061854149741926,2872.9565217391305,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,test,persistence,50,784.18,3097.7784523751857,0.14347902272191487,574.38,model_available_rows
+primary_regional,Malaysia,sarscov2,1,test,recent_mean4,47,1081.3031914893618,2286.938115214128,0.19784274679407943,95.62234042553192,model_available_rows
+primary_regional,Malaysia,sarscov2,1,test,seasonal_naive52,51,3721.2549019607845,7160.959668406814,0.680866658971752,1860.7843137254902,model_available_rows
+primary_regional,Malaysia,sarscov2,1,train,persistence,105,7903.161904761905,13693.572731481765,1.4460174277695241,81.52380952380952,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,train,recent_mean4,105,23517.692857142858,38596.764645321105,4.3029605292369295,115.04047619047618,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,train,seasonal_naive52,105,54401.95238095238,73376.02807372576,9.953759292232903,-20556.409523809525,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,train,persistence,156,5465.467948717948,11244.193536597524,1.0,-21.608974358974358,model_available_rows
+primary_regional,Malaysia,sarscov2,1,train,recent_mean4,152,16534.699013157893,32091.05575376161,3.0253034448837064,-159.19572368421052,model_available_rows
+primary_regional,Malaysia,sarscov2,1,train,seasonal_naive52,105,54401.95238095238,73376.02807372576,9.953759292232903,-20556.409523809525,model_available_rows
+primary_regional,Malaysia,sarscov2,1,validation,persistence,52,1531.826923076923,2596.5127982620193,0.2802736997911128,-331.28846153846155,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,validation,recent_mean4,52,2672.7451923076924,4813.3553504356305,0.4890240355237371,-882.7644230769231,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,validation,seasonal_naive52,52,41652.11538461538,69495.37531735474,7.6209605061147325,39647.653846153844,common_baseline_rows
+primary_regional,Malaysia,sarscov2,1,validation,persistence,52,1531.826923076923,2596.5127982620193,0.2802736997911128,-331.28846153846155,model_available_rows
+primary_regional,Malaysia,sarscov2,1,validation,recent_mean4,52,2672.7451923076924,4813.3553504356305,0.4890240355237371,-882.7644230769231,model_available_rows
+primary_regional,Malaysia,sarscov2,1,validation,seasonal_naive52,52,41652.11538461538,69495.37531735474,7.6209605061147325,39647.653846153844,model_available_rows
+primary_regional,Malaysia,sarscov2,2,test,persistence,46,591.7608695652174,1446.5757994236808,0.10827268133628495,-201.41304347826087,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,test,recent_mean4,46,1293.1195652173913,2701.619165265607,0.2365981426202897,7.467391304347826,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,test,seasonal_naive52,46,3888.2391304347825,7466.540362059316,0.711419253926255,2267.1521739130435,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,test,persistence,50,1259.94,3929.8534959970198,0.23052737877559928,530.22,model_available_rows
+primary_regional,Malaysia,sarscov2,2,test,recent_mean4,47,1513.1117021276596,3165.8523567827365,0.27684943289853065,254.81382978723406,model_available_rows
+primary_regional,Malaysia,sarscov2,2,test,seasonal_naive52,51,3721.2549019607845,7160.959668406814,0.680866658971752,1860.7843137254902,model_available_rows
+primary_regional,Malaysia,sarscov2,2,train,persistence,105,14995.019047619047,25480.27227353219,2.743592897866408,114.21904761904761,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,train,recent_mean4,105,29081.02380952381,46871.83462748635,5.320866224518879,78.58095238095238,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,train,seasonal_naive52,105,54401.95238095238,73376.02807372576,9.953759292232903,-20556.409523809525,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,train,persistence,155,10338.587096774194,20979.14972030794,1.8916197467042777,-62.329032258064515,model_available_rows
+primary_regional,Malaysia,sarscov2,2,train,recent_mean4,151,20579.206953642384,39100.70321386973,3.765314726339162,-245.21357615894038,model_available_rows
+primary_regional,Malaysia,sarscov2,2,train,seasonal_naive52,105,54401.95238095238,73376.02807372576,9.953759292232903,-20556.409523809525,model_available_rows
+primary_regional,Malaysia,sarscov2,2,validation,persistence,52,1984.826923076923,3826.3778488679986,0.36315772806654373,-708.6346153846154,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,validation,recent_mean4,52,3222.278846153846,5583.828684804898,0.589570531999864,-846.8269230769231,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,validation,seasonal_naive52,52,41652.11538461538,69495.37531735474,7.6209605061147325,39647.653846153844,common_baseline_rows
+primary_regional,Malaysia,sarscov2,2,validation,persistence,52,1984.826923076923,3826.3778488679986,0.36315772806654373,-708.6346153846154,model_available_rows
+primary_regional,Malaysia,sarscov2,2,validation,recent_mean4,52,3222.278846153846,5583.828684804898,0.589570531999864,-846.8269230769231,model_available_rows
+primary_regional,Malaysia,sarscov2,2,validation,seasonal_naive52,52,41652.11538461538,69495.37531735474,7.6209605061147325,39647.653846153844,model_available_rows
+primary_regional,Malaysia,sarscov2,4,test,persistence,46,1549.5869565217392,3849.728632446482,0.28352319893948524,490.6304347826087,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,test,recent_mean4,46,1977.5597826086957,4381.796157579228,0.36182808154104684,80.21195652173913,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,test,seasonal_naive52,46,4067.391304347826,7537.55049590123,0.7441981807435036,2032.391304347826,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,test,persistence,50,2253.62,5571.65102819622,0.412337977488028,1279.38,model_available_rows
+primary_regional,Malaysia,sarscov2,4,test,recent_mean4,47,2306.563829787234,5026.284293643956,0.4220249485368022,449.5851063829787,model_available_rows
+primary_regional,Malaysia,sarscov2,4,test,seasonal_naive52,51,3721.2549019607845,7160.959668406814,0.680866658971752,1860.7843137254902,model_available_rows
+primary_regional,Malaysia,sarscov2,4,train,persistence,105,27497.571428571428,45012.73516779129,5.031146772166438,122.63809523809523,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,train,recent_mean4,105,38302.63333333333,59366.23422179801,7.008115991663275,-99.62380952380953,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,train,seasonal_naive52,105,54401.95238095238,73376.02807372576,9.953759292232903,-20556.409523809525,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,train,persistence,153,19195.196078431374,37302.86898348025,3.5120864779627974,-181.98039215686273,model_available_rows
+primary_regional,Malaysia,sarscov2,4,train,recent_mean4,149,27467.770134228187,49856.633116157274,5.025694120239309,-480.8070469798658,model_available_rows
+primary_regional,Malaysia,sarscov2,4,train,seasonal_naive52,105,54401.95238095238,73376.02807372576,9.953759292232903,-20556.409523809525,model_available_rows
+primary_regional,Malaysia,sarscov2,4,validation,persistence,52,3229.576923076923,5591.182484673799,0.5909058388741434,-1002.2307692307693,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,validation,recent_mean4,52,4178.682692307692,6808.886722970944,0.7645608265414673,-373.4423076923077,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,validation,seasonal_naive52,52,41652.11538461538,69495.37531735474,7.6209605061147325,39647.653846153844,common_baseline_rows
+primary_regional,Malaysia,sarscov2,4,validation,persistence,52,3229.576923076923,5591.182484673799,0.5909058388741434,-1002.2307692307693,model_available_rows
+primary_regional,Malaysia,sarscov2,4,validation,recent_mean4,52,4178.682692307692,6808.886722970944,0.7645608265414673,-373.4423076923077,model_available_rows
+primary_regional,Malaysia,sarscov2,4,validation,seasonal_naive52,52,41652.11538461538,69495.37531735474,7.6209605061147325,39647.653846153844,model_available_rows
+secondary_regional,Philippines,influenza,1,test,persistence,52,5.019230769230769,6.209484061312366,4.526270604395604,-0.25,common_baseline_rows
+secondary_regional,Philippines,influenza,1,test,recent_mean4,52,6.149038461538462,7.8491639682198,5.545115041208791,-0.44711538461538464,common_baseline_rows
+secondary_regional,Philippines,influenza,1,test,seasonal_naive52,52,9.692307692307692,12.350646199226238,8.740384615384613,-8.23076923076923,common_baseline_rows
+secondary_regional,Philippines,influenza,1,test,persistence,52,5.019230769230769,6.209484061312366,4.526270604395604,-0.25,model_available_rows
+secondary_regional,Philippines,influenza,1,test,recent_mean4,52,6.149038461538462,7.8491639682198,5.545115041208791,-0.44711538461538464,model_available_rows
+secondary_regional,Philippines,influenza,1,test,seasonal_naive52,52,9.692307692307692,12.350646199226238,8.740384615384613,-8.23076923076923,model_available_rows
+secondary_regional,Philippines,influenza,1,train,persistence,95,1.0842105263157895,2.6257830912139837,0.9777255639097744,-0.07368421052631578,common_baseline_rows
+secondary_regional,Philippines,influenza,1,train,recent_mean4,95,1.418421052631579,2.9637058949192223,1.2791118421052632,-0.018421052631578946,common_baseline_rows
+secondary_regional,Philippines,influenza,1,train,seasonal_naive52,95,6.778947368421052,11.32300871304926,6.113157894736841,4.7368421052631575,common_baseline_rows
+secondary_regional,Philippines,influenza,1,train,persistence,101,1.108910891089109,2.625088400208818,1.0,-0.0594059405940594,model_available_rows
+secondary_regional,Philippines,influenza,1,train,recent_mean4,97,1.422680412371134,2.948877123357261,1.2829528718703975,-0.05154639175257732,model_available_rows
+secondary_regional,Philippines,influenza,1,train,seasonal_naive52,100,6.85,11.292918134831227,6.177232142857142,4.91,model_available_rows
+secondary_regional,Philippines,influenza,1,validation,persistence,52,2.5,3.762159772503841,2.2544642857142856,0.07692307692307693,common_baseline_rows
+secondary_regional,Philippines,influenza,1,validation,recent_mean4,52,3.014423076923077,4.636679639237876,2.7183636675824174,-0.13942307692307693,common_baseline_rows
+secondary_regional,Philippines,influenza,1,validation,seasonal_naive52,52,4.403846153846154,6.56476609226512,3.9713255494505493,-2.980769230769231,common_baseline_rows
+secondary_regional,Philippines,influenza,1,validation,persistence,52,2.5,3.762159772503841,2.2544642857142856,0.07692307692307693,model_available_rows
+secondary_regional,Philippines,influenza,1,validation,recent_mean4,52,3.014423076923077,4.636679639237876,2.7183636675824174,-0.13942307692307693,model_available_rows
+secondary_regional,Philippines,influenza,1,validation,seasonal_naive52,52,4.403846153846154,6.56476609226512,3.9713255494505493,-2.980769230769231,model_available_rows
+secondary_regional,Philippines,influenza,2,test,persistence,52,5.730769230769231,7.1548799914679,5.167925824175824,-0.34615384615384615,common_baseline_rows
+secondary_regional,Philippines,influenza,2,test,recent_mean4,52,7.125,9.026536732579965,6.4252232142857135,-0.5865384615384616,common_baseline_rows
+secondary_regional,Philippines,influenza,2,test,seasonal_naive52,52,9.692307692307692,12.350646199226238,8.740384615384613,-8.23076923076923,common_baseline_rows
+secondary_regional,Philippines,influenza,2,test,persistence,52,5.730769230769231,7.1548799914679,5.167925824175824,-0.34615384615384615,model_available_rows
+secondary_regional,Philippines,influenza,2,test,recent_mean4,52,7.125,9.026536732579965,6.4252232142857135,-0.5865384615384616,model_available_rows
+secondary_regional,Philippines,influenza,2,test,seasonal_naive52,52,9.692307692307692,12.350646199226238,8.740384615384613,-8.23076923076923,model_available_rows
+secondary_regional,Philippines,influenza,2,train,persistence,94,1.3617021276595744,3.2551105481766767,1.227963525835866,-0.0425531914893617,common_baseline_rows
+secondary_regional,Philippines,influenza,2,train,recent_mean4,94,1.6196808510638299,3.210583396313021,1.4606050531914894,0.05053191489361702,common_baseline_rows
+secondary_regional,Philippines,influenza,2,train,seasonal_naive52,94,6.797872340425532,11.37139000466952,6.130224164133738,4.73404255319149,common_baseline_rows
+secondary_regional,Philippines,influenza,2,train,persistence,100,1.3,3.159113799786263,1.1723214285714285,-0.04,model_available_rows
+secondary_regional,Philippines,influenza,2,train,recent_mean4,97,1.615979381443299,3.189968975061618,1.457267120765832,0.002577319587628866,model_available_rows
+secondary_regional,Philippines,influenza,2,train,seasonal_naive52,100,6.85,11.292918134831227,6.177232142857142,4.91,model_available_rows
+secondary_regional,Philippines,influenza,2,validation,persistence,52,2.9423076923076925,4.298926520745526,2.653331043956044,0.019230769230769232,common_baseline_rows
+secondary_regional,Philippines,influenza,2,validation,recent_mean4,52,3.5048076923076925,5.239802367089225,3.160585508241758,-0.22596153846153846,common_baseline_rows
+secondary_regional,Philippines,influenza,2,validation,seasonal_naive52,52,4.403846153846154,6.56476609226512,3.9713255494505493,-2.980769230769231,common_baseline_rows
+secondary_regional,Philippines,influenza,2,validation,persistence,52,2.9423076923076925,4.298926520745526,2.653331043956044,0.019230769230769232,model_available_rows
+secondary_regional,Philippines,influenza,2,validation,recent_mean4,52,3.5048076923076925,5.239802367089225,3.160585508241758,-0.22596153846153846,model_available_rows
+secondary_regional,Philippines,influenza,2,validation,seasonal_naive52,52,4.403846153846154,6.56476609226512,3.9713255494505493,-2.980769230769231,model_available_rows
+secondary_regional,Philippines,influenza,4,test,persistence,52,7.538461538461538,9.321191736286481,6.7980769230769225,-0.5,common_baseline_rows
+secondary_regional,Philippines,influenza,4,test,recent_mean4,52,8.576923076923077,10.847278992376914,7.734546703296703,-1.0673076923076923,common_baseline_rows
+secondary_regional,Philippines,influenza,4,test,seasonal_naive52,52,9.692307692307692,12.350646199226238,8.740384615384613,-8.23076923076923,common_baseline_rows
+secondary_regional,Philippines,influenza,4,test,persistence,52,7.538461538461538,9.321191736286481,6.7980769230769225,-0.5,model_available_rows
+secondary_regional,Philippines,influenza,4,test,recent_mean4,52,8.576923076923077,10.847278992376914,7.734546703296703,-1.0673076923076923,model_available_rows
+secondary_regional,Philippines,influenza,4,test,seasonal_naive52,52,9.692307692307692,12.350646199226238,8.740384615384613,-8.23076923076923,model_available_rows
+secondary_regional,Philippines,influenza,4,train,persistence,94,1.6595744680851063,3.4517957090507654,1.4965805471124618,-0.02127659574468085,common_baseline_rows
+secondary_regional,Philippines,influenza,4,train,recent_mean4,94,1.9361702127659575,3.5041768390235295,1.7460106382978722,0.2978723404255319,common_baseline_rows
+secondary_regional,Philippines,influenza,4,train,seasonal_naive52,94,6.819148936170213,11.37606670238098,6.149411094224924,4.75531914893617,common_baseline_rows
+secondary_regional,Philippines,influenza,4,train,persistence,100,1.6,3.370459909270543,1.4428571428571428,-0.06,model_available_rows
+secondary_regional,Philippines,influenza,4,train,recent_mean4,97,1.9123711340206186,3.467819660229795,1.724548969072165,0.25257731958762886,model_available_rows
+secondary_regional,Philippines,influenza,4,train,seasonal_naive52,100,6.85,11.292918134831227,6.177232142857142,4.91,model_available_rows
+secondary_regional,Philippines,influenza,4,validation,persistence,52,3.6153846153846154,5.687367919007337,3.2603021978021975,-0.19230769230769232,common_baseline_rows
+secondary_regional,Philippines,influenza,4,validation,recent_mean4,52,4.235576923076923,6.4378500651644925,3.819582760989011,-0.42788461538461536,common_baseline_rows
+secondary_regional,Philippines,influenza,4,validation,seasonal_naive52,52,4.403846153846154,6.56476609226512,3.9713255494505493,-2.980769230769231,common_baseline_rows
+secondary_regional,Philippines,influenza,4,validation,persistence,52,3.6153846153846154,5.687367919007337,3.2603021978021975,-0.19230769230769232,model_available_rows
+secondary_regional,Philippines,influenza,4,validation,recent_mean4,52,4.235576923076923,6.4378500651644925,3.819582760989011,-0.42788461538461536,model_available_rows
+secondary_regional,Philippines,influenza,4,validation,seasonal_naive52,52,4.403846153846154,6.56476609226512,3.9713255494505493,-2.980769230769231,model_available_rows
+secondary_regional,Philippines,rsv,1,test,persistence,52,4.3076923076923075,6.751068291531577,217.53846153846152,-0.07692307692307693,common_baseline_rows
+secondary_regional,Philippines,rsv,1,test,recent_mean4,52,7.798076923076923,12.03939846440076,393.80288461538464,-0.15384615384615385,common_baseline_rows
+secondary_regional,Philippines,rsv,1,test,seasonal_naive52,52,9.538461538461538,17.08125378212123,481.6923076923077,-9.115384615384615,common_baseline_rows
+secondary_regional,Philippines,rsv,1,test,persistence,52,4.3076923076923075,6.751068291531577,217.53846153846152,-0.07692307692307693,model_available_rows
+secondary_regional,Philippines,rsv,1,test,recent_mean4,52,7.798076923076923,12.03939846440076,393.80288461538464,-0.15384615384615385,model_available_rows
+secondary_regional,Philippines,rsv,1,test,seasonal_naive52,52,9.538461538461538,17.08125378212123,481.6923076923077,-9.115384615384615,model_available_rows
+secondary_regional,Philippines,rsv,1,train,persistence,94,0.02127659574468085,0.14586499149789456,1.074468085106383,0.0,common_baseline_rows
+secondary_regional,Philippines,rsv,1,train,recent_mean4,94,0.010638297872340425,0.10314212462587934,0.5372340425531915,-0.010638297872340425,common_baseline_rows
+secondary_regional,Philippines,rsv,1,train,seasonal_naive52,94,0.010638297872340425,0.10314212462587934,0.5372340425531915,-0.010638297872340425,common_baseline_rows
+secondary_regional,Philippines,rsv,1,train,persistence,101,0.019801980198019802,0.14071950894605836,1.0,0.0,model_available_rows
+secondary_regional,Philippines,rsv,1,train,recent_mean4,97,0.015463917525773196,0.10769372379266072,0.7809278350515464,-0.005154639175257732,model_available_rows
+secondary_regional,Philippines,rsv,1,train,seasonal_naive52,99,0.010101010101010102,0.10050378152592121,0.5101010101010102,-0.010101010101010102,model_available_rows
+secondary_regional,Philippines,rsv,1,validation,persistence,52,2.3461538461538463,4.839739344538807,118.48076923076924,0.0,common_baseline_rows
+secondary_regional,Philippines,rsv,1,validation,recent_mean4,52,2.8461538461538463,5.005765906201798,143.73076923076923,-0.2403846153846154,common_baseline_rows
+secondary_regional,Philippines,rsv,1,validation,seasonal_naive52,52,4.346153846153846,7.369375299690762,219.4807692307692,-4.346153846153846,common_baseline_rows
+secondary_regional,Philippines,rsv,1,validation,persistence,52,2.3461538461538463,4.839739344538807,118.48076923076924,0.0,model_available_rows
+secondary_regional,Philippines,rsv,1,validation,recent_mean4,52,2.8461538461538463,5.005765906201798,143.73076923076923,-0.2403846153846154,model_available_rows
+secondary_regional,Philippines,rsv,1,validation,seasonal_naive52,52,4.346153846153846,7.369375299690762,219.4807692307692,-4.346153846153846,model_available_rows
+secondary_regional,Philippines,rsv,2,test,persistence,52,5.4423076923076925,8.716694857041242,274.83653846153845,-0.09615384615384616,common_baseline_rows
+secondary_regional,Philippines,rsv,2,test,recent_mean4,52,9.557692307692308,14.64499783333755,482.66346153846155,-0.3173076923076923,common_baseline_rows
+secondary_regional,Philippines,rsv,2,test,seasonal_naive52,52,9.538461538461538,17.08125378212123,481.6923076923077,-9.115384615384615,common_baseline_rows
+secondary_regional,Philippines,rsv,2,test,persistence,52,5.4423076923076925,8.716694857041242,274.83653846153845,-0.09615384615384616,model_available_rows
+secondary_regional,Philippines,rsv,2,test,recent_mean4,52,9.557692307692308,14.64499783333755,482.66346153846155,-0.3173076923076923,model_available_rows
+secondary_regional,Philippines,rsv,2,test,seasonal_naive52,52,9.538461538461538,17.08125378212123,481.6923076923077,-9.115384615384615,model_available_rows
+secondary_regional,Philippines,rsv,2,train,persistence,93,0.010752688172043012,0.10369516947304253,0.5430107526881721,-0.010752688172043012,common_baseline_rows
+secondary_regional,Philippines,rsv,2,train,recent_mean4,93,0.010752688172043012,0.10369516947304253,0.5430107526881721,-0.010752688172043012,common_baseline_rows
+secondary_regional,Philippines,rsv,2,train,seasonal_naive52,93,0.010752688172043012,0.10369516947304253,0.5430107526881721,-0.010752688172043012,common_baseline_rows
+secondary_regional,Philippines,rsv,2,train,persistence,100,0.02,0.1414213562373095,1.01,0.0,model_available_rows
+secondary_regional,Philippines,rsv,2,train,recent_mean4,97,0.01288659793814433,0.10465948713529356,0.6507731958762886,-0.007731958762886598,model_available_rows
+secondary_regional,Philippines,rsv,2,train,seasonal_naive52,99,0.010101010101010102,0.10050378152592121,0.5101010101010102,-0.010101010101010102,model_available_rows
+secondary_regional,Philippines,rsv,2,validation,persistence,52,2.9615384615384617,5.262348115842175,149.55769230769232,-0.038461538461538464,common_baseline_rows
+secondary_regional,Philippines,rsv,2,validation,recent_mean4,52,2.9711538461538463,4.983627038767895,150.04326923076923,-0.34615384615384615,common_baseline_rows
+secondary_regional,Philippines,rsv,2,validation,seasonal_naive52,52,4.346153846153846,7.369375299690762,219.4807692307692,-4.346153846153846,common_baseline_rows
+secondary_regional,Philippines,rsv,2,validation,persistence,52,2.9615384615384617,5.262348115842175,149.55769230769232,-0.038461538461538464,model_available_rows
+secondary_regional,Philippines,rsv,2,validation,recent_mean4,52,2.9711538461538463,4.983627038767895,150.04326923076923,-0.34615384615384615,model_available_rows
+secondary_regional,Philippines,rsv,2,validation,seasonal_naive52,52,4.346153846153846,7.369375299690762,219.4807692307692,-4.346153846153846,model_available_rows
+secondary_regional,Philippines,rsv,4,test,persistence,52,8.961538461538462,14.021960797812287,452.5576923076923,-0.038461538461538464,common_baseline_rows
+secondary_regional,Philippines,rsv,4,test,recent_mean4,52,12.45673076923077,19.212657336325886,629.0649038461539,-0.9951923076923077,common_baseline_rows
+secondary_regional,Philippines,rsv,4,test,seasonal_naive52,52,9.538461538461538,17.08125378212123,481.6923076923077,-9.115384615384615,common_baseline_rows
+secondary_regional,Philippines,rsv,4,test,persistence,52,8.961538461538462,14.021960797812287,452.5576923076923,-0.038461538461538464,model_available_rows
+secondary_regional,Philippines,rsv,4,test,recent_mean4,52,12.45673076923077,19.212657336325886,629.0649038461539,-0.9951923076923077,model_available_rows
+secondary_regional,Philippines,rsv,4,test,seasonal_naive52,52,9.538461538461538,17.08125378212123,481.6923076923077,-9.115384615384615,model_available_rows
+secondary_regional,Philippines,rsv,4,train,persistence,93,0.010752688172043012,0.10369516947304253,0.5430107526881721,-0.010752688172043012,common_baseline_rows
+secondary_regional,Philippines,rsv,4,train,recent_mean4,93,0.010752688172043012,0.10369516947304253,0.5430107526881721,-0.010752688172043012,common_baseline_rows
+secondary_regional,Philippines,rsv,4,train,seasonal_naive52,93,0.010752688172043012,0.10369516947304253,0.5430107526881721,-0.010752688172043012,common_baseline_rows
+secondary_regional,Philippines,rsv,4,train,persistence,100,0.01,0.1,0.505,-0.01,model_available_rows
+secondary_regional,Philippines,rsv,4,train,recent_mean4,97,0.010309278350515464,0.1015346165133619,0.520618556701031,-0.010309278350515464,model_available_rows
+secondary_regional,Philippines,rsv,4,train,seasonal_naive52,99,0.010101010101010102,0.10050378152592121,0.5101010101010102,-0.010101010101010102,model_available_rows
+secondary_regional,Philippines,rsv,4,validation,persistence,52,3.269230769230769,5.741214023317582,165.09615384615384,-0.3076923076923077,common_baseline_rows
+secondary_regional,Philippines,rsv,4,validation,recent_mean4,52,3.2740384615384617,5.18770273005158,165.33894230769232,-0.5144230769230769,common_baseline_rows
+secondary_regional,Philippines,rsv,4,validation,seasonal_naive52,52,4.346153846153846,7.369375299690762,219.4807692307692,-4.346153846153846,common_baseline_rows
+secondary_regional,Philippines,rsv,4,validation,persistence,52,3.269230769230769,5.741214023317582,165.09615384615384,-0.3076923076923077,model_available_rows
+secondary_regional,Philippines,rsv,4,validation,recent_mean4,52,3.2740384615384617,5.18770273005158,165.33894230769232,-0.5144230769230769,model_available_rows
+secondary_regional,Philippines,rsv,4,validation,seasonal_naive52,52,4.346153846153846,7.369375299690762,219.4807692307692,-4.346153846153846,model_available_rows
+secondary_regional,Philippines,sarscov2,1,test,persistence,46,839.195652173913,1336.5105198109056,0.18579278772389407,18.67391304347826,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,test,recent_mean4,46,2026.6304347826087,3200.2415499866365,0.4486835902795126,197.30434782608697,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,test,seasonal_naive52,46,23762.717391304348,54687.51999055535,5.260920378446565,21154.804347826088,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,test,persistence,50,832.42,1305.4198022092357,0.18429269974944174,4.78,model_available_rows
+secondary_regional,Philippines,sarscov2,1,test,recent_mean4,47,2006.1382978723404,3169.8115497042245,0.4441467564278169,215.7340425531915,model_available_rows
+secondary_regional,Philippines,sarscov2,1,test,seasonal_naive52,51,22977.764705882353,52178.9572574097,5.087136651995983,20625.529411764706,model_available_rows
+secondary_regional,Philippines,sarscov2,1,train,persistence,53,7552.245283018868,10368.32550753441,1.6720209418052592,-43.264150943396224,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,train,recent_mean4,53,21250.599056603773,30129.481707984047,4.70475273471859,369.1556603773585,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,train,seasonal_naive52,53,37496.22641509434,48520.94915231471,8.301435328865317,-35942.07547169811,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,train,persistence,104,4516.836538461538,7594.469726892873,1.0,-127.50961538461539,model_available_rows
+secondary_regional,Philippines,sarscov2,1,train,recent_mean4,100,12867.295,22233.37955808226,2.848740460371559,-166.775,model_available_rows
+secondary_regional,Philippines,sarscov2,1,train,seasonal_naive52,53,37496.22641509434,48520.94915231471,8.301435328865317,-35942.07547169811,model_available_rows
+secondary_regional,Philippines,sarscov2,1,validation,persistence,52,10318.826923076924,27631.859321400945,2.2845252059069594,191.75,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,validation,recent_mean4,52,24956.951923076922,56428.5705911388,5.525316603902919,-41.06730769230769,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,validation,seasonal_naive52,52,50785.096153846156,69429.58609585908,11.243509859478747,22365.55769230769,common_baseline_rows
+secondary_regional,Philippines,sarscov2,1,validation,persistence,52,10318.826923076924,27631.859321400945,2.2845252059069594,191.75,model_available_rows
+secondary_regional,Philippines,sarscov2,1,validation,recent_mean4,52,24956.951923076922,56428.5705911388,5.525316603902919,-41.06730769230769,model_available_rows
+secondary_regional,Philippines,sarscov2,1,validation,seasonal_naive52,52,50785.096153846156,69429.58609585908,11.243509859478747,22365.55769230769,model_available_rows
+secondary_regional,Philippines,sarscov2,2,test,persistence,46,1351.9782608695652,2274.1522691935693,0.29931972285409675,33.80434782608695,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,test,recent_mean4,46,2562.5815217391305,3822.2380179722727,0.5673398848770297,359.8532608695652,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,test,seasonal_naive52,46,23846.956521739132,54715.05876097906,5.2795704070047105,21239.043478260868,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,test,persistence,50,1273.9,2185.1758876575586,0.2820336731587586,22.1,model_available_rows
+secondary_regional,Philippines,sarscov2,2,test,recent_mean4,47,2510.06914893617,3781.3824154764443,0.5557139665255885,354.2074468085106,model_available_rows
+secondary_regional,Philippines,sarscov2,2,test,seasonal_naive52,51,22977.764705882353,52178.9572574097,5.087136651995983,20625.529411764706,model_available_rows
+secondary_regional,Philippines,sarscov2,2,train,persistence,53,13987.716981132075,19320.53329618664,3.096795038302709,120.73584905660377,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,train,recent_mean4,53,26097.08962264151,36818.57737701468,5.777736121380726,512.6933962264151,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,train,seasonal_naive52,53,37496.22641509434,48520.94915231471,8.301435328865317,-35942.07547169811,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,train,persistence,103,8280.533980582524,14131.125482698362,1.833259607708302,-138.5728155339806,model_available_rows
+secondary_regional,Philippines,sarscov2,2,train,recent_mean4,99,15943.073232323231,27292.151371557447,3.5296989600056543,-197.71464646464648,model_available_rows
+secondary_regional,Philippines,sarscov2,2,train,seasonal_naive52,53,37496.22641509434,48520.94915231471,8.301435328865317,-35942.07547169811,model_available_rows
+secondary_regional,Philippines,sarscov2,2,validation,persistence,52,19294.53846153846,48383.17299870976,4.27169287558728,132.30769230769232,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,validation,recent_mean4,52,29002.677884615383,62074.46690737937,6.4210156018827,-131.54326923076923,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,validation,seasonal_naive52,52,50785.096153846156,69429.58609585908,11.243509859478747,22365.55769230769,common_baseline_rows
+secondary_regional,Philippines,sarscov2,2,validation,persistence,52,19294.53846153846,48383.17299870976,4.27169287558728,132.30769230769232,model_available_rows
+secondary_regional,Philippines,sarscov2,2,validation,recent_mean4,52,29002.677884615383,62074.46690737937,6.4210156018827,-131.54326923076923,model_available_rows
+secondary_regional,Philippines,sarscov2,2,validation,seasonal_naive52,52,50785.096153846156,69429.58609585908,11.243509859478747,22365.55769230769,model_available_rows
+secondary_regional,Philippines,sarscov2,4,test,persistence,46,2474.891304347826,3801.87883472278,0.5479258067618247,330.0652173913044,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,test,recent_mean4,46,3365.7228260869565,4685.44350758514,0.7451504603780376,654.6032608695652,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,test,seasonal_naive52,46,23975.0,54749.734221312414,5.307918450413092,21367.08695652174,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,test,persistence,50,2315.78,3651.1370365955863,0.5126995365629877,271.58,model_available_rows
+secondary_regional,Philippines,sarscov2,4,test,recent_mean4,47,3302.994680851064,4635.730395152694,0.7312628324548764,649.5585106382979,model_available_rows
+secondary_regional,Philippines,sarscov2,4,test,seasonal_naive52,51,22977.764705882353,52178.9572574097,5.087136651995983,20625.529411764706,model_available_rows
+secondary_regional,Philippines,sarscov2,4,train,persistence,53,24930.811320754718,35089.283066120624,5.519529234335831,454.50943396226415,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,train,recent_mean4,53,33890.93396226415,47077.21036737475,7.503245617519648,702.8018867924528,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,train,seasonal_naive52,53,37496.22641509434,48520.94915231471,8.301435328865317,-35942.07547169811,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,train,persistence,101,14959.069306930693,25761.035246093954,3.311846505746219,-169.54455445544554,model_available_rows
+secondary_regional,Philippines,sarscov2,4,train,recent_mean4,97,21267.278350515466,35269.6677230058,4.708445428436786,-332.9329896907216,model_available_rows
+secondary_regional,Philippines,sarscov2,4,train,seasonal_naive52,53,37496.22641509434,48520.94915231471,8.301435328865317,-35942.07547169811,model_available_rows
+secondary_regional,Philippines,sarscov2,4,validation,persistence,52,29879.25,67073.13906317836,6.615083310094072,-109.32692307692308,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,validation,recent_mean4,52,33465.966346153844,65782.3956791059,7.409160384969909,-189.35096153846155,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,validation,seasonal_naive52,52,50785.096153846156,69429.58609585908,11.243509859478747,22365.55769230769,common_baseline_rows
+secondary_regional,Philippines,sarscov2,4,validation,persistence,52,29879.25,67073.13906317836,6.615083310094072,-109.32692307692308,model_available_rows
+secondary_regional,Philippines,sarscov2,4,validation,recent_mean4,52,33465.966346153844,65782.3956791059,7.409160384969909,-189.35096153846155,model_available_rows
+secondary_regional,Philippines,sarscov2,4,validation,seasonal_naive52,52,50785.096153846156,69429.58609585908,11.243509859478747,22365.55769230769,model_available_rows
+singapore_case_study,Singapore,influenza,1,test,persistence,52,11.961538461538462,15.093299583182343,6.688172043010752,-0.5,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,test,recent_mean4,52,17.322115384615383,21.304257655003358,9.68548387096774,-1.6298076923076923,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,test,seasonal_naive52,52,39.61538461538461,47.191915865717114,22.1505376344086,-37.65384615384615,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,test,persistence,52,11.961538461538462,15.093299583182343,6.688172043010752,-0.5,model_available_rows
+singapore_case_study,Singapore,influenza,1,test,recent_mean4,52,17.322115384615383,21.304257655003358,9.68548387096774,-1.6298076923076923,model_available_rows
+singapore_case_study,Singapore,influenza,1,test,seasonal_naive52,52,39.61538461538461,47.191915865717114,22.1505376344086,-37.65384615384615,model_available_rows
+singapore_case_study,Singapore,influenza,1,train,persistence,104,1.7884615384615385,8.293880969634271,1.0,0.25,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,train,recent_mean4,104,3.800480769230769,13.252154215302275,2.125,1.3389423076923077,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,train,seasonal_naive52,104,15.0,25.353652445115127,8.387096774193548,11.211538461538462,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,train,persistence,104,1.7884615384615385,8.293880969634271,1.0,0.25,model_available_rows
+singapore_case_study,Singapore,influenza,1,train,recent_mean4,104,3.800480769230769,13.252154215302275,2.125,1.3389423076923077,model_available_rows
+singapore_case_study,Singapore,influenza,1,train,seasonal_naive52,104,15.0,25.353652445115127,8.387096774193548,11.211538461538462,model_available_rows
+singapore_case_study,Singapore,influenza,1,validation,persistence,52,5.673076923076923,9.504047720677915,3.172043010752688,-0.36538461538461536,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,validation,recent_mean4,52,8.427884615384615,14.450886650998271,4.712365591397849,-1.3798076923076923,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,validation,seasonal_naive52,52,17.46153846153846,27.06544774317361,9.763440860215052,-17.46153846153846,common_baseline_rows
+singapore_case_study,Singapore,influenza,1,validation,persistence,52,5.673076923076923,9.504047720677915,3.172043010752688,-0.36538461538461536,model_available_rows
+singapore_case_study,Singapore,influenza,1,validation,recent_mean4,52,8.427884615384615,14.450886650998271,4.712365591397849,-1.3798076923076923,model_available_rows
+singapore_case_study,Singapore,influenza,1,validation,seasonal_naive52,52,17.46153846153846,27.06544774317361,9.763440860215052,-17.46153846153846,model_available_rows
+singapore_case_study,Singapore,influenza,2,test,persistence,52,15.403846153846153,19.039937782703777,8.61290322580645,-0.9038461538461539,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,test,recent_mean4,52,20.39423076923077,24.896902803978836,11.403225806451612,-2.0576923076923075,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,test,seasonal_naive52,52,39.61538461538461,47.191915865717114,22.1505376344086,-37.65384615384615,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,test,persistence,52,15.403846153846153,19.039937782703777,8.61290322580645,-0.9038461538461539,model_available_rows
+singapore_case_study,Singapore,influenza,2,test,recent_mean4,52,20.39423076923077,24.896902803978836,11.403225806451612,-2.0576923076923075,model_available_rows
+singapore_case_study,Singapore,influenza,2,test,seasonal_naive52,52,39.61538461538461,47.191915865717114,22.1505376344086,-37.65384615384615,model_available_rows
+singapore_case_study,Singapore,influenza,2,train,persistence,104,3.1826923076923075,12.374368670764582,1.779569892473118,0.6634615384615384,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,train,recent_mean4,104,4.372596153846154,14.642597072871382,2.4448924731182795,1.7475961538461537,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,train,seasonal_naive52,104,15.0,25.353652445115127,8.387096774193548,11.211538461538462,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,train,persistence,104,3.1826923076923075,12.374368670764582,1.779569892473118,0.6634615384615384,model_available_rows
+singapore_case_study,Singapore,influenza,2,train,recent_mean4,104,4.372596153846154,14.642597072871382,2.4448924731182795,1.7475961538461537,model_available_rows
+singapore_case_study,Singapore,influenza,2,train,seasonal_naive52,104,15.0,25.353652445115127,8.387096774193548,11.211538461538462,model_available_rows
+singapore_case_study,Singapore,influenza,2,validation,persistence,52,7.480769230769231,11.98797474394814,4.182795698924731,-0.7884615384615384,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,validation,recent_mean4,52,10.197115384615385,16.736827484047545,5.701612903225806,-1.7355769230769231,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,validation,seasonal_naive52,52,17.46153846153846,27.06544774317361,9.763440860215052,-17.46153846153846,common_baseline_rows
+singapore_case_study,Singapore,influenza,2,validation,persistence,52,7.480769230769231,11.98797474394814,4.182795698924731,-0.7884615384615384,model_available_rows
+singapore_case_study,Singapore,influenza,2,validation,recent_mean4,52,10.197115384615385,16.736827484047545,5.701612903225806,-1.7355769230769231,model_available_rows
+singapore_case_study,Singapore,influenza,2,validation,seasonal_naive52,52,17.46153846153846,27.06544774317361,9.763440860215052,-17.46153846153846,model_available_rows
+singapore_case_study,Singapore,influenza,4,test,persistence,52,20.692307692307693,24.92990172463582,11.56989247311828,-1.9230769230769231,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,test,recent_mean4,52,25.60096153846154,31.241595023548086,14.314516129032258,-2.8125,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,test,seasonal_naive52,52,39.61538461538461,47.191915865717114,22.1505376344086,-37.65384615384615,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,test,persistence,52,20.692307692307693,24.92990172463582,11.56989247311828,-1.9230769230769231,model_available_rows
+singapore_case_study,Singapore,influenza,4,test,recent_mean4,52,25.60096153846154,31.241595023548086,14.314516129032258,-2.8125,model_available_rows
+singapore_case_study,Singapore,influenza,4,test,seasonal_naive52,52,39.61538461538461,47.191915865717114,22.1505376344086,-37.65384615384615,model_available_rows
+singapore_case_study,Singapore,influenza,4,train,persistence,104,4.269230769230769,15.60695111406847,2.387096774193548,1.5576923076923077,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,train,recent_mean4,104,5.3389423076923075,16.747219200856556,2.9852150537634405,2.3774038461538463,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,train,seasonal_naive52,104,15.0,25.353652445115127,8.387096774193548,11.211538461538462,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,train,persistence,104,4.269230769230769,15.60695111406847,2.387096774193548,1.5576923076923077,model_available_rows
+singapore_case_study,Singapore,influenza,4,train,recent_mean4,104,5.3389423076923075,16.747219200856556,2.9852150537634405,2.3774038461538463,model_available_rows
+singapore_case_study,Singapore,influenza,4,train,seasonal_naive52,104,15.0,25.353652445115127,8.387096774193548,11.211538461538462,model_available_rows
+singapore_case_study,Singapore,influenza,4,validation,persistence,52,10.096153846153847,17.118927895977958,5.645161290322581,-1.5576923076923077,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,validation,recent_mean4,52,13.028846153846153,20.02582467331006,7.284946236559139,-2.3365384615384617,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,validation,seasonal_naive52,52,17.46153846153846,27.06544774317361,9.763440860215052,-17.46153846153846,common_baseline_rows
+singapore_case_study,Singapore,influenza,4,validation,persistence,52,10.096153846153847,17.118927895977958,5.645161290322581,-1.5576923076923077,model_available_rows
+singapore_case_study,Singapore,influenza,4,validation,recent_mean4,52,13.028846153846153,20.02582467331006,7.284946236559139,-2.3365384615384617,model_available_rows
+singapore_case_study,Singapore,influenza,4,validation,seasonal_naive52,52,17.46153846153846,27.06544774317361,9.763440860215052,-17.46153846153846,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,test,persistence,52,4054.923076923077,6323.949578327674,5.734301487585326,-591.8461538461538,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,test,recent_mean4,52,6332.826923076923,10114.120402052347,8.955617198335645,-2582.6153846153848,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,test,seasonal_naive52,52,30470.134615384617,43508.003594608446,43.089581463653424,23069.673076923078,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,test,persistence,52,4054.923076923077,6323.949578327674,5.734301487585326,-591.8461538461538,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,test,recent_mean4,52,6332.826923076923,10114.120402052347,8.955617198335645,-2582.6153846153848,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,test,seasonal_naive52,52,30470.134615384617,43508.003594608446,43.089581463653424,23069.673076923078,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,train,persistence,53,1067.698113207547,2063.5826695245973,1.5098937175163158,-45.471698113207545,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,train,recent_mean4,53,2944.6556603773583,5582.694111172051,4.164208053618956,-184.6179245283019,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,train,seasonal_naive52,53,4951.698113207547,8642.42011659339,7.002482986233511,-3076.867924528302,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,train,persistence,104,707.1346153846154,1557.5533883922913,1.0,-24.28846153846154,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,train,recent_mean4,100,1971.84,4185.901940890398,2.788493105980256,-100.555,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,train,seasonal_naive52,53,4951.698113207547,8642.42011659339,7.002482986233511,-3076.867924528302,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,validation,persistence,52,8657.076923076924,11982.420488750626,12.24247368850453,-111.5,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,validation,recent_mean4,52,24275.639423076922,32339.183879083037,34.329587174675694,-319.30288461538464,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,validation,seasonal_naive52,52,32948.519230769234,45534.87372481245,46.59440863724131,-32698.673076923078,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,1,validation,persistence,52,8657.076923076924,11982.420488750626,12.24247368850453,-111.5,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,validation,recent_mean4,52,24275.639423076922,32339.183879083037,34.329587174675694,-319.30288461538464,model_available_rows
+singapore_case_study,Singapore,sarscov2,1,validation,seasonal_naive52,52,32948.519230769234,45534.87372481245,46.59440863724131,-32698.673076923078,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,test,persistence,52,5098.403846153846,8531.271287941881,7.209948056892659,-1607.5961538461538,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,test,recent_mean4,52,7569.745192307692,11442.866917099574,10.704814935683011,-2973.3990384615386,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,test,seasonal_naive52,52,30470.134615384617,43508.003594608446,43.089581463653424,23069.673076923078,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,test,persistence,52,5098.403846153846,8531.271287941881,7.209948056892659,-1607.5961538461538,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,test,recent_mean4,52,7569.745192307692,11442.866917099574,10.704814935683011,-2973.3990384615386,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,test,seasonal_naive52,52,30470.134615384617,43508.003594608446,43.089581463653424,23069.673076923078,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,train,persistence,53,1884.0377358490566,3611.6530893395407,2.6643268408297556,-78.75471698113208,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,train,recent_mean4,53,3576.2830188679245,6826.316708808804,5.057428870064237,-295.58490566037733,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,train,seasonal_naive52,53,4951.698113207547,8642.42011659339,7.002482986233511,-3076.867924528302,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,train,persistence,103,1244.485436893204,2710.4790140189048,1.7598989072488267,-42.52427184466019,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,train,recent_mean4,99,2407.348484848485,5128.319615334071,3.40437086867698,-161.25252525252526,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,train,seasonal_naive52,53,4951.698113207547,8642.42011659339,7.002482986233511,-3076.867924528302,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,validation,persistence,52,16395.326923076922,22284.192901022914,23.185581028527917,-181.25,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,validation,recent_mean4,52,29204.64423076923,38452.65556496191,41.299978243724674,-395.71153846153845,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,validation,seasonal_naive52,52,32948.519230769234,45534.87372481245,46.59440863724131,-32698.673076923078,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,2,validation,persistence,52,16395.326923076922,22284.192901022914,23.185581028527917,-181.25,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,validation,recent_mean4,52,29204.64423076923,38452.65556496191,41.299978243724674,-395.71153846153845,model_available_rows
+singapore_case_study,Singapore,sarscov2,2,validation,seasonal_naive52,52,32948.519230769234,45534.87372481245,46.59440863724131,-32698.673076923078,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,test,persistence,52,7488.403846153846,11728.785102506108,10.5897854287346,-2974.096153846154,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,test,recent_mean4,52,9695.365384615385,12996.140543963871,13.710777514889452,-3228.778846153846,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,test,seasonal_naive52,52,30470.134615384617,43508.003594608446,43.089581463653424,23069.673076923078,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,test,persistence,52,7488.403846153846,11728.785102506108,10.5897854287346,-2974.096153846154,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,test,recent_mean4,52,9695.365384615385,12996.140543963871,13.710777514889452,-3228.778846153846,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,test,seasonal_naive52,52,30470.134615384617,43508.003594608446,43.089581463653424,23069.673076923078,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,train,persistence,53,3423.7169811320755,6523.486018241219,4.841676403112995,-203.11320754716982,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,train,recent_mean4,53,4532.88679245283,8639.336946490743,6.410217649983607,-704.2924528301887,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,train,seasonal_naive52,53,4951.698113207547,8642.42011659339,7.002482986233511,-3076.867924528302,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,train,persistence,101,2290.207920792079,4869.852368307371,3.2387156150550194,-109.65346534653466,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,train,recent_mean4,97,3089.4201030927834,6537.90718296907,4.36892783336936,-388.3943298969072,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,train,seasonal_naive52,53,4951.698113207547,8642.42011659339,7.002482986233511,-3076.867924528302,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,validation,persistence,52,28720.69230769231,37993.49297222841,40.615593810339675,-379.7307692307692,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,validation,recent_mean4,52,35801.91346153846,46369.63248356684,50.62955861956433,-418.7692307692308,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,validation,seasonal_naive52,52,32948.519230769234,45534.87372481245,46.59440863724131,-32698.673076923078,common_baseline_rows
+singapore_case_study,Singapore,sarscov2,4,validation,persistence,52,28720.69230769231,37993.49297222841,40.615593810339675,-379.7307692307692,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,validation,recent_mean4,52,35801.91346153846,46369.63248356684,50.62955861956433,-418.7692307692308,model_available_rows
+singapore_case_study,Singapore,sarscov2,4,validation,seasonal_naive52,52,32948.519230769234,45534.87372481245,46.59440863724131,-32698.673076923078,model_available_rows
