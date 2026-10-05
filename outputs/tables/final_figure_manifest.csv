@@ -1,0 +1,6 @@
+figure,png,pdf,purpose
+Figure 1,figure_01_overall_model_ranking.png,figure_01_overall_model_ranking.pdf,Overall forecasting model ranking
+Figure 2,figure_02_cross_pathogen_effect_by_pathogen.png,figure_02_cross_pathogen_effect_by_pathogen.pdf,Cross-pathogen effect by pathogen
+Figure 3,figure_03_cross_pathogen_effect_by_horizon.png,figure_03_cross_pathogen_effect_by_horizon.pdf,Cross-pathogen effect by forecast horizon
+Figure 4,figure_04_uncertainty_calibration.png,figure_04_uncertainty_calibration.pdf,Probabilistic calibration sensitivity
+Figure 5,figure_05_singapore_cross_pathogen_effect.png,figure_05_singapore_cross_pathogen_effect.pdf,Singapore two-pathogen case study
