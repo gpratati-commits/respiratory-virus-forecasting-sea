@@ -1,0 +1,13 @@
+forecast_method,target_pathogen,forecast_horizon_weeks,m2_rows,m3_rows,matched_rows,targets_identical
+Negative Binomial,influenza,1,52,52,52,True
+Negative Binomial,influenza,2,52,52,52,True
+Negative Binomial,influenza,4,52,52,52,True
+Negative Binomial,sarscov2,1,52,52,52,True
+Negative Binomial,sarscov2,2,52,52,52,True
+Negative Binomial,sarscov2,4,52,52,52,True
+XGBoost,influenza,1,52,52,52,True
+XGBoost,influenza,2,52,52,52,True
+XGBoost,influenza,4,52,52,52,True
+XGBoost,sarscov2,1,52,52,52,True
+XGBoost,sarscov2,2,52,52,52,True
+XGBoost,sarscov2,4,52,52,52,True

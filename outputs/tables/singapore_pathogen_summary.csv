@@ -1,0 +1,3 @@
+country,pathogen,activity_column,start_date,end_date,non_missing_weeks,zero_weeks,mean_activity,median_activity,maximum_activity
+Singapore,influenza,influenza_positive,2020-01-06,2023-12-25,208,102,19.841346153846153,1.0,105.0
+Singapore,sarscov2,sarscov2_cases,2020-01-06,2023-12-25,208,2,14060.16826923077,4931.5,128242.0
