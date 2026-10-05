@@ -1,0 +1,10 @@
+domain,subgroup,metric,value,interpretation
+cross_pathogen_information,Ensemble,m3_mae_win_fraction,0.5185185185185185,M3 improved MAE in this fraction of matched M2-vs-M3 comparisons.
+cross_pathogen_information,Negative Binomial,m3_mae_win_fraction,0.6296296296296297,M3 improved MAE in this fraction of matched M2-vs-M3 comparisons.
+cross_pathogen_information,XGBoost,m3_mae_win_fraction,0.48148148148148145,M3 improved MAE in this fraction of matched M2-vs-M3 comparisons.
+overall_model_ranking,M2,best_mean_mae_rank_method,1.8148148148148149,Baseline: Persistence had the lowest mean MAE rank.
+overall_model_ranking,M3,best_mean_mae_rank_method,2.111111111111111,Baseline: Persistence had the lowest mean MAE rank.
+ensemble,M2,ensemble_beats_both_fraction,0.2962962962962963,Fraction of test comparisons in which the ensemble beat both NB and XGBoost.
+ensemble,M3,ensemble_beats_both_fraction,0.25925925925925924,Fraction of test comparisons in which the ensemble beat both NB and XGBoost.
+uncertainty_calibration,M2,wis_change_pct,108.97533499142165,Positive WIS change means validation-based recalibration worsened probabilistic performance.
+uncertainty_calibration,M3,wis_change_pct,116.13032209846267,Positive WIS change means validation-based recalibration worsened probabilistic performance.

@@ -1,0 +1,3 @@
+model,comparisons,ensemble_beats_nb,ensemble_beats_xgb,ensemble_beats_both,median_vs_best_component_improvement_pct,mean_vs_best_component_improvement_pct,ensemble_beats_nb_fraction,ensemble_beats_xgb_fraction,ensemble_beats_both_fraction
+M2,27,20,15,8,-5.8027446541153855,-142.83439112631046,0.7407407407407407,0.5555555555555556,0.2962962962962963
+M3,27,20,14,7,-2.706136362589768,-345.5119978814602,0.7407407407407407,0.5185185185185185,0.25925925925925924
