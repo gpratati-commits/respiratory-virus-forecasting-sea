@@ -1,0 +1,9 @@
+country,pathogen,peak_iso_week,peak_mean_relative_activity
+Brunei Darussalam,Influenza,40,0.0688555092651021
+Brunei Darussalam,RSV,1,0.0670480549199084
+Brunei Darussalam,SARS-CoV-2,53,0.1162790697674418
+Indonesia,Influenza,3,0.0404951317807946
+Indonesia,SARS-CoV-2,53,0.0679231724047821
+Malaysia,Influenza,2,0.0353572678226623
+Malaysia,RSV,21,0.0354299615056721
+Malaysia,SARS-CoV-2,53,0.1274553440210956

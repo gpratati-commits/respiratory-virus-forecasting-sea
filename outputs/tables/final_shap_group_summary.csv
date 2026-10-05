@@ -1,0 +1,4 @@
+feature_group,n,mean_relative_importance_pct,median_relative_importance_pct,q1_relative_importance_pct,q3_relative_importance_pct,feature_group_display
+seasonality,27,11.627595139874352,10.46977949142456,7.45889613032341,15.747379302978516,Seasonality
+other_pathogen_activity,27,21.927541404134697,16.029260456562042,5.5991154462099075,36.802937775850296,Other-pathogen activity
+own_pathogen_history,27,55.333751374924624,67.97927665710449,37.65450243651867,78.93442894518375,Own-pathogen history

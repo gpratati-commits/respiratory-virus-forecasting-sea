@@ -1,0 +1,8 @@
+figure,png,pdf,role,purpose
+Figure 1,figure_01_regional_seasonality.png,figure_01_regional_seasonality.pdf,Main manuscript,Regional respiratory-virus seasonality
+Figure 2,figure_02_overall_model_ranking.png,figure_02_overall_model_ranking.pdf,Main manuscript,Overall forecasting-model ranking
+Figure 3,figure_03_cross_pathogen_effect_by_pathogen.png,figure_03_cross_pathogen_effect_by_pathogen.pdf,Main manuscript,Cross-pathogen effect by target pathogen
+Figure 4,figure_04_cross_pathogen_effect_by_horizon.png,figure_04_cross_pathogen_effect_by_horizon.pdf,Main manuscript,Cross-pathogen effect by forecast horizon
+Figure 5,figure_05_grouped_shap_importance.png,figure_05_grouped_shap_importance.pdf,Main manuscript,Grouped XGBoost SHAP importance
+Figure 6,figure_06_singapore_cross_pathogen_effect.png,figure_06_singapore_cross_pathogen_effect.pdf,Main manuscript,Singapore influenza–SARS-CoV-2 case study
+Supplementary Figure S1,supplementary_figure_s1_uncertainty_calibration.png,supplementary_figure_s1_uncertainty_calibration.pdf,Supplementary,Probabilistic uncertainty calibration sensitivity
