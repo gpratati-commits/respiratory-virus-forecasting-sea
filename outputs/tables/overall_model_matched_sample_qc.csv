@@ -1,0 +1,325 @@
+country,target_pathogen,forecast_horizon_weeks,information_set,forecast_method,n
+Brunei Darussalam,influenza,1,M2,Baseline: Persistence,27
+Brunei Darussalam,influenza,1,M2,Baseline: Recent mean (4 weeks),27
+Brunei Darussalam,influenza,1,M2,Baseline: Seasonal naive (52 weeks),27
+Brunei Darussalam,influenza,1,M2,Ensemble,27
+Brunei Darussalam,influenza,1,M2,Negative Binomial,27
+Brunei Darussalam,influenza,1,M2,XGBoost,27
+Brunei Darussalam,influenza,1,M3,Baseline: Persistence,27
+Brunei Darussalam,influenza,1,M3,Baseline: Recent mean (4 weeks),27
+Brunei Darussalam,influenza,1,M3,Baseline: Seasonal naive (52 weeks),27
+Brunei Darussalam,influenza,1,M3,Ensemble,27
+Brunei Darussalam,influenza,1,M3,Negative Binomial,27
+Brunei Darussalam,influenza,1,M3,XGBoost,27
+Brunei Darussalam,influenza,2,M2,Baseline: Persistence,28
+Brunei Darussalam,influenza,2,M2,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,influenza,2,M2,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,influenza,2,M2,Ensemble,28
+Brunei Darussalam,influenza,2,M2,Negative Binomial,28
+Brunei Darussalam,influenza,2,M2,XGBoost,28
+Brunei Darussalam,influenza,2,M3,Baseline: Persistence,28
+Brunei Darussalam,influenza,2,M3,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,influenza,2,M3,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,influenza,2,M3,Ensemble,28
+Brunei Darussalam,influenza,2,M3,Negative Binomial,28
+Brunei Darussalam,influenza,2,M3,XGBoost,28
+Brunei Darussalam,influenza,4,M2,Baseline: Persistence,28
+Brunei Darussalam,influenza,4,M2,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,influenza,4,M2,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,influenza,4,M2,Ensemble,28
+Brunei Darussalam,influenza,4,M2,Negative Binomial,28
+Brunei Darussalam,influenza,4,M2,XGBoost,28
+Brunei Darussalam,influenza,4,M3,Baseline: Persistence,28
+Brunei Darussalam,influenza,4,M3,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,influenza,4,M3,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,influenza,4,M3,Ensemble,28
+Brunei Darussalam,influenza,4,M3,Negative Binomial,28
+Brunei Darussalam,influenza,4,M3,XGBoost,28
+Brunei Darussalam,rsv,1,M2,Baseline: Persistence,27
+Brunei Darussalam,rsv,1,M2,Baseline: Recent mean (4 weeks),27
+Brunei Darussalam,rsv,1,M2,Baseline: Seasonal naive (52 weeks),27
+Brunei Darussalam,rsv,1,M2,Ensemble,27
+Brunei Darussalam,rsv,1,M2,Negative Binomial,27
+Brunei Darussalam,rsv,1,M2,XGBoost,27
+Brunei Darussalam,rsv,1,M3,Baseline: Persistence,27
+Brunei Darussalam,rsv,1,M3,Baseline: Recent mean (4 weeks),27
+Brunei Darussalam,rsv,1,M3,Baseline: Seasonal naive (52 weeks),27
+Brunei Darussalam,rsv,1,M3,Ensemble,27
+Brunei Darussalam,rsv,1,M3,Negative Binomial,27
+Brunei Darussalam,rsv,1,M3,XGBoost,27
+Brunei Darussalam,rsv,2,M2,Baseline: Persistence,28
+Brunei Darussalam,rsv,2,M2,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,rsv,2,M2,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,rsv,2,M2,Ensemble,28
+Brunei Darussalam,rsv,2,M2,Negative Binomial,28
+Brunei Darussalam,rsv,2,M2,XGBoost,28
+Brunei Darussalam,rsv,2,M3,Baseline: Persistence,28
+Brunei Darussalam,rsv,2,M3,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,rsv,2,M3,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,rsv,2,M3,Ensemble,28
+Brunei Darussalam,rsv,2,M3,Negative Binomial,28
+Brunei Darussalam,rsv,2,M3,XGBoost,28
+Brunei Darussalam,rsv,4,M2,Baseline: Persistence,28
+Brunei Darussalam,rsv,4,M2,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,rsv,4,M2,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,rsv,4,M2,Ensemble,28
+Brunei Darussalam,rsv,4,M2,Negative Binomial,28
+Brunei Darussalam,rsv,4,M2,XGBoost,28
+Brunei Darussalam,rsv,4,M3,Baseline: Persistence,28
+Brunei Darussalam,rsv,4,M3,Baseline: Recent mean (4 weeks),28
+Brunei Darussalam,rsv,4,M3,Baseline: Seasonal naive (52 weeks),28
+Brunei Darussalam,rsv,4,M3,Ensemble,28
+Brunei Darussalam,rsv,4,M3,Negative Binomial,28
+Brunei Darussalam,rsv,4,M3,XGBoost,28
+Brunei Darussalam,sarscov2,1,M2,Baseline: Persistence,36
+Brunei Darussalam,sarscov2,1,M2,Baseline: Recent mean (4 weeks),36
+Brunei Darussalam,sarscov2,1,M2,Baseline: Seasonal naive (52 weeks),36
+Brunei Darussalam,sarscov2,1,M2,Ensemble,36
+Brunei Darussalam,sarscov2,1,M2,Negative Binomial,36
+Brunei Darussalam,sarscov2,1,M2,XGBoost,36
+Brunei Darussalam,sarscov2,1,M3,Baseline: Persistence,36
+Brunei Darussalam,sarscov2,1,M3,Baseline: Recent mean (4 weeks),36
+Brunei Darussalam,sarscov2,1,M3,Baseline: Seasonal naive (52 weeks),36
+Brunei Darussalam,sarscov2,1,M3,Ensemble,36
+Brunei Darussalam,sarscov2,1,M3,Negative Binomial,36
+Brunei Darussalam,sarscov2,1,M3,XGBoost,36
+Brunei Darussalam,sarscov2,2,M2,Baseline: Persistence,36
+Brunei Darussalam,sarscov2,2,M2,Baseline: Recent mean (4 weeks),36
+Brunei Darussalam,sarscov2,2,M2,Baseline: Seasonal naive (52 weeks),36
+Brunei Darussalam,sarscov2,2,M2,Ensemble,36
+Brunei Darussalam,sarscov2,2,M2,Negative Binomial,36
+Brunei Darussalam,sarscov2,2,M2,XGBoost,36
+Brunei Darussalam,sarscov2,2,M3,Baseline: Persistence,36
+Brunei Darussalam,sarscov2,2,M3,Baseline: Recent mean (4 weeks),36
+Brunei Darussalam,sarscov2,2,M3,Baseline: Seasonal naive (52 weeks),36
+Brunei Darussalam,sarscov2,2,M3,Ensemble,36
+Brunei Darussalam,sarscov2,2,M3,Negative Binomial,36
+Brunei Darussalam,sarscov2,2,M3,XGBoost,36
+Brunei Darussalam,sarscov2,4,M2,Baseline: Persistence,37
+Brunei Darussalam,sarscov2,4,M2,Baseline: Recent mean (4 weeks),37
+Brunei Darussalam,sarscov2,4,M2,Baseline: Seasonal naive (52 weeks),37
+Brunei Darussalam,sarscov2,4,M2,Ensemble,37
+Brunei Darussalam,sarscov2,4,M2,Negative Binomial,37
+Brunei Darussalam,sarscov2,4,M2,XGBoost,37
+Brunei Darussalam,sarscov2,4,M3,Baseline: Persistence,37
+Brunei Darussalam,sarscov2,4,M3,Baseline: Recent mean (4 weeks),37
+Brunei Darussalam,sarscov2,4,M3,Baseline: Seasonal naive (52 weeks),37
+Brunei Darussalam,sarscov2,4,M3,Ensemble,37
+Brunei Darussalam,sarscov2,4,M3,Negative Binomial,37
+Brunei Darussalam,sarscov2,4,M3,XGBoost,37
+Indonesia,influenza,1,M2,Baseline: Persistence,24
+Indonesia,influenza,1,M2,Baseline: Recent mean (4 weeks),24
+Indonesia,influenza,1,M2,Baseline: Seasonal naive (52 weeks),24
+Indonesia,influenza,1,M2,Ensemble,24
+Indonesia,influenza,1,M2,Negative Binomial,24
+Indonesia,influenza,1,M2,XGBoost,24
+Indonesia,influenza,1,M3,Baseline: Persistence,24
+Indonesia,influenza,1,M3,Baseline: Recent mean (4 weeks),24
+Indonesia,influenza,1,M3,Baseline: Seasonal naive (52 weeks),24
+Indonesia,influenza,1,M3,Ensemble,24
+Indonesia,influenza,1,M3,Negative Binomial,24
+Indonesia,influenza,1,M3,XGBoost,24
+Indonesia,influenza,2,M2,Baseline: Persistence,24
+Indonesia,influenza,2,M2,Baseline: Recent mean (4 weeks),24
+Indonesia,influenza,2,M2,Baseline: Seasonal naive (52 weeks),24
+Indonesia,influenza,2,M2,Ensemble,24
+Indonesia,influenza,2,M2,Negative Binomial,24
+Indonesia,influenza,2,M2,XGBoost,24
+Indonesia,influenza,2,M3,Baseline: Persistence,24
+Indonesia,influenza,2,M3,Baseline: Recent mean (4 weeks),24
+Indonesia,influenza,2,M3,Baseline: Seasonal naive (52 weeks),24
+Indonesia,influenza,2,M3,Ensemble,24
+Indonesia,influenza,2,M3,Negative Binomial,24
+Indonesia,influenza,2,M3,XGBoost,24
+Indonesia,influenza,4,M2,Baseline: Persistence,24
+Indonesia,influenza,4,M2,Baseline: Recent mean (4 weeks),24
+Indonesia,influenza,4,M2,Baseline: Seasonal naive (52 weeks),24
+Indonesia,influenza,4,M2,Ensemble,24
+Indonesia,influenza,4,M2,Negative Binomial,24
+Indonesia,influenza,4,M2,XGBoost,24
+Indonesia,influenza,4,M3,Baseline: Persistence,24
+Indonesia,influenza,4,M3,Baseline: Recent mean (4 weeks),24
+Indonesia,influenza,4,M3,Baseline: Seasonal naive (52 weeks),24
+Indonesia,influenza,4,M3,Ensemble,24
+Indonesia,influenza,4,M3,Negative Binomial,24
+Indonesia,influenza,4,M3,XGBoost,24
+Indonesia,rsv,1,M2,Baseline: Persistence,24
+Indonesia,rsv,1,M2,Baseline: Recent mean (4 weeks),24
+Indonesia,rsv,1,M2,Baseline: Seasonal naive (52 weeks),24
+Indonesia,rsv,1,M2,Ensemble,24
+Indonesia,rsv,1,M2,Negative Binomial,24
+Indonesia,rsv,1,M2,XGBoost,24
+Indonesia,rsv,1,M3,Baseline: Persistence,24
+Indonesia,rsv,1,M3,Baseline: Recent mean (4 weeks),24
+Indonesia,rsv,1,M3,Baseline: Seasonal naive (52 weeks),24
+Indonesia,rsv,1,M3,Ensemble,24
+Indonesia,rsv,1,M3,Negative Binomial,24
+Indonesia,rsv,1,M3,XGBoost,24
+Indonesia,rsv,2,M2,Baseline: Persistence,24
+Indonesia,rsv,2,M2,Baseline: Recent mean (4 weeks),24
+Indonesia,rsv,2,M2,Baseline: Seasonal naive (52 weeks),24
+Indonesia,rsv,2,M2,Ensemble,24
+Indonesia,rsv,2,M2,Negative Binomial,24
+Indonesia,rsv,2,M2,XGBoost,24
+Indonesia,rsv,2,M3,Baseline: Persistence,24
+Indonesia,rsv,2,M3,Baseline: Recent mean (4 weeks),24
+Indonesia,rsv,2,M3,Baseline: Seasonal naive (52 weeks),24
+Indonesia,rsv,2,M3,Ensemble,24
+Indonesia,rsv,2,M3,Negative Binomial,24
+Indonesia,rsv,2,M3,XGBoost,24
+Indonesia,rsv,4,M2,Baseline: Persistence,24
+Indonesia,rsv,4,M2,Baseline: Recent mean (4 weeks),24
+Indonesia,rsv,4,M2,Baseline: Seasonal naive (52 weeks),24
+Indonesia,rsv,4,M2,Ensemble,24
+Indonesia,rsv,4,M2,Negative Binomial,24
+Indonesia,rsv,4,M2,XGBoost,24
+Indonesia,rsv,4,M3,Baseline: Persistence,24
+Indonesia,rsv,4,M3,Baseline: Recent mean (4 weeks),24
+Indonesia,rsv,4,M3,Baseline: Seasonal naive (52 weeks),24
+Indonesia,rsv,4,M3,Ensemble,24
+Indonesia,rsv,4,M3,Negative Binomial,24
+Indonesia,rsv,4,M3,XGBoost,24
+Indonesia,sarscov2,1,M2,Baseline: Persistence,13
+Indonesia,sarscov2,1,M2,Baseline: Recent mean (4 weeks),13
+Indonesia,sarscov2,1,M2,Baseline: Seasonal naive (52 weeks),13
+Indonesia,sarscov2,1,M2,Ensemble,13
+Indonesia,sarscov2,1,M2,Negative Binomial,13
+Indonesia,sarscov2,1,M2,XGBoost,13
+Indonesia,sarscov2,1,M3,Baseline: Persistence,13
+Indonesia,sarscov2,1,M3,Baseline: Recent mean (4 weeks),13
+Indonesia,sarscov2,1,M3,Baseline: Seasonal naive (52 weeks),13
+Indonesia,sarscov2,1,M3,Ensemble,13
+Indonesia,sarscov2,1,M3,Negative Binomial,13
+Indonesia,sarscov2,1,M3,XGBoost,13
+Indonesia,sarscov2,2,M2,Baseline: Persistence,15
+Indonesia,sarscov2,2,M2,Baseline: Recent mean (4 weeks),15
+Indonesia,sarscov2,2,M2,Baseline: Seasonal naive (52 weeks),15
+Indonesia,sarscov2,2,M2,Ensemble,15
+Indonesia,sarscov2,2,M2,Negative Binomial,15
+Indonesia,sarscov2,2,M2,XGBoost,15
+Indonesia,sarscov2,2,M3,Baseline: Persistence,15
+Indonesia,sarscov2,2,M3,Baseline: Recent mean (4 weeks),15
+Indonesia,sarscov2,2,M3,Baseline: Seasonal naive (52 weeks),15
+Indonesia,sarscov2,2,M3,Ensemble,15
+Indonesia,sarscov2,2,M3,Negative Binomial,15
+Indonesia,sarscov2,2,M3,XGBoost,15
+Indonesia,sarscov2,4,M2,Baseline: Persistence,15
+Indonesia,sarscov2,4,M2,Baseline: Recent mean (4 weeks),15
+Indonesia,sarscov2,4,M2,Baseline: Seasonal naive (52 weeks),15
+Indonesia,sarscov2,4,M2,Ensemble,15
+Indonesia,sarscov2,4,M2,Negative Binomial,15
+Indonesia,sarscov2,4,M2,XGBoost,15
+Indonesia,sarscov2,4,M3,Baseline: Persistence,15
+Indonesia,sarscov2,4,M3,Baseline: Recent mean (4 weeks),15
+Indonesia,sarscov2,4,M3,Baseline: Seasonal naive (52 weeks),15
+Indonesia,sarscov2,4,M3,Ensemble,15
+Indonesia,sarscov2,4,M3,Negative Binomial,15
+Indonesia,sarscov2,4,M3,XGBoost,15
+Malaysia,influenza,1,M2,Baseline: Persistence,49
+Malaysia,influenza,1,M2,Baseline: Recent mean (4 weeks),49
+Malaysia,influenza,1,M2,Baseline: Seasonal naive (52 weeks),49
+Malaysia,influenza,1,M2,Ensemble,49
+Malaysia,influenza,1,M2,Negative Binomial,49
+Malaysia,influenza,1,M2,XGBoost,49
+Malaysia,influenza,1,M3,Baseline: Persistence,49
+Malaysia,influenza,1,M3,Baseline: Recent mean (4 weeks),49
+Malaysia,influenza,1,M3,Baseline: Seasonal naive (52 weeks),49
+Malaysia,influenza,1,M3,Ensemble,49
+Malaysia,influenza,1,M3,Negative Binomial,49
+Malaysia,influenza,1,M3,XGBoost,49
+Malaysia,influenza,2,M2,Baseline: Persistence,49
+Malaysia,influenza,2,M2,Baseline: Recent mean (4 weeks),49
+Malaysia,influenza,2,M2,Baseline: Seasonal naive (52 weeks),49
+Malaysia,influenza,2,M2,Ensemble,49
+Malaysia,influenza,2,M2,Negative Binomial,49
+Malaysia,influenza,2,M2,XGBoost,49
+Malaysia,influenza,2,M3,Baseline: Persistence,49
+Malaysia,influenza,2,M3,Baseline: Recent mean (4 weeks),49
+Malaysia,influenza,2,M3,Baseline: Seasonal naive (52 weeks),49
+Malaysia,influenza,2,M3,Ensemble,49
+Malaysia,influenza,2,M3,Negative Binomial,49
+Malaysia,influenza,2,M3,XGBoost,49
+Malaysia,influenza,4,M2,Baseline: Persistence,49
+Malaysia,influenza,4,M2,Baseline: Recent mean (4 weeks),49
+Malaysia,influenza,4,M2,Baseline: Seasonal naive (52 weeks),49
+Malaysia,influenza,4,M2,Ensemble,49
+Malaysia,influenza,4,M2,Negative Binomial,49
+Malaysia,influenza,4,M2,XGBoost,49
+Malaysia,influenza,4,M3,Baseline: Persistence,49
+Malaysia,influenza,4,M3,Baseline: Recent mean (4 weeks),49
+Malaysia,influenza,4,M3,Baseline: Seasonal naive (52 weeks),49
+Malaysia,influenza,4,M3,Ensemble,49
+Malaysia,influenza,4,M3,Negative Binomial,49
+Malaysia,influenza,4,M3,XGBoost,49
+Malaysia,rsv,1,M2,Baseline: Persistence,48
+Malaysia,rsv,1,M2,Baseline: Recent mean (4 weeks),48
+Malaysia,rsv,1,M2,Baseline: Seasonal naive (52 weeks),48
+Malaysia,rsv,1,M2,Ensemble,48
+Malaysia,rsv,1,M2,Negative Binomial,48
+Malaysia,rsv,1,M2,XGBoost,48
+Malaysia,rsv,1,M3,Baseline: Persistence,48
+Malaysia,rsv,1,M3,Baseline: Recent mean (4 weeks),48
+Malaysia,rsv,1,M3,Baseline: Seasonal naive (52 weeks),48
+Malaysia,rsv,1,M3,Ensemble,48
+Malaysia,rsv,1,M3,Negative Binomial,48
+Malaysia,rsv,1,M3,XGBoost,48
+Malaysia,rsv,2,M2,Baseline: Persistence,48
+Malaysia,rsv,2,M2,Baseline: Recent mean (4 weeks),48
+Malaysia,rsv,2,M2,Baseline: Seasonal naive (52 weeks),48
+Malaysia,rsv,2,M2,Ensemble,48
+Malaysia,rsv,2,M2,Negative Binomial,48
+Malaysia,rsv,2,M2,XGBoost,48
+Malaysia,rsv,2,M3,Baseline: Persistence,48
+Malaysia,rsv,2,M3,Baseline: Recent mean (4 weeks),48
+Malaysia,rsv,2,M3,Baseline: Seasonal naive (52 weeks),48
+Malaysia,rsv,2,M3,Ensemble,48
+Malaysia,rsv,2,M3,Negative Binomial,48
+Malaysia,rsv,2,M3,XGBoost,48
+Malaysia,rsv,4,M2,Baseline: Persistence,48
+Malaysia,rsv,4,M2,Baseline: Recent mean (4 weeks),48
+Malaysia,rsv,4,M2,Baseline: Seasonal naive (52 weeks),48
+Malaysia,rsv,4,M2,Ensemble,48
+Malaysia,rsv,4,M2,Negative Binomial,48
+Malaysia,rsv,4,M2,XGBoost,48
+Malaysia,rsv,4,M3,Baseline: Persistence,48
+Malaysia,rsv,4,M3,Baseline: Recent mean (4 weeks),48
+Malaysia,rsv,4,M3,Baseline: Seasonal naive (52 weeks),48
+Malaysia,rsv,4,M3,Ensemble,48
+Malaysia,rsv,4,M3,Negative Binomial,48
+Malaysia,rsv,4,M3,XGBoost,48
+Malaysia,sarscov2,1,M2,Baseline: Persistence,45
+Malaysia,sarscov2,1,M2,Baseline: Recent mean (4 weeks),45
+Malaysia,sarscov2,1,M2,Baseline: Seasonal naive (52 weeks),45
+Malaysia,sarscov2,1,M2,Ensemble,45
+Malaysia,sarscov2,1,M2,Negative Binomial,45
+Malaysia,sarscov2,1,M2,XGBoost,45
+Malaysia,sarscov2,1,M3,Baseline: Persistence,45
+Malaysia,sarscov2,1,M3,Baseline: Recent mean (4 weeks),45
+Malaysia,sarscov2,1,M3,Baseline: Seasonal naive (52 weeks),45
+Malaysia,sarscov2,1,M3,Ensemble,45
+Malaysia,sarscov2,1,M3,Negative Binomial,45
+Malaysia,sarscov2,1,M3,XGBoost,45
+Malaysia,sarscov2,2,M2,Baseline: Persistence,45
+Malaysia,sarscov2,2,M2,Baseline: Recent mean (4 weeks),45
+Malaysia,sarscov2,2,M2,Baseline: Seasonal naive (52 weeks),45
+Malaysia,sarscov2,2,M2,Ensemble,45
+Malaysia,sarscov2,2,M2,Negative Binomial,45
+Malaysia,sarscov2,2,M2,XGBoost,45
+Malaysia,sarscov2,2,M3,Baseline: Persistence,45
+Malaysia,sarscov2,2,M3,Baseline: Recent mean (4 weeks),45
+Malaysia,sarscov2,2,M3,Baseline: Seasonal naive (52 weeks),45
+Malaysia,sarscov2,2,M3,Ensemble,45
+Malaysia,sarscov2,2,M3,Negative Binomial,45
+Malaysia,sarscov2,2,M3,XGBoost,45
+Malaysia,sarscov2,4,M2,Baseline: Persistence,45
+Malaysia,sarscov2,4,M2,Baseline: Recent mean (4 weeks),45
+Malaysia,sarscov2,4,M2,Baseline: Seasonal naive (52 weeks),45
+Malaysia,sarscov2,4,M2,Ensemble,45
+Malaysia,sarscov2,4,M2,Negative Binomial,45
+Malaysia,sarscov2,4,M2,XGBoost,45
+Malaysia,sarscov2,4,M3,Baseline: Persistence,45
+Malaysia,sarscov2,4,M3,Baseline: Recent mean (4 weeks),45
+Malaysia,sarscov2,4,M3,Baseline: Seasonal naive (52 weeks),45
+Malaysia,sarscov2,4,M3,Ensemble,45
+Malaysia,sarscov2,4,M3,Negative Binomial,45
+Malaysia,sarscov2,4,M3,XGBoost,45
