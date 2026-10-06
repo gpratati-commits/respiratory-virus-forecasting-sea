@@ -371,9 +371,7 @@ respiratory-virus-forecasting-sea/
 │   ├── cross-pathogen analysis
 │   └── forecasting scripts
 │
-├── R/
-│   └── statistical and Bayesian modelling scripts
-│
+├
 ├── outputs/
 │   ├── figures/
 │   ├── tables/
@@ -381,7 +379,7 @@ respiratory-virus-forecasting-sea/
 │   └── models/
 │
 ├── manuscript/
-│   └── manuscript and research notes
+│   └── manuscript and research materials
 │
 ├── requirements.txt
 ├── .gitignore
