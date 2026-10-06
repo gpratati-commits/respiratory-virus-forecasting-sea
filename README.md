@@ -46,7 +46,7 @@ To develop and evaluate leakage-safe short-term forecasting models for influenza
 
 7. Develop probabilistic forecasts that quantify predictive uncertainty.
 
-8. Explore whether hierarchical modelling can borrow information across countries while retaining country-specific epidemic characteristics.
+8. Assess the robustness of forecasting conclusions across countries, pathogens, forecast horizons, and alternative evaluation conditions.
 
 9. Perform a dedicated Singapore analysis using pathogens for which sufficiently complete surveillance data are available.
 
@@ -256,51 +256,64 @@ Random train-test splitting is not used for the primary forecasting analysis.
 Predictors are created using only information that would have been available at the forecast origin.
 
 
-## Planned forecasting models
+## Forecasting models
 
 ### Epidemiological baselines
 
-Simple forecasting models provide the reference performance that more complex models must improve upon.
+Baseline forecasts were used as reference models against which the more complex statistical and machine-learning approaches were evaluated. These included persistence, recent moving-average, and seasonal-naive forecasts.
 
+Baseline forecasts were generated using leakage-safe features, with MASE scaling estimated from training data only. Missing baseline predictions were retained as missing rather than replaced with zero.
 
-### Statistical model
+### Regularized Negative Binomial model
 
-An interpretable statistical model such as a Generalised Additive Model or Negative Binomial regression will evaluate nonlinear seasonality and lagged pathogen relationships.
+An interpretable Negative Binomial generalized linear model was used for count forecasting.
 
+Three nested predictor sets were evaluated:
+
+- **M1:** target-pathogen activity at lags of 1, 2, 3, 4, and 8 weeks plus a 4-week rolling activity feature.
+- **M2:** M1 plus annual seasonal sine and cosine terms.
+- **M3:** M2 plus historical activity of the other available respiratory pathogens at lags of 1, 2, and 4 weeks and a 4-week rolling activity feature.
+
+The Negative Binomial model used an NB2 variance parameterization. L2 ridge regularization was applied, with penalty strength selected using validation data only. The final model was refitted using the combined training and validation data before evaluation on the held-out test period.
 
 ### XGBoost
 
-Gradient-boosted decision trees will be used to investigate whether nonlinear relationships and interactions improve predictive performance.
+Gradient-boosted regression trees were used as a nonlinear machine-learning forecasting approach.
 
+Six prespecified hyperparameter configurations were compared using validation-set performance. A maximum of 2000 boosting rounds was allowed, with early stopping after 100 rounds without validation improvement.
 
-### Bayesian hierarchical model
-
-A hierarchical model will allow countries to retain country-specific characteristics while borrowing information across the regional dataset.
-
+The test set was not used for hyperparameter selection or early stopping. After model selection, the final XGBoost model was refitted using the combined training and validation data and evaluated on the held-out test set.
 
 ### Ensemble forecasting
 
-Predictions from complementary models may be combined to assess whether an ensemble improves forecast robustness.
+Negative Binomial and XGBoost forecasts were combined using a convex weighted ensemble.
 
+Candidate Negative Binomial weights ranged from 0.0 to 1.0 in increments of 0.1, with the corresponding XGBoost weight equal to one minus the Negative Binomial weight.
+
+Weights were selected using validation macro scaled mean absolute error. Validation selected an equal-weight combination for both M2 and M3:
+
+- Negative Binomial weight = 0.5
+- XGBoost weight = 0.5
+
+The held-out test set was reserved for final evaluation and was not used to select ensemble weights.
 
 ## Probabilistic forecasting
 
-Where feasible, the project will generate predictive intervals in addition to point forecasts.
+Predictive uncertainty was evaluated in addition to point forecasting performance.
 
-Forecast uncertainty will be evaluated using appropriate probabilistic forecasting metrics such as interval coverage and Weighted Interval Score.
-
+Prediction intervals were assessed using interval coverage and Weighted Interval Score (WIS). Calibration procedures were based on development data, while the test set remained reserved for final evaluation.
 
 ## Forecast evaluation
 
-Forecast performance will be assessed separately by:
+Forecast performance was evaluated separately by:
 
 - pathogen
 - country
 - forecast horizon
 - model
-- information set
+- predictor set
 
-Candidate evaluation metrics include:
+Evaluation metrics included:
 
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
@@ -308,34 +321,21 @@ Candidate evaluation metrics include:
 - prediction-interval coverage
 - Weighted Interval Score (WIS)
 
+The principal M2-versus-M3 comparison assessed whether historical activity of other respiratory pathogens added predictive information beyond target-pathogen history and seasonality.
 
 ## Machine-learning interpretation
 
-SHAP-based interpretation will be used for XGBoost models to investigate which variables contribute most strongly to predictions.
+SHAP-based interpretation was used to examine the contribution of predictors to XGBoost forecasts.
 
-Potential predictors include:
+Predictors assessed included recent target-pathogen activity, seasonal terms, and historical activity of co-circulating respiratory pathogens.
 
-- recent target-pathogen activity
-- seasonal variables
-- recent influenza activity
-- recent RSV activity
-- recent SARS-CoV-2 activity
+SHAP values were interpreted as measures of predictive contribution rather than evidence of causal relationships between pathogens.
 
-SHAP values will be interpreted as measures of predictive contribution rather than causal effects.
+## Sensitivity and robustness analyses
 
+Sensitivity and robustness analyses were used to examine whether conclusions depended strongly on analytical choices and data availability.
 
-## Sensitivity analyses
-
-Sensitivity analyses will assess whether conclusions depend strongly on analytical choices such as:
-
-- surveillance completeness thresholds
-- lag definitions
-- training windows
-- inclusion or exclusion of selected pandemic periods
-- country selection
-- alternative outcome definitions
-- pathogen-specific surveillance availability
-
+These analyses considered factors including surveillance completeness, temporal availability, forecast horizons, pathogen-specific data availability, and alternative evaluation conditions.
 
 ## Reproducibility principles
 
